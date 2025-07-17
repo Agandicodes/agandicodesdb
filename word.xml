@@ -318,4 +318,353 @@
         <answer>If I had studied medicine, I would have been a doctor</answer>
         <options>doctor,studied,If,had,medicine,I,would,been,teacher</options>
     </question>
+        <!-- Daily routines -->
+    <question>
+        <id>51</id>
+        <prompt>What do you do before going to bed?</prompt>
+        <answer>I read a book before sleeping</answer>
+        <options>sleeping,watch,book,read,I,a,before,TV</options>
+    </question>
+    <question>
+        <id>52</id>
+        <prompt>When do you usually exercise?</prompt>
+        <answer>I usually exercise in the evening</answer>
+        <options>morning,exercise,usually,in,I,evening,the</options>
+    </question>
+
+    <!-- Food and drinks -->
+    <question>
+        <id>53</id>
+        <prompt>What do you drink with meals?</prompt>
+        <answer>I drink water with my meals</answer>
+        <options>juice,water,meals,drink,with,I,my,coffee</options>
+    </question>
+    <question>
+        <id>54</id>
+        <prompt>How do you like your coffee?</prompt>
+        <answer>I like my coffee with milk</answer>
+        <options>sugar,milk,with,like,coffee,I,my,black</options>
+    </question>
+
+    <!-- Hobbies -->
+    <question>
+        <id>55</id>
+        <prompt>What hobby do you enjoy most?</prompt>
+        <answer>I enjoy playing the guitar</answer>
+        <options>guitar,playing,enjoy,piano,I,the,watching</options>
+    </question>
+    <question>
+        <id>56</id>
+        <prompt>How often do you go swimming?</prompt>
+        <answer>I go swimming twice a week</answer>
+        <options>month,swimming,twice,go,a,I,week,once</options>
+    </question>
+
+    <!-- Shopping -->
+    <question>
+        <id>57</id>
+        <prompt>Where do you buy groceries?</prompt>
+        <answer>I buy groceries at the supermarket</answer>
+        <options>market,supermarket,groceries,buy,at,I,the,online</options>
+    </question>
+    <question>
+        <id>58</id>
+        <prompt>What did you last purchase?</prompt>
+        <answer>I bought a new pair of shoes</answer>
+        <options>shoes,pair,new,bought,a,I,of,shirt</options>
+    </question>
+
+    <!-- Travel -->
+    <question>
+        <id>59</id>
+        <prompt>How do you prefer to travel?</prompt>
+        <answer>I prefer to travel by train</answer>
+        <options>car,travel,by,prefer,train,I,to,plane</options>
+    </question>
+    <question>
+        <id>60</id>
+        <prompt>What's your dream vacation?</prompt>
+        <answer>My dream vacation is visiting Japan</answer>
+        <options>Japan,visiting,vacation,is,dream,My,Italy</options>
+    </question>
+
+    <!-- Technology -->
+    <question>
+        <id>61</id>
+        <prompt>How often do you use your phone?</prompt>
+        <answer>I use my phone every day</answer>
+        <options>computer,phone,use,my,every,I,day,week</options>
+    </question>
+    <question>
+        <id>62</id>
+        <prompt>What app do you use most?</prompt>
+        <answer>I use WhatsApp the most</answer>
+        <options>Instagram,use,most,WhatsApp,the,I,Facebook</options>
+    </question>
+
+    <!-- Health -->
+    <question>
+        <id>63</id>
+        <prompt>How do you stay healthy?</prompt>
+        <answer>I stay healthy by exercising regularly</answer>
+        <options>regularly,eating,healthy,by,stay,I,exercising</options>
+    </question>
+    <question>
+        <id>64</id>
+        <prompt>How many hours do you sleep?</prompt>
+        <answer>I sleep eight hours every night</answer>
+        <options>seven,night,hours,sleep,eight,I,every,day</options>
+    </question>
+
+    <!-- Work/Study -->
+    <question>
+        <id>65</id>
+        <prompt>Where do you work or study?</prompt>
+        <answer>I study at the university</answer>
+        <options>home,university,study,at,I,the,school</options>
+    </question>
+    <question>
+        <id>66</id>
+        <prompt>What time do you start work?</prompt>
+        <answer>I start work at nine o'clock</answer>
+        <options>nine,o'clock,work,start,at,I,eight</options>
+    </question>
+
+    <!-- Family -->
+    <question>
+        <id>67</id>
+        <prompt>How many siblings do you have?</prompt>
+        <answer>I have two brothers and one sister</answer>
+        <options>one,sister,brothers,two,and,have,I</options>
+    </question>
+    <question>
+        <id>68</id>
+        <prompt>What does your father do?</prompt>
+        <answer>My father works as a teacher</answer>
+        <options>teacher,works,as,father,a,My,doctor</options>
+    </question>
+
+    <!-- Weather -->
+    <question>
+        <id>69</id>
+        <prompt>What's the weather like today?</prompt>
+        <answer>It is cloudy and windy today</answer>
+        <options>sunny,windy,cloudy,is,and,It,today</options>
+    </question>
+    <question>
+        <id>70</id>
+        <prompt>What's your favorite season?</prompt>
+        <answer>My favorite season is autumn</answer>
+        <options>winter,season,autumn,is,favorite,My,summer</options>
+    </question>
+
+    <!-- Past experiences -->
+    <question>
+        <id>71</id>
+        <prompt>Where were you born?</prompt>
+        <answer>I was born in New York</answer>
+        <options>York,New,in,born,was,I,London</options>
+    </question>
+    <question>
+        <id>72</id>
+        <prompt>What was your first job?</prompt>
+        <answer>My first job was a waiter</answer>
+        <options>teacher,waiter,was,job,first,My,a</options>
+    </question>
+
+    <!-- Future plans -->
+    <question>
+        <id>73</id>
+        <prompt>Where do you want to live?</prompt>
+        <answer>I want to live near the beach</answer>
+        <options>city,beach,live,near,to,want,I,the</options>
+    </question>
+    <question>
+        <id>74</id>
+        <prompt>What will you learn next?</prompt>
+        <answer>I will learn to play piano</answer>
+        <options>guitar,piano,play,learn,will,to,I</options>
+    </question>
+
+    <!-- Opinions -->
+    <question>
+        <id>75</id>
+        <prompt>What do you think about social media?</prompt>
+        <answer>I think social media is useful</answer>
+        <options>dangerous,media,social,think,is,I,useful</options>
+    </question>
+    <question>
+        <id>76</id>
+        <prompt>How important is money?</prompt>
+        <answer>Money is important but not everything</answer>
+        <options>everything,important,Money,is,but,not,happiness</options>
+    </question>
+
+    <!-- Comparisons -->
+    <question>
+        <id>77</id>
+        <prompt>Compare city and country life</prompt>
+        <answer>City life is busier than country life</answer>
+        <options>quieter,life,City,than,is,busier,country</options>
+    </question>
+    <question>
+        <id>78</id>
+        <prompt>Which is healthier: apples or candy?</prompt>
+        <answer>Apples are healthier than candy</answer>
+        <options>candy,healthier,Apples,than,sweeter,are</options>
+    </question>
+
+    <!-- Advice -->
+    <question>
+        <id>79</id>
+        <prompt>What should I do to improve my English?</prompt>
+        <answer>You should practice every day</answer>
+        <options>week,day,every,practice,should,You,month</options>
+    </question>
+    <question>
+        <id>80</id>
+        <prompt>How can I make new friends?</prompt>
+        <answer>You can join social clubs</answer>
+        <options>sports,clubs,social,join,can,You,avoid</options>
+    </question>
+
+    <!-- Hypotheticals -->
+    <question>
+        <id>81</id>
+        <prompt>What would you do if you won the lottery?</prompt>
+        <answer>I would buy a big house</answer>
+        <options>car,house,big,buy,would,I,a</options>
+    </question>
+    <question>
+        <id>82</id>
+        <prompt>Where would you live if you could choose?</prompt>
+        <answer>I would live in Hawaii</answer>
+        <options>Hawaii,in,live,would,I,Paris</options>
+    </question>
+
+    <!-- Experiences -->
+    <question>
+        <id>83</id>
+        <prompt>Have you ever broken a bone?</prompt>
+        <answer>I have never broken any bones</answer>
+        <options>bones,never,broken,have,any,I,arm</options>
+    </question>
+    <question>
+        <id>84</id>
+        <prompt>Have you visited many countries?</prompt>
+        <answer>I have visited five countries</answer>
+        <options>cities,countries,five,visited,have,I</options>
+    </question>
+
+    <!-- Descriptions -->
+    <question>
+        <id>85</id>
+        <prompt>Describe your best friend</prompt>
+        <answer>My best friend is kind and funny</answer>
+        <options>serious,funny,friend,and,kind,best,is,My</options>
+    </question>
+    <question>
+        <id>86</id>
+        <prompt>What does your room look like?</prompt>
+        <answer>My room is small but comfortable</answer>
+        <options>big,comfortable,room,but,is,My,small</options>
+    </question>
+
+    <!-- Instructions -->
+    <question>
+        <id>87</id>
+        <prompt>How do you make a sandwich?</prompt>
+        <answer>First you take two slices of bread</answer>
+        <options>bread,slices,First,take,two,you,of</options>
+    </question>
+    <question>
+        <id>88</id>
+        <prompt>What's the recipe for scrambled eggs?</prompt>
+        <answer>You need eggs, milk, and butter</answer>
+        <options>butter,flour,need,eggs,You,milk,and</options>
+    </question>
+
+    <!-- Quantities -->
+    <question>
+        <id>89</id>
+        <prompt>How much water should you drink?</prompt>
+        <answer>You should drink eight glasses daily</answer>
+        <options>cups,glasses,eight,drink,daily,should,You</options>
+    </question>
+    <question>
+        <id>90</id>
+        <prompt>How many languages do you speak?</prompt>
+        <answer>I speak three languages fluently</answer>
+        <options>fluently,well,languages,three,speak,I</options>
+    </question>
+
+    <!-- Preferences -->
+    <question>
+        <id>91</id>
+        <prompt>Which do you prefer: tea or coffee?</prompt>
+        <answer>I prefer tea to coffee</answer>
+        <options>juice,coffee,tea,prefer,to,I</options>
+    </question>
+    <question>
+        <id>92</id>
+        <prompt>Do you like spicy food?</prompt>
+        <answer>I love spicy food very much</answer>
+        <options>sweet,much,very,food,spicy,love,I</options>
+    </question>
+
+    <!-- Memories -->
+    <question>
+        <id>93</id>
+        <prompt>What's your earliest memory?</prompt>
+        <answer>My earliest memory is learning to walk</answer>
+        <options>talk,walk,learning,memory,earliest,is,My</options>
+    </question>
+    <question>
+        <id>94</id>
+        <prompt>What was your favorite childhood toy?</prompt>
+        <answer>My favorite toy was a teddy bear</answer>
+        <options>doll,bear,teddy,was,toy,favorite,My,a</options>
+    </question>
+
+    <!-- Current activities -->
+    <question>
+        <id>95</id>
+        <prompt>What are you reading now?</prompt>
+        <answer>I am reading an interesting novel</answer>
+        <options>magazine,novel,interesting,reading,an,am,I</options>
+    </question>
+    <question>
+        <id>96</id>
+        <prompt>What music are you listening to?</prompt>
+        <answer>I am listening to pop music</answer>
+        <options>jazz,music,pop,to,listening,am,I</options>
+    </question>
+
+    <!-- Problems -->
+    <question>
+        <id>97</id>
+        <prompt>What's bothering you today?</prompt>
+        <answer>I have a terrible headache</answer>
+        <options>cold,headache,terrible,a,have,I</options>
+    </question>
+    <question>
+        <id>98</id>
+        <prompt>Why are you stressed?</prompt>
+        <answer>I have too much work to do</answer>
+        <options>work,much,too,have,do,to,I</options>
+    </question>
+
+    <!-- Achievements -->
+    <question>
+        <id>99</id>
+        <prompt>What are you proud of?</prompt>
+        <answer>I am proud of my cooking skills</answer>
+        <options>drawing,skills,cooking,of,proud,am,my,I</options>
+    </question>
+    <question>
+        <id>100</id>
+        <prompt>What's your greatest achievement?</prompt>
+        <answer>My greatest achievement is graduating university</answer>
+        <options>university,graduating,achievement,greatest,is,My,job</options>
+    </question>
 </questions>
