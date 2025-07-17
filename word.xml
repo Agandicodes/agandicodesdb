@@ -1,0 +1,321 @@
+<questions>
+    <!-- Basic present simple sentences -->
+    <question>
+        <id>1</id>
+        <prompt>What do you do in the morning?</prompt>
+        <answer>I brush my teeth</answer>
+        <options>teeth,my,face,brush,I,wash,hands</options>
+    </question>
+    <question>
+        <id>2</id>
+        <prompt>What does a dog say?</prompt>
+        <answer>A dog barks</answer>
+        <options>barks,cat,A,meows,dog,chirps</options>
+    </question>
+    <question>
+        <id>3</id>
+        <prompt>Complete: I ___ to school every day</prompt>
+        <answer>I go to school every day</answer>
+        <options>day,run,go,I,every,school,to,home</options>
+    </question>
+    <question>
+        <id>4</id>
+        <prompt>What do you eat for breakfast?</prompt>
+        <answer>I eat cereal for breakfast</answer>
+        <options>dinner,for,eat,cereal,I,soup,breakfast</options>
+    </question>
+    <question>
+        <id>5</id>
+        <prompt>Describe what you see (sun)</prompt>
+        <answer>The sun is shining</answer>
+        <options>cloudy,shining,The,moon,is,sun,raining</options>
+    </question>
+
+    <!-- Present continuous -->
+    <question>
+        <id>6</id>
+        <prompt>What are you doing now?</prompt>
+        <answer>I am learning English</answer>
+        <options>sleeping,learning,English,math,I,am,studying</options>
+    </question>
+    <question>
+        <id>7</id>
+        <prompt>What is the cat doing?</prompt>
+        <answer>The cat is sleeping</answer>
+        <options>running,The,sleeping,is,dog,cat,eating</options>
+    </question>
+    <question>
+        <id>8</id>
+        <prompt>What are the children doing?</prompt>
+        <answer>The children are playing</answer>
+        <options>playing,studying,are,The,kids,children,sleeping</options>
+    </question>
+    <question>
+        <id>9</id>
+        <prompt>What is happening outside?</prompt>
+        <answer>It is raining outside</answer>
+        <options>inside,sunny,raining,It,is,outside,snowing</options>
+    </question>
+    <question>
+        <id>10</id>
+        <prompt>What is your mother doing?</prompt>
+        <answer>My mother is cooking dinner</answer>
+        <options>lunch,dinner,father,My,cooking,is,mother,working</options>
+    </question>
+
+    <!-- Simple past -->
+    <question>
+        <id>11</id>
+        <prompt>What did you do yesterday?</prompt>
+        <answer>I watched a movie</answer>
+        <options>book,watched,a,I,read,movie,TV</options>
+    </question>
+    <question>
+        <id>12</id>
+        <prompt>Where did you go last weekend?</prompt>
+        <answer>I went to the park</answer>
+        <options>park,beach,went,I,shopping,to,mall,the</options>
+    </question>
+    <question>
+        <id>13</id>
+        <prompt>What did you eat for lunch?</prompt>
+        <answer>I ate a sandwich</answer>
+        <options>drank,ate,salad,I,pizza,a,sandwich</options>
+    </question>
+    <question>
+        <id>14</id>
+        <prompt>What time did you wake up?</prompt>
+        <answer>I woke up at seven</answer>
+        <options>seven,eight,I,at,woke,bed,up</options>
+    </question>
+    <question>
+        <id>15</id>
+        <prompt>What did you buy at the store?</prompt>
+        <answer>I bought some milk</answer>
+        <options>some,juice,bought,I,milk,store,the</options>
+    </question>
+
+    <!-- Future with will/going to -->
+    <question>
+        <id>16</id>
+        <prompt>What will you do tomorrow?</prompt>
+        <answer>I will visit my friend</answer>
+        <options>friend,visit,my,I,will,see,doctor</options>
+    </question>
+    <question>
+        <id>17</id>
+        <prompt>What are you going to do tonight?</prompt>
+        <answer>I am going to study</answer>
+        <options>sleep,study,going,party,I,am,to</options>
+    </question>
+    <question>
+        <id>18</id>
+        <prompt>When will you finish your work?</prompt>
+        <answer>I will finish soon</answer>
+        <options>later,finish,never,I,will,soon,work</options>
+    </question>
+    <question>
+        <id>19</id>
+        <prompt>Where are you going to travel?</prompt>
+        <answer>I am going to travel to Spain</answer>
+        <options>France,travel,Spain,I,am,going,to,home</options>
+    </question>
+    <question>
+        <id>20</id>
+        <prompt>What will the weather be like?</prompt>
+        <answer>It will be sunny tomorrow</answer>
+        <options>cloudy,tomorrow,be,It,will,sunny,rainy</options>
+    </question>
+
+    <!-- Present perfect -->
+    <question>
+        <id>21</id>
+        <prompt>Have you ever been to Paris?</prompt>
+        <answer>I have never been to Paris</answer>
+        <options>visited,never,Paris,have,I,to,been,London</options>
+    </question>
+    <question>
+        <id>22</id>
+        <prompt>Have you finished your homework?</prompt>
+        <answer>I have just finished it</answer>
+        <options>it,yet,finished,have,I,just,started</options>
+    </question>
+    <question>
+        <id>23</id>
+        <prompt>How long have you lived here?</prompt>
+        <answer>I have lived here for five years</answer>
+        <options>years,months,five,for,here,I,lived,have</options>
+    </question>
+    <question>
+        <id>24</id>
+        <prompt>Have you seen this movie before?</prompt>
+        <answer>I have already seen it</answer>
+        <options>it,seen,watched,have,I,already,never</options>
+    </question>
+    <question>
+        <id>25</id>
+        <prompt>Why are you tired?</prompt>
+        <answer>I have worked all day</answer>
+        <options>night,worked,all,day,I,have,slept</options>
+    </question>
+
+    <!-- Modal verbs -->
+    <question>
+        <id>26</id>
+        <prompt>What can you do with a computer?</prompt>
+        <answer>I can write emails</answer>
+        <options>cook,write,emails,can,I,read,books</options>
+    </question>
+    <question>
+        <id>27</id>
+        <prompt>What should you do when sick?</prompt>
+        <answer>You should see a doctor</answer>
+        <options>sleep,see,doctor,should,You,a,exercise</options>
+    </question>
+    <question>
+        <id>28</id>
+        <prompt>What must you do before driving?</prompt>
+        <answer>You must wear a seatbelt</answer>
+        <options>seatbelt,eat,wear,must,a,You,phone</options>
+    </question>
+    <question>
+        <id>29</id>
+        <prompt>Where could we go for dinner?</prompt>
+        <answer>We could go to an Italian restaurant</answer>
+        <options>home,go,Italian,to,We,an,could,restaurant</options>
+    </question>
+    <question>
+        <id>30</id>
+        <prompt>What may happen if you study hard?</prompt>
+        <answer>You may get good grades</answer>
+        <options>bad,grades,get,may,You,good,tired</options>
+    </question>
+
+    <!-- Comparatives/superlatives -->
+    <question>
+        <id>31</id>
+        <prompt>Compare an elephant and a mouse</prompt>
+        <answer>An elephant is bigger than a mouse</answer>
+        <options>mouse,bigger,An,than,elephant,a,is,smaller</options>
+    </question>
+    <question>
+        <id>32</id>
+        <prompt>What is the highest mountain?</prompt>
+        <answer>Mount Everest is the highest mountain</answer>
+        <options>mountain,high,highest,Everest,the,Mount,is,K2</options>
+    </question>
+    <question>
+        <id>33</id>
+        <prompt>Compare two cars</prompt>
+        <answer>The red car is faster than the blue car</answer>
+        <options>blue,car,The,than,red,is,faster,slower</options>
+    </question>
+    <question>
+        <id>34</id>
+        <prompt>Who is the tallest in your family?</prompt>
+        <answer>My brother is the tallest in my family</answer>
+        <options>sister,tallest,My,is,brother,shortest,the,family</options>
+    </question>
+    <question>
+        <id>35</id>
+        <prompt>Which season is colder?</prompt>
+        <answer>Winter is colder than summer</answer>
+        <options>summer,hotter,Winter,than,is,colder,spring</options>
+    </question>
+
+    <!-- Conditional sentences -->
+    <question>
+        <id>36</id>
+        <prompt>What will you do if it rains?</prompt>
+        <answer>If it rains, I will stay home</answer>
+        <options>go,home,If,stay,rains,I,it,will,out</options>
+    </question>
+    <question>
+        <id>37</id>
+        <prompt>What would you do with $1 million?</prompt>
+        <answer>I would travel around the world</answer>
+        <options>city,travel,around,I,would,work,world,the</options>
+    </question>
+    <question>
+        <id>38</id>
+        <prompt>What happens if you heat ice?</prompt>
+        <answer>If you heat ice, it melts</answer>
+        <options>melts,freezes,If,ice,it,you,heat,water</options>
+    </question>
+    <question>
+        <id>39</id>
+        <prompt>What would you have done differently?</prompt>
+        <answer>I would have studied harder</answer>
+        <options>harder,played,would,studied,I,have,less</options>
+    </question>
+    <question>
+        <id>40</id>
+        <prompt>What do you do when you're bored?</prompt>
+        <answer>When I am bored, I read books</answer>
+        <options>sleep,books,When,read,am,I,bored,TV</options>
+    </question>
+
+    <!-- Complex sentences -->
+    <question>
+        <id>41</id>
+        <prompt>Why were you late yesterday?</prompt>
+        <answer>I was late because I missed the bus</answer>
+        <options>train,late,was,because,I,the,missed,bus</options>
+    </question>
+    <question>
+        <id>42</id>
+        <prompt>Describe your favorite place</prompt>
+        <answer>My favorite place is the beach where I can relax</answer>
+        <options>city,beach,My,place,is,favorite,the,where,relax</options>
+    </question>
+    <question>
+        <id>43</id>
+        <prompt>What did you do after work?</prompt>
+        <answer>After I finished work, I went to the gym</answer>
+        <options>gym,finished,After,work,I,went,to,the,home</options>
+    </question>
+    <question>
+        <id>44</id>
+        <prompt>Why is learning English important?</prompt>
+        <answer>Learning English is important because it is an international language</answer>
+        <options>difficult,English,is,Learning,important,because,international,language</options>
+    </question>
+    <question>
+        <id>45</id>
+        <prompt>What will you do when you graduate?</prompt>
+        <answer>When I graduate, I will look for a good job</answer>
+        <options>job,look,When,good,for,I,graduate,will,a</options>
+    </question>
+
+    <!-- Advanced structures -->
+    <question>
+        <id>46</id>
+        <prompt>What have you been doing lately?</prompt>
+        <answer>I have been studying for my exams</answer>
+        <options>exams,playing,studying,have,for,I,been,my</options>
+    </question>
+    <question>
+        <id>47</id>
+        <prompt>What should have been done differently?</prompt>
+        <answer>The project should have been planned better</answer>
+        <options>better,project,The,have,planned,should,been,worse</options>
+    </question>
+    <question>
+        <id>48</id>
+        <prompt>What would you be doing now in another situation?</prompt>
+        <answer>If I had more time, I would be traveling</answer>
+        <options>traveling,time,If,had,more,I,would,be,working</options>
+    </question>
+    <question>
+        <id>49</id>
+        <prompt>What needs to be done to improve?</prompt>
+        <answer>More practice needs to be done to improve</answer>
+        <options>practice,More,needs,improve,be,to,done,less</options>
+    </question>
+    <question>
+        <id>50</id>
+        <prompt>What would you have been doing if you chose a different path?</prompt>
+        <answer>If I had studied medicine, I would have been a doctor</answer>
+        <options>doctor,studied,If,had,medicine,I,would,been,teacher</options>
+    </question>
+</questions>
