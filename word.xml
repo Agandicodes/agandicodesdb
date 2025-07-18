@@ -1,621 +1,702 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
-    <!-- 1-10: Basic Daily Activities -->
     <question>
         <id>1</id>
-        <prompt><hint><i>Hint: Uses toothpaste</i></hint><br/>What do you do in the morning?</prompt>
+        <hint>Uses toothpaste</hint>
+        <prompt>What do you do in the morning?</prompt>
         <answer>I brush my teeth</answer>
         <options>I,brush,my,teeth,face,wash,hands</options>
     </question>
     <question>
         <id>2</id>
-        <prompt><hint><i>Hint: First meal</i></hint><br/>What do you eat for breakfast?</prompt>
+        <hint>First meal</hint>
+        <prompt>What do you eat for breakfast?</prompt>
         <answer>I eat cereal</answer>
         <options>I,eat,cereal,toast,fruit,eggs,pancakes</options>
     </question>
     <question>
         <id>3</id>
-        <prompt><hint><i>Hint: Morning beverage</i></hint><br/>What do you drink in the morning?</prompt>
+        <hint>Morning beverage</hint>
+        <prompt>What do you drink in the morning?</prompt>
         <answer>I drink coffee</answer>
         <options>I,drink,coffee,tea,juice,water,milk</options>
     </question>
     <question>
         <id>4</id>
-        <prompt><hint><i>Hint: Getting ready</i></hint><br/>What do you do before leaving home?</prompt>
+        <hint>Getting ready</hint>
+        <prompt>What do you do before leaving home?</prompt>
         <answer>I put on shoes</answer>
         <options>I,put,on,shoes,coat,hat,glasses</options>
     </question>
     <question>
         <id>5</id>
-        <prompt><hint><i>Hint: Transportation</i></hint><br/>How do you go to work?</prompt>
+        <hint>Transportation</hint>
+        <prompt>How do you go to work?</prompt>
         <answer>I drive a car</answer>
         <options>I,drive,a,car,bus,train,bike</options>
     </question>
     <question>
         <id>6</id>
-        <prompt><hint><i>Hint: Midday meal</i></hint><br/>What do you eat at noon?</prompt>
+        <hint>Midday meal</hint>
+        <prompt>What do you eat at noon?</prompt>
         <answer>I eat lunch</answer>
         <options>I,eat,lunch,dinner,snack,breakfast,supper</options>
     </question>
     <question>
         <id>7</id>
-        <prompt><hint><i>Hint: Afternoon break</i></hint><br/>What do you do after lunch?</prompt>
+        <hint>Afternoon break</hint>
+        <prompt>What do you do after lunch?</prompt>
         <answer>I take a nap</answer>
         <options>I,take,a,nap,walk,shower,break</options>
     </question>
     <question>
         <id>8</id>
-        <prompt><hint><i>Hint: Evening meal</i></hint><br/>What do you eat at night?</prompt>
+        <hint>Evening meal</hint>
+        <prompt>What do you eat at night?</prompt>
         <answer>I eat dinner</answer>
         <options>I,eat,dinner,lunch,breakfast,snack,supper</options>
     </question>
     <question>
         <id>9</id>
-        <prompt><hint><i>Hint: Nighttime routine</i></hint><br/>What do you do before bed?</prompt>
+        <hint>Nighttime routine</hint>
+        <prompt>What do you do before bed?</prompt>
         <answer>I read a book</answer>
         <options>I,read,a,book,magazine,newspaper,letter</options>
     </question>
     <question>
         <id>10</id>
-        <prompt><hint><i>Hint: Sleeping action</i></hint><br/>What do you do at night?</prompt>
+        <hint>Sleeping action</hint>
+        <prompt>What do you do at night?</prompt>
         <answer>I go to sleep</answer>
         <options>I,go,to,sleep,work,play,exercise</options>
     </question>
-
-    <!-- 11-20: Animals -->
     <question>
         <id>11</id>
-        <prompt><hint><i>Hint: Dog sound</i></hint><br/>What does a dog say?</prompt>
+        <hint>Dog sound</hint>
+        <prompt>What does a dog say?</prompt>
         <answer>A dog barks</answer>
         <options>A,dog,barks,meows,moos,chirps,hisses</options>
     </question>
     <question>
         <id>12</id>
-        <prompt><hint><i>Hint: Cat sound</i></hint><br/>What does a cat say?</prompt>
+        <hint>Cat sound</hint>
+        <prompt>What does a cat say?</prompt>
         <answer>A cat meows</answer>
         <options>A,cat,meows,barks,oinks,neighs,quacks</options>
     </question>
     <question>
         <id>13</id>
-        <prompt><hint><i>Hint: Cow sound</i></hint><br/>What does a cow say?</prompt>
+        <hint>Cow sound</hint>
+        <prompt>What does a cow say?</prompt>
         <answer>A cow moos</answer>
         <options>A,cow,moos,barks,meows,clucks,howls</options>
     </question>
     <question>
         <id>14</id>
-        <prompt><hint><i>Hint: Bird sound</i></hint><br/>What does a bird say?</prompt>
+        <hint>Bird sound</hint>
+        <prompt>What does a bird say?</prompt>
         <answer>A bird chirps</answer>
         <options>A,bird,chirps,barks,meows,oinks,roars</options>
     </question>
     <question>
         <id>15</id>
-        <prompt><hint><i>Hint: Lion sound</i></hint><br/>What does a lion say?</prompt>
+        <hint>Lion sound</hint>
+        <prompt>What does a lion say?</prompt>
         <answer>A lion roars</answer>
         <options>A,lion,roars,meows,oinks,chirps,hisses</options>
     </question>
     <question>
         <id>16</id>
-        <prompt><hint><i>Hint: Duck sound</i></hint><br/>What does a duck say?</prompt>
+        <hint>Duck sound</hint>
+        <prompt>What does a duck say?</prompt>
         <answer>A duck quacks</answer>
         <options>A,duck,quacks,barks,meows,moos,howls</options>
     </question>
     <question>
         <id>17</id>
-        <prompt><hint><i>Hint: Pig sound</i></hint><br/>What does a pig say?</prompt>
+        <hint>Pig sound</hint>
+        <prompt>What does a pig say?</prompt>
         <answer>A pig oinks</answer>
         <options>A,pig,oinks,barks,meows,chirps,roars</options>
     </question>
     <question>
         <id>18</id>
-        <prompt><hint><i>Hint: Horse sound</i></hint><br/>What does a horse say?</prompt>
+        <hint>Horse sound</hint>
+        <prompt>What does a horse say?</prompt>
         <answer>A horse neighs</answer>
         <options>A,horse,neighs,oinks,meows,chirps,roars</options>
     </question>
     <question>
         <id>19</id>
-        <prompt><hint><i>Hint: Sheep sound</i></hint><br/>What does a sheep say?</prompt>
+        <hint>Sheep sound</hint>
+        <prompt>What does a sheep say?</prompt>
         <answer>A sheep baas</answer>
         <options>A,sheep,baas,oinks,meows,chirps,roars</options>
     </question>
     <question>
         <id>20</id>
-        <prompt><hint><i>Hint: Snake sound</i></hint><br/>What does a snake say?</prompt>
+        <hint>Snake sound</hint>
+        <prompt>What does a snake say?</prompt>
         <answer>A snake hisses</answer>
         <options>A,snake,hisses,oinks,meows,chirps,roars</options>
     </question>
-
-    <!-- 21-30: Food and Drink -->
     <question>
         <id>21</id>
-        <prompt><hint><i>Hint: Italian dish</i></hint><br/>What do you eat at an Italian restaurant?</prompt>
+        <hint>Italian dish</hint>
+        <prompt>What do you eat at an Italian restaurant?</prompt>
         <answer>I eat pasta</answer>
         <options>I,eat,pasta,sushi,tacos,curry,steak</options>
     </question>
     <question>
         <id>22</id>
-        <prompt><hint><i>Hint: Japanese dish</i></hint><br/>What do you eat at a Japanese restaurant?</prompt>
+        <hint>Japanese dish</hint>
+        <prompt>What do you eat at a Japanese restaurant?</prompt>
         <answer>I eat sushi</answer>
         <options>I,eat,sushi,pasta,tacos,curry,steak</options>
     </question>
     <question>
         <id>23</id>
-        <prompt><hint><i>Hint: Mexican dish</i></hint><br/>What do you eat at a Mexican restaurant?</prompt>
+        <hint>Mexican dish</hint>
+        <prompt>What do you eat at a Mexican restaurant?</prompt>
         <answer>I eat tacos</answer>
         <options>I,eat,tacos,pasta,sushi,curry,steak</options>
     </question>
     <question>
         <id>24</id>
-        <prompt><hint><i>Hint: Indian dish</i></hint><br/>What do you eat at an Indian restaurant?</prompt>
+        <hint>Indian dish</hint>
+        <prompt>What do you eat at an Indian restaurant?</prompt>
         <answer>I eat curry</answer>
         <options>I,eat,curry,pasta,sushi,tacos,steak</options>
     </question>
     <question>
         <id>25</id>
-        <prompt><hint><i>Hint: American dish</i></hint><br/>What do you eat at a steakhouse?</prompt>
+        <hint>American dish</hint>
+        <prompt>What do you eat at a steakhouse?</prompt>
         <answer>I eat steak</answer>
         <options>I,eat,steak,pasta,sushi,tacos,curry</options>
     </question>
     <question>
         <id>26</id>
-        <prompt><hint><i>Hint: Morning drink</i></hint><br/>What do you drink in the morning?</prompt>
+        <hint>Morning drink</hint>
+        <prompt>What do you drink in the morning?</prompt>
         <answer>I drink coffee</answer>
         <options>I,drink,coffee,tea,juice,water,milk</options>
     </question>
     <question>
         <id>27</id>
-        <prompt><hint><i>Hint: Afternoon drink</i></hint><br/>What do you drink in the afternoon?</prompt>
+        <hint>Afternoon drink</hint>
+        <prompt>What do you drink in the afternoon?</prompt>
         <answer>I drink tea</answer>
         <options>I,drink,tea,coffee,juice,water,milk</options>
     </question>
     <question>
         <id>28</id>
-        <prompt><hint><i>Hint: Healthy drink</i></hint><br/>What do you drink for health?</prompt>
+        <hint>Healthy drink</hint>
+        <prompt>What do you drink for health?</prompt>
         <answer>I drink water</answer>
         <options>I,drink,water,coffee,tea,juice,milk</options>
     </question>
     <question>
         <id>29</id>
-        <prompt><hint><i>Hint: Sweet drink</i></hint><br/>What do you drink for taste?</prompt>
+        <hint>Sweet drink</hint>
+        <prompt>What do you drink for taste?</prompt>
         <answer>I drink juice</answer>
         <options>I,drink,juice,coffee,tea,water,milk</options>
     </question>
     <question>
         <id>30</id>
-        <prompt><hint><i>Hint: Calcium-rich drink</i></hint><br/>What do you drink for bones?</prompt>
+        <hint>Calcium-rich drink</hint>
+        <prompt>What do you drink for bones?</prompt>
         <answer>I drink milk</answer>
         <options>I,drink,milk,coffee,tea,juice,water</options>
     </question>
-
-    <!-- 31-40: Weather -->
     <question>
         <id>31</id>
-        <prompt><hint><i>Hint: Bright weather</i></hint><br/>What is the weather like in summer?</prompt>
+        <hint>Bright weather</hint>
+        <prompt>What is the weather like in summer?</prompt>
         <answer>It is sunny</answer>
         <options>It,is,sunny,rainy,cloudy,snowy,windy</options>
     </question>
     <question>
         <id>32</id>
-        <prompt><hint><i>Hint: Wet weather</i></hint><br/>What is the weather like in spring?</prompt>
+        <hint>Wet weather</hint>
+        <prompt>What is the weather like in spring?</prompt>
         <answer>It is rainy</answer>
         <options>It,is,rainy,sunny,cloudy,snowy,windy</options>
     </question>
     <question>
         <id>33</id>
-        <prompt><hint><i>Hint: Gray weather</i></hint><br/>What is the weather like in autumn?</prompt>
+        <hint>Gray weather</hint>
+        <prompt>What is the weather like in autumn?</prompt>
         <answer>It is cloudy</answer>
         <options>It,is,cloudy,sunny,rainy,snowy,windy</options>
     </question>
     <question>
         <id>34</id>
-        <prompt><hint><i>Hint: Cold weather</i></hint><br/>What is the weather like in winter?</prompt>
+        <hint>Cold weather</hint>
+        <prompt>What is the weather like in winter?</prompt>
         <answer>It is snowy</answer>
         <options>It,is,snowy,sunny,rainy,cloudy,windy</options>
     </question>
     <question>
         <id>35</id>
-        <prompt><hint><i>Hint: Breezy weather</i></hint><br/>What is the weather like at the beach?</prompt>
+        <hint>Breezy weather</hint>
+        <prompt>What is the weather like at the beach?</prompt>
         <answer>It is windy</answer>
         <options>It,is,windy,sunny,rainy,cloudy,snowy</options>
     </question>
     <question>
         <id>36</id>
-        <prompt><hint><i>Hint: Stormy weather</i></hint><br/>What is the weather like during a storm?</prompt>
+        <hint>Stormy weather</hint>
+        <prompt>What is the weather like during a storm?</prompt>
         <answer>It is stormy</answer>
         <options>It,is,stormy,sunny,rainy,cloudy,snowy</options>
     </question>
     <question>
         <id>37</id>
-        <prompt><hint><i>Hint: Hot weather</i></hint><br/>What is the weather like in the desert?</prompt>
+        <hint>Hot weather</hint>
+        <prompt>What is the weather like in the desert?</prompt>
         <answer>It is hot</answer>
         <options>It,is,hot,cold,warm,cool,freezing</options>
     </question>
     <question>
         <id>38</id>
-        <prompt><hint><i>Hint: Cold weather</i></hint><br/>What is the weather like in the Arctic?</prompt>
+        <hint>Cold weather</hint>
+        <prompt>What is the weather like in the Arctic?</prompt>
         <answer>It is cold</answer>
         <options>It,is,cold,hot,warm,cool,freezing</options>
     </question>
     <question>
         <id>39</id>
-        <prompt><hint><i>Hint: Pleasant weather</i></hint><br/>What is the weather like in spring?</prompt>
+        <hint>Pleasant weather</hint>
+        <prompt>What is the weather like in spring?</prompt>
         <answer>It is warm</answer>
         <options>It,is,warm,hot,cold,cool,freezing</options>
     </question>
     <question>
         <id>40</id>
-        <prompt><hint><i>Hint: Chilly weather</i></hint><br/>What is the weather like in autumn?</prompt>
+        <hint>Chilly weather</hint>
+        <prompt>What is the weather like in autumn?</prompt>
         <answer>It is cool</answer>
         <options>It,is,cool,hot,cold,warm,freezing</options>
     </question>
-
-    <!-- 41-50: Transportation -->
     <question>
         <id>41</id>
-        <prompt><hint><i>Hint: Personal vehicle</i></hint><br/>How do you go to work?</prompt>
+        <hint>Personal vehicle</hint>
+        <prompt>How do you go to work?</prompt>
         <answer>I drive a car</answer>
         <options>I,drive,a,car,bus,train,bike</options>
     </question>
     <question>
         <id>42</id>
-        <prompt><hint><i>Hint: Public transportation</i></hint><br/>How do you go to the city?</prompt>
+        <hint>Public transportation</hint>
+        <prompt>How do you go to the city?</prompt>
         <answer>I take a bus</answer>
         <options>I,take,a,bus,car,train,bike</options>
     </question>
     <question>
         <id>43</id>
-        <prompt><hint><i>Hint: Rail transportation</i></hint><br/>How do you travel long distances?</prompt>
+        <hint>Rail transportation</hint>
+        <prompt>How do you travel long distances?</prompt>
         <answer>I ride a train</answer>
         <options>I,ride,a,train,bus,car,bike</options>
     </question>
     <question>
         <id>44</id>
-        <prompt><hint><i>Hint: Two-wheeled vehicle</i></hint><br/>How do you exercise while commuting?</prompt>
+        <hint>Two-wheeled vehicle</hint>
+        <prompt>How do you exercise while commuting?</prompt>
         <answer>I ride a bike</answer>
         <options>I,ride,a,bike,car,bus,train</options>
     </question>
     <question>
         <id>45</id>
-        <prompt><hint><i>Hint: Air transportation</i></hint><br/>How do you travel overseas?</prompt>
+        <hint>Air transportation</hint>
+        <prompt>How do you travel overseas?</prompt>
         <answer>I fly in a plane</answer>
         <options>I,fly,in,a,plane,car,bus,train</options>
     </question>
     <question>
         <id>46</id>
-        <prompt><hint><i>Hint: Water transportation</i></hint><br/>How do you cross the ocean?</prompt>
+        <hint>Water transportation</hint>
+        <prompt>How do you cross the ocean?</prompt>
         <answer>I sail on a ship</answer>
         <options>I,sail,on,a,ship,plane,car,bus</options>
     </question>
     <question>
         <id>47</id>
-        <prompt><hint><i>Hint: Underground transportation</i></hint><br/>How do you travel in big cities?</prompt>
+        <hint>Underground transportation</hint>
+        <prompt>How do you travel in big cities?</prompt>
         <answer>I take the subway</answer>
         <options>I,take,the,subway,bus,car,train</options>
     </question>
     <question>
         <id>48</id>
-        <prompt><hint><i>Hint: Fast transportation</i></hint><br/>How do you travel quickly?</prompt>
+        <hint>Fast transportation</hint>
+        <prompt>How do you travel quickly?</prompt>
         <answer>I ride a motorcycle</answer>
         <options>I,ride,a,motorcycle,bike,car,bus</options>
     </question>
     <question>
         <id>49</id>
-        <prompt><hint><i>Hint: Shared transportation</i></hint><br/>How do you share a ride?</prompt>
+        <hint>Shared transportation</hint>
+        <prompt>How do you share a ride?</prompt>
         <answer>I use a taxi</answer>
         <options>I,use,a,taxi,bus,car,train</options>
     </question>
     <question>
         <id>50</id>
-        <prompt><hint><i>Hint: Walking alternative</i></hint><br/>How do you go short distances?</prompt>
+        <hint>Walking alternative</hint>
+        <prompt>How do you go short distances?</prompt>
         <answer>I walk</answer>
         <options>I,walk,run,drive,ride,fly,sail</options>
     </question>
-
-    <!-- 51-60: Family -->
     <question>
         <id>51</id>
-        <prompt><hint><i>Hint: Male parent</i></hint><br/>Who is your father's son?</prompt>
+        <hint>Male parent</hint>
+        <prompt>Who is your father's son?</prompt>
         <answer>He is my brother</answer>
         <options>He,is,my,brother,sister,uncle,cousin</options>
     </question>
     <question>
         <id>52</id>
-        <prompt><hint><i>Hint: Female parent</i></hint><br/>Who is your mother's daughter?</prompt>
+        <hint>Female parent</hint>
+        <prompt>Who is your mother's daughter?</prompt>
         <answer>She is my sister</answer>
         <options>She,is,my,sister,brother,aunt,cousin</options>
     </question>
     <question>
         <id>53</id>
-        <prompt><hint><i>Hint: Parents' parents</i></hint><br/>Who are your parents' parents?</prompt>
+        <hint>Parents' parents</hint>
+        <prompt>Who are your parents' parents?</prompt>
         <answer>They are my grandparents</answer>
         <options>They,are,my,grandparents,uncles,aunts,cousins</options>
     </question>
     <question>
         <id>54</id>
-        <prompt><hint><i>Hint: Father's brother</i></hint><br/>Who is your father's brother?</prompt>
+        <hint>Father's brother</hint>
+        <prompt>Who is your father's brother?</prompt>
         <answer>He is my uncle</answer>
         <options>He,is,my,uncle,aunt,cousin,brother</options>
     </question>
     <question>
         <id>55</id>
-        <prompt><hint><i>Hint: Mother's sister</i></hint><br/>Who is your mother's sister?</prompt>
+        <hint>Mother's sister</hint>
+        <prompt>Who is your mother's sister?</prompt>
         <answer>She is my aunt</answer>
         <options>She,is,my,aunt,uncle,cousin,sister</options>
     </question>
     <question>
         <id>56</id>
-        <prompt><hint><i>Hint: Cousins' parents</i></hint><br/>Who are your cousins' parents?</prompt>
+        <hint>Cousins' parents</hint>
+        <prompt>Who are your cousins' parents?</prompt>
         <answer>They are my aunts and uncles</answer>
         <options>They,are,my,aunts,and,uncles,parents,grandparents</options>
     </question>
     <question>
         <id>57</id>
-        <prompt><hint><i>Hint: Siblings' children</i></hint><br/>Who are your siblings' children?</prompt>
+        <hint>Siblings' children</hint>
+        <prompt>Who are your siblings' children?</prompt>
         <answer>They are my nieces and nephews</answer>
         <options>They,are,my,nieces,and,nephews,children,cousins</options>
     </question>
     <question>
         <id>58</id>
-        <prompt><hint><i>Hint: Children's children</i></hint><br/>Who are your children's children?</prompt>
+        <hint>Children's children</hint>
+        <prompt>Who are your children's children?</prompt>
         <answer>They are my grandchildren</answer>
         <options>They,are,my,grandchildren,nieces,nephews,cousins</options>
     </question>
     <question>
         <id>59</id>
-        <prompt><hint><i>Hint: Spouse's parents</i></hint><br/>Who are your spouse's parents?</prompt>
+        <hint>Spouse's parents</hint>
+        <prompt>Who are your spouse's parents?</prompt>
         <answer>They are my in-laws</answer>
         <options>They,are,my,in-laws,parents,grandparents,cousins</options>
     </question>
     <question>
         <id>60</id>
-        <prompt><hint><i>Hint: Immediate family</i></hint><br/>Who lives with you at home?</prompt>
+        <hint>Immediate family</hint>
+        <prompt>Who lives with you at home?</prompt>
         <answer>My family lives with me</answer>
         <options>My,family,lives,with,me,friends,neighbors,classmates</options>
     </question>
-
-    <!-- 61-70: Occupations -->
     <question>
         <id>61</id>
-        <prompt><hint><i>Hint: Teaches students</i></hint><br/>Who works at a school?</prompt>
+        <hint>Teaches students</hint>
+        <prompt>Who works at a school?</prompt>
         <answer>A teacher works at a school</answer>
         <options>A,teacher,works,at,a,school,doctor,hospital</options>
     </question>
     <question>
         <id>62</id>
-        <prompt><hint><i>Hint: Treats patients</i></hint><br/>Who works at a hospital?</prompt>
+        <hint>Treats patients</hint>
+        <prompt>Who works at a hospital?</prompt>
         <answer>A doctor works at a hospital</answer>
         <options>A,doctor,works,at,a,hospital,teacher,school</options>
     </question>
     <question>
         <id>63</id>
-        <prompt><hint><i>Hint: Fights fires</i></hint><br/>Who puts out fires?</prompt>
+        <hint>Fights fires</hint>
+        <prompt>Who puts out fires?</prompt>
         <answer>A firefighter puts out fires</answer>
         <options>A,firefighter,puts,out,fires,police,crimes</options>
     </question>
     <question>
         <id>64</id>
-        <prompt><hint><i>Hint: Enforces laws</i></hint><br/>Who keeps people safe?</prompt>
+        <hint>Enforces laws</hint>
+        <prompt>Who keeps people safe?</prompt>
         <answer>A police officer keeps people safe</answer>
         <options>A,police,officer,keeps,people,safe,firefighter,fires</options>
     </question>
     <question>
         <id>65</id>
-        <prompt><hint><i>Hint: Builds houses</i></hint><br/>Who constructs buildings?</prompt>
+        <hint>Builds houses</hint>
+        <prompt>Who constructs buildings?</prompt>
         <answer>A builder constructs buildings</answer>
         <options>A,builder,constructs,buildings,architect,designs,plans</options>
     </question>
     <question>
         <id>66</id>
-        <prompt><hint><i>Hint: Designs buildings</i></hint><br/>Who draws building plans?</prompt>
+        <hint>Designs buildings</hint>
+        <prompt>Who draws building plans?</prompt>
         <answer>An architect draws building plans</answer>
         <options>An,architect,draws,building,plans,builder,constructs,houses</options>
     </question>
     <question>
         <id>67</id>
-        <prompt><hint><i>Hint: Cooks professionally</i></hint><br/>Who prepares food in restaurants?</prompt>
+        <hint>Cooks professionally</hint>
+        <prompt>Who prepares food in restaurants?</prompt>
         <answer>A chef prepares food in restaurants</answer>
         <options>A,chef,prepares,food,in,restaurants,cook,home</options>
     </question>
     <question>
         <id>68</id>
-        <prompt><hint><i>Hint: Serves food</i></hint><br/>Who takes orders in restaurants?</prompt>
+        <hint>Serves food</hint>
+        <prompt>Who takes orders in restaurants?</prompt>
         <answer>A waiter takes orders in restaurants</answer>
         <options>A,waiter,takes,orders,in,restaurants,chef,cooks</options>
     </question>
     <question>
         <id>69</id>
-        <prompt><hint><i>Hint: Grows food</i></hint><br/>Who works on a farm?</prompt>
+        <hint>Grows food</hint>
+        <prompt>Who works on a farm?</prompt>
         <answer>A farmer works on a farm</answer>
         <options>A,farmer,works,on,a,farm,gardener,plants,flowers</options>
     </question>
     <question>
         <id>70</id>
-        <prompt><hint><i>Hint: Cares for plants</i></hint><br/>Who maintains gardens?</prompt>
+        <hint>Cares for plants</hint>
+        <prompt>Who maintains gardens?</prompt>
         <answer>A gardener maintains gardens</answer>
         <options>A,gardener,maintains,gardens,farmer,grows,crops</options>
     </question>
-
-    <!-- 71-80: Hobbies -->
     <question>
         <id>71</id>
-        <prompt><hint><i>Hint: Uses paper and pen</i></hint><br/>What do you do for creativity?</prompt>
+        <hint>Uses paper and pen</hint>
+        <prompt>What do you do for creativity?</prompt>
         <answer>I draw pictures</answer>
         <options>I,draw,pictures,write,stories,sing,songs</options>
     </question>
     <question>
         <id>72</id>
-        <prompt><hint><i>Hint: Uses musical instruments</i></hint><br/>What do you do for fun?</prompt>
+        <hint>Uses musical instruments</hint>
+        <prompt>What do you do for fun?</prompt>
         <answer>I play music</answer>
         <options>I,play,music,sports,games,chess,cards</options>
     </question>
     <question>
         <id>73</id>
-        <prompt><hint><i>Hint: Physical activity</i></hint><br/>What do you do for exercise?</prompt>
+        <hint>Physical activity</hint>
+        <prompt>What do you do for exercise?</prompt>
         <answer>I play sports</answer>
         <options>I,play,sports,music,games,chess,cards</options>
     </question>
     <question>
         <id>74</id>
-        <prompt><hint><i>Hint: Uses strategy</i></hint><br/>What do you do for mental challenge?</prompt>
+        <hint>Uses strategy</hint>
+        <prompt>What do you do for mental challenge?</prompt>
         <answer>I play chess</answer>
         <options>I,play,chess,cards,sports,music,games</options>
     </question>
     <question>
         <id>75</id>
-        <prompt><hint><i>Hint: Uses cards</i></hint><br/>What do you do with friends?</prompt>
+        <hint>Uses cards</hint>
+        <prompt>What do you do with friends?</prompt>
         <answer>I play cards</answer>
         <options>I,play,cards,chess,sports,music,games</options>
     </question>
     <question>
         <id>76</id>
-        <prompt><hint><i>Hint: Uses books</i></hint><br/>What do you do quietly?</prompt>
+        <hint>Uses books</hint>
+        <prompt>What do you do quietly?</prompt>
         <answer>I read books</answer>
         <options>I,read,books,magazines,newspapers,letters,emails</options>
     </question>
     <question>
         <id>77</id>
-        <prompt><hint><i>Hint: Uses paint</i></hint><br/>What do you do artistically?</prompt>
+        <hint>Uses paint</hint>
+        <prompt>What do you do artistically?</prompt>
         <answer>I paint pictures</answer>
         <options>I,paint,pictures,draw,sketches,write,stories</options>
     </question>
     <question>
         <id>78</id>
-        <prompt><hint><i>Hint: Uses camera</i></hint><br/>What do you do to capture moments?</prompt>
+        <hint>Uses camera</hint>
+        <prompt>What do you do to capture moments?</prompt>
         <answer>I take photos</answer>
         <options>I,take,photos,videos,pictures,selfies,portraits</options>
     </question>
     <question>
         <id>79</id>
-        <prompt><hint><i>Hint: Uses yarn</i></hint><br/>What do you do to make clothes?</prompt>
+        <hint>Uses yarn</hint>
+        <prompt>What do you do to make clothes?</prompt>
         <answer>I knit sweaters</answer>
         <options>I,knit,sweaters,scarves,hats,gloves,socks</options>
     </question>
     <question>
         <id>80</id>
-        <prompt><hint><i>Hint: Uses ingredients</i></hint><br/>What do you do in the kitchen?</prompt>
+        <hint>Uses ingredients</hint>
+        <prompt>What do you do in the kitchen?</prompt>
         <answer>I bake cakes</answer>
         <options>I,bake,cakes,cookies,bread,pies,pastries</options>
     </question>
-
-    <!-- 81-90: Shopping -->
     <question>
         <id>81</id>
-        <prompt><hint><i>Hint: Place with many stores</i></hint><br/>Where do you buy clothes?</prompt>
+        <hint>Place with many stores</hint>
+        <prompt>Where do you buy clothes?</prompt>
         <answer>I shop at the mall</answer>
         <options>I,shop,at,the,mall,market,online,store</options>
     </question>
     <question>
         <id>82</id>
-        <prompt><hint><i>Hint: Fresh produce place</i></hint><br/>Where do you buy vegetables?</prompt>
+        <hint>Fresh produce place</hint>
+        <prompt>Where do you buy vegetables?</prompt>
         <answer>I shop at the market</answer>
         <options>I,shop,at,the,market,mall,online,store</options>
     </question>
     <question>
         <id>83</id>
-        <prompt><hint><i>Hint: Digital shopping</i></hint><br/>Where do you shop from home?</prompt>
+        <hint>Digital shopping</hint>
+        <prompt>Where do you shop from home?</prompt>
         <answer>I shop online</answer>
         <options>I,shop,online,at,the,mall,market,store</options>
     </question>
     <question>
         <id>84</id>
-        <prompt><hint><i>Hint: Small retail place</i></hint><br/>Where do you buy small items?</prompt>
+        <hint>Small retail place</hint>
+        <prompt>Where do you buy small items?</prompt>
         <answer>I shop at the store</answer>
         <options>I,shop,at,the,store,mall,market,online</options>
     </question>
     <question>
         <id>85</id>
-        <prompt><hint><i>Hint: Clothing purchase</i></hint><br/>What do you buy to wear?</prompt>
+        <hint>Clothing purchase</hint>
+        <prompt>What do you buy to wear?</prompt>
         <answer>I buy clothes</answer>
         <options>I,buy,clothes,shoes,hats,gloves,accessories</options>
     </question>
     <question>
         <id>86</id>
-        <prompt><hint><i>Hint: Footwear purchase</i></hint><br/>What do you buy for your feet?</prompt>
+        <hint>Footwear purchase</hint>
+        <prompt>What do you buy for your feet?</prompt>
         <answer>I buy shoes</answer>
         <options>I,buy,shoes,clothes,hats,gloves,accessories</options>
     </question>
     <question>
         <id>87</id>
-        <prompt><hint><i>Hint: Headwear purchase</i></hint><br/>What do you buy for your head?</prompt>
+        <hint>Headwear purchase</hint>
+        <prompt>What do you buy for your head?</prompt>
         <answer>I buy hats</answer>
         <options>I,buy,hats,shoes,clothes,gloves,accessories</options>
     </question>
     <question>
         <id>88</id>
-        <prompt><hint><i>Hint: Handwear purchase</i></hint><br/>What do you buy for your hands?</prompt>
+        <hint>Handwear purchase</hint>
+        <prompt>What do you buy for your hands?</prompt>
         <answer>I buy gloves</answer>
         <options>I,buy,gloves,hats,shoes,clothes,accessories</options>
     </question>
     <question>
         <id>89</id>
-        <prompt><hint><i>Hint: Jewelry purchase</i></hint><br/>What do you buy for decoration?</prompt>
+        <hint>Jewelry purchase</hint>
+        <prompt>What do you buy for decoration?</prompt>
         <answer>I buy accessories</answer>
         <options>I,buy,accessories,gloves,hats,shoes,clothes</options>
     </question>
     <question>
         <id>90</id>
-        <prompt><hint><i>Hint: Payment method</i></hint><br/>How do you pay for purchases?</prompt>
+        <hint>Payment method</hint>
+        <prompt>How do you pay for purchases?</prompt>
         <answer>I pay with money</answer>
         <options>I,pay,with,money,credit,card,cash,check</options>
     </question>
-
-    <!-- 91-100: Technology -->
     <question>
         <id>91</id>
-        <prompt><hint><i>Hint: Communication device</i></hint><br/>What do you use to call people?</prompt>
+        <hint>Communication device</hint>
+        <prompt>What do you use to call people?</prompt>
         <answer>I use a phone</answer>
         <options>I,use,a,phone,computer,tablet,television,radio</options>
     </question>
     <question>
         <id>92</id>
-        <prompt><hint><i>Hint: Work device</i></hint><br/>What do you use for typing?</prompt>
+        <hint>Work device</hint>
+        <prompt>What do you use for typing?</prompt>
         <answer>I use a computer</answer>
         <options>I,use,a,computer,phone,tablet,television,radio</options>
     </question>
     <question>
         <id>93</id>
-        <prompt><hint><i>Hint: Portable device</i></hint><br/>What do you use for reading?</prompt>
+        <hint>Portable device</hint>
+        <prompt>What do you use for reading?</prompt>
         <answer>I use a tablet</answer>
         <options>I,use,a,tablet,phone,computer,television,radio</options>
     </question>
     <question>
         <id>94</id>
-        <prompt><hint><i>Hint: Entertainment device</i></hint><br/>What do you watch shows on?</prompt>
+        <hint>Entertainment device</hint>
+        <prompt>What do you watch shows on?</prompt>
         <answer>I watch television</answer>
         <options>I,watch,television,phone,computer,tablet,radio</options>
     </question>
     <question>
         <id>95</id>
-        <prompt><hint><i>Hint: Audio device</i></hint><br/>What do you listen to music on?</prompt>
+        <hint>Audio device</hint>
+        <prompt>What do you listen to music on?</prompt>
         <answer>I listen to the radio</answer>
         <options>I,listen,to,the,radio,phone,computer,tablet</options>
     </question>
     <question>
         <id>96</id>
-        <prompt><hint><i>Hint: Internet access</i></hint><br/>What do you use to browse websites?</prompt>
+        <hint>Internet access</hint>
+        <prompt>What do you use to browse websites?</prompt>
         <answer>I use the internet</answer>
         <options>I,use,the,internet,phone,computer,tablet,television</options>
     </question>
     <question>
         <id>97</id>
-        <prompt><hint><i>Hint: Social media</i></hint><br/>What do you use to connect with friends?</prompt>
+        <hint>Social media</hint>
+        <prompt>What do you use to connect with friends?</prompt>
         <answer>I use social media</answer>
         <options>I,use,social,media,internet,phone,computer,tablet</options>
     </question>
     <question>
         <id>98</id>
-        <prompt><hint><i>Hint: Video calls</i></hint><br/>What do you use to see distant family?</prompt>
+        <hint>Video calls</hint>
+        <prompt>What do you use to see distant family?</prompt>
         <answer>I use video chat</answer>
         <options>I,use,video,chat,phone,computer,tablet,television</options>
     </question>
     <question>
         <id>99</id>
-        <prompt><hint><i>Hint: Digital messages</i></hint><br/>What do you use to send messages?</prompt>
+        <hint>Digital messages</hint>
+        <prompt>What do you use to send messages?</prompt>
         <answer>I use email</answer>
         <options>I,use,email,phone,computer,tablet,television</options>
     </question>
     <question>
         <id>100</id>
-        <prompt><hint><i>Hint: Online videos</i></hint><br/>What do you use to watch tutorials?</prompt>
+        <hint>Online videos</hint>
+        <prompt>What do you use to watch tutorials?</prompt>
         <answer>I use streaming</answer>
         <options>I,use,streaming,phone,computer,tablet,television</options>
     </question>
