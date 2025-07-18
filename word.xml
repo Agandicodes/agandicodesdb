@@ -1,670 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <questions>
-    <!-- Basic present simple sentences -->
+    <!-- 1-10: Basic Daily Activities -->
     <question>
         <id>1</id>
-        <prompt>What do you do in the morning?</prompt>
+        <prompt><hint><i>Hint: Uses toothpaste</i></hint><br/>What do you do in the morning?</prompt>
         <answer>I brush my teeth</answer>
-        <options>teeth,my,face,brush,I,wash,hands</options>
+        <options>I,brush,my,teeth,face,wash,hands</options>
     </question>
     <question>
         <id>2</id>
-        <prompt>What does a dog say?</prompt>
-        <answer>A dog barks</answer>
-        <options>barks,cat,A,meows,dog,chirps</options>
+        <prompt><hint><i>Hint: First meal</i></hint><br/>What do you eat for breakfast?</prompt>
+        <answer>I eat cereal</answer>
+        <options>I,eat,cereal,toast,fruit,eggs,pancakes</options>
     </question>
     <question>
         <id>3</id>
-        <prompt>Complete: I ___ to school every day</prompt>
-        <answer>I go to school every day</answer>
-        <options>day,run,go,I,every,school,to,home</options>
+        <prompt><hint><i>Hint: Morning beverage</i></hint><br/>What do you drink in the morning?</prompt>
+        <answer>I drink coffee</answer>
+        <options>I,drink,coffee,tea,juice,water,milk</options>
     </question>
     <question>
         <id>4</id>
-        <prompt>What do you eat for breakfast?</prompt>
-        <answer>I eat cereal for breakfast</answer>
-        <options>dinner,for,eat,cereal,I,soup,breakfast</options>
+        <prompt><hint><i>Hint: Getting ready</i></hint><br/>What do you do before leaving home?</prompt>
+        <answer>I put on shoes</answer>
+        <options>I,put,on,shoes,coat,hat,glasses</options>
     </question>
     <question>
         <id>5</id>
-        <prompt>Describe what you see (sun)</prompt>
-        <answer>The sun is shining</answer>
-        <options>cloudy,shining,The,moon,is,sun,raining</options>
+        <prompt><hint><i>Hint: Transportation</i></hint><br/>How do you go to work?</prompt>
+        <answer>I drive a car</answer>
+        <options>I,drive,a,car,bus,train,bike</options>
     </question>
-
-    <!-- Present continuous -->
     <question>
         <id>6</id>
-        <prompt>What are you doing now?</prompt>
-        <answer>I am learning English</answer>
-        <options>sleeping,learning,English,math,I,am,studying</options>
+        <prompt><hint><i>Hint: Midday meal</i></hint><br/>What do you eat at noon?</prompt>
+        <answer>I eat lunch</answer>
+        <options>I,eat,lunch,dinner,snack,breakfast,supper</options>
     </question>
     <question>
         <id>7</id>
-        <prompt>What is the cat doing?</prompt>
-        <answer>The cat is sleeping</answer>
-        <options>running,The,sleeping,is,dog,cat,eating</options>
+        <prompt><hint><i>Hint: Afternoon break</i></hint><br/>What do you do after lunch?</prompt>
+        <answer>I take a nap</answer>
+        <options>I,take,a,nap,walk,shower,break</options>
     </question>
     <question>
         <id>8</id>
-        <prompt>What are the children doing?</prompt>
-        <answer>The children are playing</answer>
-        <options>playing,studying,are,The,kids,children,sleeping</options>
+        <prompt><hint><i>Hint: Evening meal</i></hint><br/>What do you eat at night?</prompt>
+        <answer>I eat dinner</answer>
+        <options>I,eat,dinner,lunch,breakfast,snack,supper</options>
     </question>
     <question>
         <id>9</id>
-        <prompt>What is happening outside?</prompt>
-        <answer>It is raining outside</answer>
-        <options>inside,sunny,raining,It,is,outside,snowing</options>
+        <prompt><hint><i>Hint: Nighttime routine</i></hint><br/>What do you do before bed?</prompt>
+        <answer>I read a book</answer>
+        <options>I,read,a,book,magazine,newspaper,letter</options>
     </question>
     <question>
         <id>10</id>
-        <prompt>What is your mother doing?</prompt>
-        <answer>My mother is cooking dinner</answer>
-        <options>lunch,dinner,father,My,cooking,is,mother,working</options>
+        <prompt><hint><i>Hint: Sleeping action</i></hint><br/>What do you do at night?</prompt>
+        <answer>I go to sleep</answer>
+        <options>I,go,to,sleep,work,play,exercise</options>
     </question>
 
-    <!-- Simple past -->
+    <!-- 11-20: Animals -->
     <question>
         <id>11</id>
-        <prompt>What did you do yesterday?</prompt>
-        <answer>I watched a movie</answer>
-        <options>book,watched,a,I,read,movie,TV</options>
+        <prompt><hint><i>Hint: Dog sound</i></hint><br/>What does a dog say?</prompt>
+        <answer>A dog barks</answer>
+        <options>A,dog,barks,meows,moos,chirps,hisses</options>
     </question>
     <question>
         <id>12</id>
-        <prompt>Where did you go last weekend?</prompt>
-        <answer>I went to the park</answer>
-        <options>park,beach,went,I,shopping,to,mall,the</options>
+        <prompt><hint><i>Hint: Cat sound</i></hint><br/>What does a cat say?</prompt>
+        <answer>A cat meows</answer>
+        <options>A,cat,meows,barks,oinks,neighs,quacks</options>
     </question>
     <question>
         <id>13</id>
-        <prompt>What did you eat for lunch?</prompt>
-        <answer>I ate a sandwich</answer>
-        <options>drank,ate,salad,I,pizza,a,sandwich</options>
+        <prompt><hint><i>Hint: Cow sound</i></hint><br/>What does a cow say?</prompt>
+        <answer>A cow moos</answer>
+        <options>A,cow,moos,barks,meows,clucks,howls</options>
     </question>
     <question>
         <id>14</id>
-        <prompt>What time did you wake up?</prompt>
-        <answer>I woke up at seven</answer>
-        <options>seven,eight,I,at,woke,bed,up</options>
+        <prompt><hint><i>Hint: Bird sound</i></hint><br/>What does a bird say?</prompt>
+        <answer>A bird chirps</answer>
+        <options>A,bird,chirps,barks,meows,oinks,roars</options>
     </question>
     <question>
         <id>15</id>
-        <prompt>What did you buy at the store?</prompt>
-        <answer>I bought some milk</answer>
-        <options>some,juice,bought,I,milk,store,the</options>
+        <prompt><hint><i>Hint: Lion sound</i></hint><br/>What does a lion say?</prompt>
+        <answer>A lion roars</answer>
+        <options>A,lion,roars,meows,oinks,chirps,hisses</options>
     </question>
-
-    <!-- Future with will/going to -->
     <question>
         <id>16</id>
-        <prompt>What will you do tomorrow?</prompt>
-        <answer>I will visit my friend</answer>
-        <options>friend,visit,my,I,will,see,doctor</options>
+        <prompt><hint><i>Hint: Duck sound</i></hint><br/>What does a duck say?</prompt>
+        <answer>A duck quacks</answer>
+        <options>A,duck,quacks,barks,meows,moos,howls</options>
     </question>
     <question>
         <id>17</id>
-        <prompt>What are you going to do tonight?</prompt>
-        <answer>I am going to study</answer>
-        <options>sleep,study,going,party,I,am,to</options>
+        <prompt><hint><i>Hint: Pig sound</i></hint><br/>What does a pig say?</prompt>
+        <answer>A pig oinks</answer>
+        <options>A,pig,oinks,barks,meows,chirps,roars</options>
     </question>
     <question>
         <id>18</id>
-        <prompt>When will you finish your work?</prompt>
-        <answer>I will finish soon</answer>
-        <options>later,finish,never,I,will,soon,work</options>
+        <prompt><hint><i>Hint: Horse sound</i></hint><br/>What does a horse say?</prompt>
+        <answer>A horse neighs</answer>
+        <options>A,horse,neighs,oinks,meows,chirps,roars</options>
     </question>
     <question>
         <id>19</id>
-        <prompt>Where are you going to travel?</prompt>
-        <answer>I am going to travel to Spain</answer>
-        <options>France,travel,Spain,I,am,going,to,home</options>
+        <prompt><hint><i>Hint: Sheep sound</i></hint><br/>What does a sheep say?</prompt>
+        <answer>A sheep baas</answer>
+        <options>A,sheep,baas,oinks,meows,chirps,roars</options>
     </question>
     <question>
         <id>20</id>
-        <prompt>What will the weather be like?</prompt>
-        <answer>It will be sunny tomorrow</answer>
-        <options>cloudy,tomorrow,be,It,will,sunny,rainy</options>
+        <prompt><hint><i>Hint: Snake sound</i></hint><br/>What does a snake say?</prompt>
+        <answer>A snake hisses</answer>
+        <options>A,snake,hisses,oinks,meows,chirps,roars</options>
     </question>
 
-    <!-- Present perfect -->
+    <!-- 21-30: Food and Drink -->
     <question>
         <id>21</id>
-        <prompt>Have you ever been to Paris?</prompt>
-        <answer>I have never been to Paris</answer>
-        <options>visited,never,Paris,have,I,to,been,London</options>
+        <prompt><hint><i>Hint: Italian dish</i></hint><br/>What do you eat at an Italian restaurant?</prompt>
+        <answer>I eat pasta</answer>
+        <options>I,eat,pasta,sushi,tacos,curry,steak</options>
     </question>
     <question>
         <id>22</id>
-        <prompt>Have you finished your homework?</prompt>
-        <answer>I have just finished it</answer>
-        <options>it,yet,finished,have,I,just,started</options>
+        <prompt><hint><i>Hint: Japanese dish</i></hint><br/>What do you eat at a Japanese restaurant?</prompt>
+        <answer>I eat sushi</answer>
+        <options>I,eat,sushi,pasta,tacos,curry,steak</options>
     </question>
     <question>
         <id>23</id>
-        <prompt>How long have you lived here?</prompt>
-        <answer>I have lived here for five years</answer>
-        <options>years,months,five,for,here,I,lived,have</options>
+        <prompt><hint><i>Hint: Mexican dish</i></hint><br/>What do you eat at a Mexican restaurant?</prompt>
+        <answer>I eat tacos</answer>
+        <options>I,eat,tacos,pasta,sushi,curry,steak</options>
     </question>
     <question>
         <id>24</id>
-        <prompt>Have you seen this movie before?</prompt>
-        <answer>I have already seen it</answer>
-        <options>it,seen,watched,have,I,already,never</options>
+        <prompt><hint><i>Hint: Indian dish</i></hint><br/>What do you eat at an Indian restaurant?</prompt>
+        <answer>I eat curry</answer>
+        <options>I,eat,curry,pasta,sushi,tacos,steak</options>
     </question>
     <question>
         <id>25</id>
-        <prompt>Why are you tired?</prompt>
-        <answer>I have worked all day</answer>
-        <options>night,worked,all,day,I,have,slept</options>
+        <prompt><hint><i>Hint: American dish</i></hint><br/>What do you eat at a steakhouse?</prompt>
+        <answer>I eat steak</answer>
+        <options>I,eat,steak,pasta,sushi,tacos,curry</options>
     </question>
-
-    <!-- Modal verbs -->
     <question>
         <id>26</id>
-        <prompt>What can you do with a computer?</prompt>
-        <answer>I can write emails</answer>
-        <options>cook,write,emails,can,I,read,books</options>
+        <prompt><hint><i>Hint: Morning drink</i></hint><br/>What do you drink in the morning?</prompt>
+        <answer>I drink coffee</answer>
+        <options>I,drink,coffee,tea,juice,water,milk</options>
     </question>
     <question>
         <id>27</id>
-        <prompt>What should you do when sick?</prompt>
-        <answer>You should see a doctor</answer>
-        <options>sleep,see,doctor,should,You,a,exercise</options>
+        <prompt><hint><i>Hint: Afternoon drink</i></hint><br/>What do you drink in the afternoon?</prompt>
+        <answer>I drink tea</answer>
+        <options>I,drink,tea,coffee,juice,water,milk</options>
     </question>
     <question>
         <id>28</id>
-        <prompt>What must you do before driving?</prompt>
-        <answer>You must wear a seatbelt</answer>
-        <options>seatbelt,eat,wear,must,a,You,phone</options>
+        <prompt><hint><i>Hint: Healthy drink</i></hint><br/>What do you drink for health?</prompt>
+        <answer>I drink water</answer>
+        <options>I,drink,water,coffee,tea,juice,milk</options>
     </question>
     <question>
         <id>29</id>
-        <prompt>Where could we go for dinner?</prompt>
-        <answer>We could go to an Italian restaurant</answer>
-        <options>home,go,Italian,to,We,an,could,restaurant</options>
+        <prompt><hint><i>Hint: Sweet drink</i></hint><br/>What do you drink for taste?</prompt>
+        <answer>I drink juice</answer>
+        <options>I,drink,juice,coffee,tea,water,milk</options>
     </question>
     <question>
         <id>30</id>
-        <prompt>What may happen if you study hard?</prompt>
-        <answer>You may get good grades</answer>
-        <options>bad,grades,get,may,You,good,tired</options>
+        <prompt><hint><i>Hint: Calcium-rich drink</i></hint><br/>What do you drink for bones?</prompt>
+        <answer>I drink milk</answer>
+        <options>I,drink,milk,coffee,tea,juice,water</options>
     </question>
 
-    <!-- Comparatives/superlatives -->
+    <!-- 31-40: Weather -->
     <question>
         <id>31</id>
-        <prompt>Compare an elephant and a mouse</prompt>
-        <answer>An elephant is bigger than a mouse</answer>
-        <options>mouse,bigger,An,than,elephant,a,is,smaller</options>
+        <prompt><hint><i>Hint: Bright weather</i></hint><br/>What is the weather like in summer?</prompt>
+        <answer>It is sunny</answer>
+        <options>It,is,sunny,rainy,cloudy,snowy,windy</options>
     </question>
     <question>
         <id>32</id>
-        <prompt>What is the highest mountain?</prompt>
-        <answer>Mount Everest is the highest mountain</answer>
-        <options>mountain,high,highest,Everest,the,Mount,is,K2</options>
+        <prompt><hint><i>Hint: Wet weather</i></hint><br/>What is the weather like in spring?</prompt>
+        <answer>It is rainy</answer>
+        <options>It,is,rainy,sunny,cloudy,snowy,windy</options>
     </question>
     <question>
         <id>33</id>
-        <prompt>Compare two cars</prompt>
-        <answer>The red car is faster than the blue car</answer>
-        <options>blue,car,The,than,red,is,faster,slower</options>
+        <prompt><hint><i>Hint: Gray weather</i></hint><br/>What is the weather like in autumn?</prompt>
+        <answer>It is cloudy</answer>
+        <options>It,is,cloudy,sunny,rainy,snowy,windy</options>
     </question>
     <question>
         <id>34</id>
-        <prompt>Who is the tallest in your family?</prompt>
-        <answer>My brother is the tallest in my family</answer>
-        <options>sister,tallest,My,is,brother,shortest,the,family</options>
+        <prompt><hint><i>Hint: Cold weather</i></hint><br/>What is the weather like in winter?</prompt>
+        <answer>It is snowy</answer>
+        <options>It,is,snowy,sunny,rainy,cloudy,windy</options>
     </question>
     <question>
         <id>35</id>
-        <prompt>Which season is colder?</prompt>
-        <answer>Winter is colder than summer</answer>
-        <options>summer,hotter,Winter,than,is,colder,spring</options>
+        <prompt><hint><i>Hint: Breezy weather</i></hint><br/>What is the weather like at the beach?</prompt>
+        <answer>It is windy</answer>
+        <options>It,is,windy,sunny,rainy,cloudy,snowy</options>
     </question>
-
-    <!-- Conditional sentences -->
     <question>
         <id>36</id>
-        <prompt>What will you do if it rains?</prompt>
-        <answer>If it rains, I will stay home</answer>
-        <options>go,home,If,stay,rains,I,it,will,out</options>
+        <prompt><hint><i>Hint: Stormy weather</i></hint><br/>What is the weather like during a storm?</prompt>
+        <answer>It is stormy</answer>
+        <options>It,is,stormy,sunny,rainy,cloudy,snowy</options>
     </question>
     <question>
         <id>37</id>
-        <prompt>What would you do with $1 million?</prompt>
-        <answer>I would travel around the world</answer>
-        <options>city,travel,around,I,would,work,world,the</options>
+        <prompt><hint><i>Hint: Hot weather</i></hint><br/>What is the weather like in the desert?</prompt>
+        <answer>It is hot</answer>
+        <options>It,is,hot,cold,warm,cool,freezing</options>
     </question>
     <question>
         <id>38</id>
-        <prompt>What happens if you heat ice?</prompt>
-        <answer>If you heat ice, it melts</answer>
-        <options>melts,freezes,If,ice,it,you,heat,water</options>
+        <prompt><hint><i>Hint: Cold weather</i></hint><br/>What is the weather like in the Arctic?</prompt>
+        <answer>It is cold</answer>
+        <options>It,is,cold,hot,warm,cool,freezing</options>
     </question>
     <question>
         <id>39</id>
-        <prompt>What would you have done differently?</prompt>
-        <answer>I would have studied harder</answer>
-        <options>harder,played,would,studied,I,have,less</options>
+        <prompt><hint><i>Hint: Pleasant weather</i></hint><br/>What is the weather like in spring?</prompt>
+        <answer>It is warm</answer>
+        <options>It,is,warm,hot,cold,cool,freezing</options>
     </question>
     <question>
         <id>40</id>
-        <prompt>What do you do when you're bored?</prompt>
-        <answer>When I am bored, I read books</answer>
-        <options>sleep,books,When,read,am,I,bored,TV</options>
+        <prompt><hint><i>Hint: Chilly weather</i></hint><br/>What is the weather like in autumn?</prompt>
+        <answer>It is cool</answer>
+        <options>It,is,cool,hot,cold,warm,freezing</options>
     </question>
 
-    <!-- Complex sentences -->
+    <!-- 41-50: Transportation -->
     <question>
         <id>41</id>
-        <prompt>Why were you late yesterday?</prompt>
-        <answer>I was late because I missed the bus</answer>
-        <options>train,late,was,because,I,the,missed,bus</options>
+        <prompt><hint><i>Hint: Personal vehicle</i></hint><br/>How do you go to work?</prompt>
+        <answer>I drive a car</answer>
+        <options>I,drive,a,car,bus,train,bike</options>
     </question>
     <question>
         <id>42</id>
-        <prompt>Describe your favorite place</prompt>
-        <answer>My favorite place is the beach where I can relax</answer>
-        <options>city,beach,My,place,is,favorite,the,where,relax</options>
+        <prompt><hint><i>Hint: Public transportation</i></hint><br/>How do you go to the city?</prompt>
+        <answer>I take a bus</answer>
+        <options>I,take,a,bus,car,train,bike</options>
     </question>
     <question>
         <id>43</id>
-        <prompt>What did you do after work?</prompt>
-        <answer>After I finished work, I went to the gym</answer>
-        <options>gym,finished,After,work,I,went,to,the,home</options>
+        <prompt><hint><i>Hint: Rail transportation</i></hint><br/>How do you travel long distances?</prompt>
+        <answer>I ride a train</answer>
+        <options>I,ride,a,train,bus,car,bike</options>
     </question>
     <question>
         <id>44</id>
-        <prompt>Why is learning English important?</prompt>
-        <answer>Learning English is important because it is an international language</answer>
-        <options>difficult,English,is,Learning,important,because,international,language</options>
+        <prompt><hint><i>Hint: Two-wheeled vehicle</i></hint><br/>How do you exercise while commuting?</prompt>
+        <answer>I ride a bike</answer>
+        <options>I,ride,a,bike,car,bus,train</options>
     </question>
     <question>
         <id>45</id>
-        <prompt>What will you do when you graduate?</prompt>
-        <answer>When I graduate, I will look for a good job</answer>
-        <options>job,look,When,good,for,I,graduate,will,a</options>
+        <prompt><hint><i>Hint: Air transportation</i></hint><br/>How do you travel overseas?</prompt>
+        <answer>I fly in a plane</answer>
+        <options>I,fly,in,a,plane,car,bus,train</options>
     </question>
-
-    <!-- Advanced structures -->
     <question>
         <id>46</id>
-        <prompt>What have you been doing lately?</prompt>
-        <answer>I have been studying for my exams</answer>
-        <options>exams,playing,studying,have,for,I,been,my</options>
+        <prompt><hint><i>Hint: Water transportation</i></hint><br/>How do you cross the ocean?</prompt>
+        <answer>I sail on a ship</answer>
+        <options>I,sail,on,a,ship,plane,car,bus</options>
     </question>
     <question>
         <id>47</id>
-        <prompt>What should have been done differently?</prompt>
-        <answer>The project should have been planned better</answer>
-        <options>better,project,The,have,planned,should,been,worse</options>
+        <prompt><hint><i>Hint: Underground transportation</i></hint><br/>How do you travel in big cities?</prompt>
+        <answer>I take the subway</answer>
+        <options>I,take,the,subway,bus,car,train</options>
     </question>
     <question>
         <id>48</id>
-        <prompt>What would you be doing now in another situation?</prompt>
-        <answer>If I had more time, I would be traveling</answer>
-        <options>traveling,time,If,had,more,I,would,be,working</options>
+        <prompt><hint><i>Hint: Fast transportation</i></hint><br/>How do you travel quickly?</prompt>
+        <answer>I ride a motorcycle</answer>
+        <options>I,ride,a,motorcycle,bike,car,bus</options>
     </question>
     <question>
         <id>49</id>
-        <prompt>What needs to be done to improve?</prompt>
-        <answer>More practice needs to be done to improve</answer>
-        <options>practice,More,needs,improve,be,to,done,less</options>
+        <prompt><hint><i>Hint: Shared transportation</i></hint><br/>How do you share a ride?</prompt>
+        <answer>I use a taxi</answer>
+        <options>I,use,a,taxi,bus,car,train</options>
     </question>
     <question>
         <id>50</id>
-        <prompt>What would you have been doing if you chose a different path?</prompt>
-        <answer>If I had studied medicine, I would have been a doctor</answer>
-        <options>doctor,studied,If,had,medicine,I,would,been,teacher</options>
+        <prompt><hint><i>Hint: Walking alternative</i></hint><br/>How do you go short distances?</prompt>
+        <answer>I walk</answer>
+        <options>I,walk,run,drive,ride,fly,sail</options>
     </question>
-        <!-- Daily routines -->
+
+    <!-- 51-60: Family -->
     <question>
         <id>51</id>
-        <prompt>What do you do before going to bed?</prompt>
-        <answer>I read a book before sleeping</answer>
-        <options>sleeping,watch,book,read,I,a,before,TV</options>
+        <prompt><hint><i>Hint: Male parent</i></hint><br/>Who is your father's son?</prompt>
+        <answer>He is my brother</answer>
+        <options>He,is,my,brother,sister,uncle,cousin</options>
     </question>
     <question>
         <id>52</id>
-        <prompt>When do you usually exercise?</prompt>
-        <answer>I usually exercise in the evening</answer>
-        <options>morning,exercise,usually,in,I,evening,the</options>
+        <prompt><hint><i>Hint: Female parent</i></hint><br/>Who is your mother's daughter?</prompt>
+        <answer>She is my sister</answer>
+        <options>She,is,my,sister,brother,aunt,cousin</options>
     </question>
-
-    <!-- Food and drinks -->
     <question>
         <id>53</id>
-        <prompt>What do you drink with meals?</prompt>
-        <answer>I drink water with my meals</answer>
-        <options>juice,water,meals,drink,with,I,my,coffee</options>
+        <prompt><hint><i>Hint: Parents' parents</i></hint><br/>Who are your parents' parents?</prompt>
+        <answer>They are my grandparents</answer>
+        <options>They,are,my,grandparents,uncles,aunts,cousins</options>
     </question>
     <question>
         <id>54</id>
-        <prompt>How do you like your coffee?</prompt>
-        <answer>I like my coffee with milk</answer>
-        <options>sugar,milk,with,like,coffee,I,my,black</options>
+        <prompt><hint><i>Hint: Father's brother</i></hint><br/>Who is your father's brother?</prompt>
+        <answer>He is my uncle</answer>
+        <options>He,is,my,uncle,aunt,cousin,brother</options>
     </question>
-
-    <!-- Hobbies -->
     <question>
         <id>55</id>
-        <prompt>What hobby do you enjoy most?</prompt>
-        <answer>I enjoy playing the guitar</answer>
-        <options>guitar,playing,enjoy,piano,I,the,watching</options>
+        <prompt><hint><i>Hint: Mother's sister</i></hint><br/>Who is your mother's sister?</prompt>
+        <answer>She is my aunt</answer>
+        <options>She,is,my,aunt,uncle,cousin,sister</options>
     </question>
     <question>
         <id>56</id>
-        <prompt>How often do you go swimming?</prompt>
-        <answer>I go swimming twice a week</answer>
-        <options>month,swimming,twice,go,a,I,week,once</options>
+        <prompt><hint><i>Hint: Cousins' parents</i></hint><br/>Who are your cousins' parents?</prompt>
+        <answer>They are my aunts and uncles</answer>
+        <options>They,are,my,aunts,and,uncles,parents,grandparents</options>
     </question>
-
-    <!-- Shopping -->
     <question>
         <id>57</id>
-        <prompt>Where do you buy groceries?</prompt>
-        <answer>I buy groceries at the supermarket</answer>
-        <options>market,supermarket,groceries,buy,at,I,the,online</options>
+        <prompt><hint><i>Hint: Siblings' children</i></hint><br/>Who are your siblings' children?</prompt>
+        <answer>They are my nieces and nephews</answer>
+        <options>They,are,my,nieces,and,nephews,children,cousins</options>
     </question>
     <question>
         <id>58</id>
-        <prompt>What did you last purchase?</prompt>
-        <answer>I bought a new pair of shoes</answer>
-        <options>shoes,pair,new,bought,a,I,of,shirt</options>
+        <prompt><hint><i>Hint: Children's children</i></hint><br/>Who are your children's children?</prompt>
+        <answer>They are my grandchildren</answer>
+        <options>They,are,my,grandchildren,nieces,nephews,cousins</options>
     </question>
-
-    <!-- Travel -->
     <question>
         <id>59</id>
-        <prompt>How do you prefer to travel?</prompt>
-        <answer>I prefer to travel by train</answer>
-        <options>car,travel,by,prefer,train,I,to,plane</options>
+        <prompt><hint><i>Hint: Spouse's parents</i></hint><br/>Who are your spouse's parents?</prompt>
+        <answer>They are my in-laws</answer>
+        <options>They,are,my,in-laws,parents,grandparents,cousins</options>
     </question>
     <question>
         <id>60</id>
-        <prompt>What's your dream vacation?</prompt>
-        <answer>My dream vacation is visiting Japan</answer>
-        <options>Japan,visiting,vacation,is,dream,My,Italy</options>
+        <prompt><hint><i>Hint: Immediate family</i></hint><br/>Who lives with you at home?</prompt>
+        <answer>My family lives with me</answer>
+        <options>My,family,lives,with,me,friends,neighbors,classmates</options>
     </question>
 
-    <!-- Technology -->
+    <!-- 61-70: Occupations -->
     <question>
         <id>61</id>
-        <prompt>How often do you use your phone?</prompt>
-        <answer>I use my phone every day</answer>
-        <options>computer,phone,use,my,every,I,day,week</options>
+        <prompt><hint><i>Hint: Teaches students</i></hint><br/>Who works at a school?</prompt>
+        <answer>A teacher works at a school</answer>
+        <options>A,teacher,works,at,a,school,doctor,hospital</options>
     </question>
     <question>
         <id>62</id>
-        <prompt>What app do you use most?</prompt>
-        <answer>I use WhatsApp the most</answer>
-        <options>Instagram,use,most,WhatsApp,the,I,Facebook</options>
+        <prompt><hint><i>Hint: Treats patients</i></hint><br/>Who works at a hospital?</prompt>
+        <answer>A doctor works at a hospital</answer>
+        <options>A,doctor,works,at,a,hospital,teacher,school</options>
     </question>
-
-    <!-- Health -->
     <question>
         <id>63</id>
-        <prompt>How do you stay healthy?</prompt>
-        <answer>I stay healthy by exercising regularly</answer>
-        <options>regularly,eating,healthy,by,stay,I,exercising</options>
+        <prompt><hint><i>Hint: Fights fires</i></hint><br/>Who puts out fires?</prompt>
+        <answer>A firefighter puts out fires</answer>
+        <options>A,firefighter,puts,out,fires,police,crimes</options>
     </question>
     <question>
         <id>64</id>
-        <prompt>How many hours do you sleep?</prompt>
-        <answer>I sleep eight hours every night</answer>
-        <options>seven,night,hours,sleep,eight,I,every,day</options>
+        <prompt><hint><i>Hint: Enforces laws</i></hint><br/>Who keeps people safe?</prompt>
+        <answer>A police officer keeps people safe</answer>
+        <options>A,police,officer,keeps,people,safe,firefighter,fires</options>
     </question>
-
-    <!-- Work/Study -->
     <question>
         <id>65</id>
-        <prompt>Where do you work or study?</prompt>
-        <answer>I study at the university</answer>
-        <options>home,university,study,at,I,the,school</options>
+        <prompt><hint><i>Hint: Builds houses</i></hint><br/>Who constructs buildings?</prompt>
+        <answer>A builder constructs buildings</answer>
+        <options>A,builder,constructs,buildings,architect,designs,plans</options>
     </question>
     <question>
         <id>66</id>
-        <prompt>What time do you start work?</prompt>
-        <answer>I start work at nine o'clock</answer>
-        <options>nine,o'clock,work,start,at,I,eight</options>
+        <prompt><hint><i>Hint: Designs buildings</i></hint><br/>Who draws building plans?</prompt>
+        <answer>An architect draws building plans</answer>
+        <options>An,architect,draws,building,plans,builder,constructs,houses</options>
     </question>
-
-    <!-- Family -->
     <question>
         <id>67</id>
-        <prompt>How many siblings do you have?</prompt>
-        <answer>I have two brothers and one sister</answer>
-        <options>one,sister,brothers,two,and,have,I</options>
+        <prompt><hint><i>Hint: Cooks professionally</i></hint><br/>Who prepares food in restaurants?</prompt>
+        <answer>A chef prepares food in restaurants</answer>
+        <options>A,chef,prepares,food,in,restaurants,cook,home</options>
     </question>
     <question>
         <id>68</id>
-        <prompt>What does your father do?</prompt>
-        <answer>My father works as a teacher</answer>
-        <options>teacher,works,as,father,a,My,doctor</options>
+        <prompt><hint><i>Hint: Serves food</i></hint><br/>Who takes orders in restaurants?</prompt>
+        <answer>A waiter takes orders in restaurants</answer>
+        <options>A,waiter,takes,orders,in,restaurants,chef,cooks</options>
     </question>
-
-    <!-- Weather -->
     <question>
         <id>69</id>
-        <prompt>What's the weather like today?</prompt>
-        <answer>It is cloudy and windy today</answer>
-        <options>sunny,windy,cloudy,is,and,It,today</options>
+        <prompt><hint><i>Hint: Grows food</i></hint><br/>Who works on a farm?</prompt>
+        <answer>A farmer works on a farm</answer>
+        <options>A,farmer,works,on,a,farm,gardener,plants,flowers</options>
     </question>
     <question>
         <id>70</id>
-        <prompt>What's your favorite season?</prompt>
-        <answer>My favorite season is autumn</answer>
-        <options>winter,season,autumn,is,favorite,My,summer</options>
+        <prompt><hint><i>Hint: Cares for plants</i></hint><br/>Who maintains gardens?</prompt>
+        <answer>A gardener maintains gardens</answer>
+        <options>A,gardener,maintains,gardens,farmer,grows,crops</options>
     </question>
 
-    <!-- Past experiences -->
+    <!-- 71-80: Hobbies -->
     <question>
         <id>71</id>
-        <prompt>Where were you born?</prompt>
-        <answer>I was born in New York</answer>
-        <options>York,New,in,born,was,I,London</options>
+        <prompt><hint><i>Hint: Uses paper and pen</i></hint><br/>What do you do for creativity?</prompt>
+        <answer>I draw pictures</answer>
+        <options>I,draw,pictures,write,stories,sing,songs</options>
     </question>
     <question>
         <id>72</id>
-        <prompt>What was your first job?</prompt>
-        <answer>My first job was a waiter</answer>
-        <options>teacher,waiter,was,job,first,My,a</options>
+        <prompt><hint><i>Hint: Uses musical instruments</i></hint><br/>What do you do for fun?</prompt>
+        <answer>I play music</answer>
+        <options>I,play,music,sports,games,chess,cards</options>
     </question>
-
-    <!-- Future plans -->
     <question>
         <id>73</id>
-        <prompt>Where do you want to live?</prompt>
-        <answer>I want to live near the beach</answer>
-        <options>city,beach,live,near,to,want,I,the</options>
+        <prompt><hint><i>Hint: Physical activity</i></hint><br/>What do you do for exercise?</prompt>
+        <answer>I play sports</answer>
+        <options>I,play,sports,music,games,chess,cards</options>
     </question>
     <question>
         <id>74</id>
-        <prompt>What will you learn next?</prompt>
-        <answer>I will learn to play piano</answer>
-        <options>guitar,piano,play,learn,will,to,I</options>
+        <prompt><hint><i>Hint: Uses strategy</i></hint><br/>What do you do for mental challenge?</prompt>
+        <answer>I play chess</answer>
+        <options>I,play,chess,cards,sports,music,games</options>
     </question>
-
-    <!-- Opinions -->
     <question>
         <id>75</id>
-        <prompt>What do you think about social media?</prompt>
-        <answer>I think social media is useful</answer>
-        <options>dangerous,media,social,think,is,I,useful</options>
+        <prompt><hint><i>Hint: Uses cards</i></hint><br/>What do you do with friends?</prompt>
+        <answer>I play cards</answer>
+        <options>I,play,cards,chess,sports,music,games</options>
     </question>
     <question>
         <id>76</id>
-        <prompt>How important is money?</prompt>
-        <answer>Money is important but not everything</answer>
-        <options>everything,important,Money,is,but,not,happiness</options>
+        <prompt><hint><i>Hint: Uses books</i></hint><br/>What do you do quietly?</prompt>
+        <answer>I read books</answer>
+        <options>I,read,books,magazines,newspapers,letters,emails</options>
     </question>
-
-    <!-- Comparisons -->
     <question>
         <id>77</id>
-        <prompt>Compare city and country life</prompt>
-        <answer>City life is busier than country life</answer>
-        <options>quieter,life,City,than,is,busier,country</options>
+        <prompt><hint><i>Hint: Uses paint</i></hint><br/>What do you do artistically?</prompt>
+        <answer>I paint pictures</answer>
+        <options>I,paint,pictures,draw,sketches,write,stories</options>
     </question>
     <question>
         <id>78</id>
-        <prompt>Which is healthier: apples or candy?</prompt>
-        <answer>Apples are healthier than candy</answer>
-        <options>candy,healthier,Apples,than,sweeter,are</options>
+        <prompt><hint><i>Hint: Uses camera</i></hint><br/>What do you do to capture moments?</prompt>
+        <answer>I take photos</answer>
+        <options>I,take,photos,videos,pictures,selfies,portraits</options>
     </question>
-
-    <!-- Advice -->
     <question>
         <id>79</id>
-        <prompt>What should I do to improve my English?</prompt>
-        <answer>You should practice every day</answer>
-        <options>week,day,every,practice,should,You,month</options>
+        <prompt><hint><i>Hint: Uses yarn</i></hint><br/>What do you do to make clothes?</prompt>
+        <answer>I knit sweaters</answer>
+        <options>I,knit,sweaters,scarves,hats,gloves,socks</options>
     </question>
     <question>
         <id>80</id>
-        <prompt>How can I make new friends?</prompt>
-        <answer>You can join social clubs</answer>
-        <options>sports,clubs,social,join,can,You,avoid</options>
+        <prompt><hint><i>Hint: Uses ingredients</i></hint><br/>What do you do in the kitchen?</prompt>
+        <answer>I bake cakes</answer>
+        <options>I,bake,cakes,cookies,bread,pies,pastries</options>
     </question>
 
-    <!-- Hypotheticals -->
+    <!-- 81-90: Shopping -->
     <question>
         <id>81</id>
-        <prompt>What would you do if you won the lottery?</prompt>
-        <answer>I would buy a big house</answer>
-        <options>car,house,big,buy,would,I,a</options>
+        <prompt><hint><i>Hint: Place with many stores</i></hint><br/>Where do you buy clothes?</prompt>
+        <answer>I shop at the mall</answer>
+        <options>I,shop,at,the,mall,market,online,store</options>
     </question>
     <question>
         <id>82</id>
-        <prompt>Where would you live if you could choose?</prompt>
-        <answer>I would live in Hawaii</answer>
-        <options>Hawaii,in,live,would,I,Paris</options>
+        <prompt><hint><i>Hint: Fresh produce place</i></hint><br/>Where do you buy vegetables?</prompt>
+        <answer>I shop at the market</answer>
+        <options>I,shop,at,the,market,mall,online,store</options>
     </question>
-
-    <!-- Experiences -->
     <question>
         <id>83</id>
-        <prompt>Have you ever broken a bone?</prompt>
-        <answer>I have never broken any bones</answer>
-        <options>bones,never,broken,have,any,I,arm</options>
+        <prompt><hint><i>Hint: Digital shopping</i></hint><br/>Where do you shop from home?</prompt>
+        <answer>I shop online</answer>
+        <options>I,shop,online,at,the,mall,market,store</options>
     </question>
     <question>
         <id>84</id>
-        <prompt>Have you visited many countries?</prompt>
-        <answer>I have visited five countries</answer>
-        <options>cities,countries,five,visited,have,I</options>
+        <prompt><hint><i>Hint: Small retail place</i></hint><br/>Where do you buy small items?</prompt>
+        <answer>I shop at the store</answer>
+        <options>I,shop,at,the,store,mall,market,online</options>
     </question>
-
-    <!-- Descriptions -->
     <question>
         <id>85</id>
-        <prompt>Describe your best friend</prompt>
-        <answer>My best friend is kind and funny</answer>
-        <options>serious,funny,friend,and,kind,best,is,My</options>
+        <prompt><hint><i>Hint: Clothing purchase</i></hint><br/>What do you buy to wear?</prompt>
+        <answer>I buy clothes</answer>
+        <options>I,buy,clothes,shoes,hats,gloves,accessories</options>
     </question>
     <question>
         <id>86</id>
-        <prompt>What does your room look like?</prompt>
-        <answer>My room is small but comfortable</answer>
-        <options>big,comfortable,room,but,is,My,small</options>
+        <prompt><hint><i>Hint: Footwear purchase</i></hint><br/>What do you buy for your feet?</prompt>
+        <answer>I buy shoes</answer>
+        <options>I,buy,shoes,clothes,hats,gloves,accessories</options>
     </question>
-
-    <!-- Instructions -->
     <question>
         <id>87</id>
-        <prompt>How do you make a sandwich?</prompt>
-        <answer>First you take two slices of bread</answer>
-        <options>bread,slices,First,take,two,you,of</options>
+        <prompt><hint><i>Hint: Headwear purchase</i></hint><br/>What do you buy for your head?</prompt>
+        <answer>I buy hats</answer>
+        <options>I,buy,hats,shoes,clothes,gloves,accessories</options>
     </question>
     <question>
         <id>88</id>
-        <prompt>What's the recipe for scrambled eggs?</prompt>
-        <answer>You need eggs, milk, and butter</answer>
-        <options>butter,flour,need,eggs,You,milk,and</options>
+        <prompt><hint><i>Hint: Handwear purchase</i></hint><br/>What do you buy for your hands?</prompt>
+        <answer>I buy gloves</answer>
+        <options>I,buy,gloves,hats,shoes,clothes,accessories</options>
     </question>
-
-    <!-- Quantities -->
     <question>
         <id>89</id>
-        <prompt>How much water should you drink?</prompt>
-        <answer>You should drink eight glasses daily</answer>
-        <options>cups,glasses,eight,drink,daily,should,You</options>
+        <prompt><hint><i>Hint: Jewelry purchase</i></hint><br/>What do you buy for decoration?</prompt>
+        <answer>I buy accessories</answer>
+        <options>I,buy,accessories,gloves,hats,shoes,clothes</options>
     </question>
     <question>
         <id>90</id>
-        <prompt>How many languages do you speak?</prompt>
-        <answer>I speak three languages fluently</answer>
-        <options>fluently,well,languages,three,speak,I</options>
+        <prompt><hint><i>Hint: Payment method</i></hint><br/>How do you pay for purchases?</prompt>
+        <answer>I pay with money</answer>
+        <options>I,pay,with,money,credit,card,cash,check</options>
     </question>
 
-    <!-- Preferences -->
+    <!-- 91-100: Technology -->
     <question>
         <id>91</id>
-        <prompt>Which do you prefer: tea or coffee?</prompt>
-        <answer>I prefer tea to coffee</answer>
-        <options>juice,coffee,tea,prefer,to,I</options>
+        <prompt><hint><i>Hint: Communication device</i></hint><br/>What do you use to call people?</prompt>
+        <answer>I use a phone</answer>
+        <options>I,use,a,phone,computer,tablet,television,radio</options>
     </question>
     <question>
         <id>92</id>
-        <prompt>Do you like spicy food?</prompt>
-        <answer>I love spicy food very much</answer>
-        <options>sweet,much,very,food,spicy,love,I</options>
+        <prompt><hint><i>Hint: Work device</i></hint><br/>What do you use for typing?</prompt>
+        <answer>I use a computer</answer>
+        <options>I,use,a,computer,phone,tablet,television,radio</options>
     </question>
-
-    <!-- Memories -->
     <question>
         <id>93</id>
-        <prompt>What's your earliest memory?</prompt>
-        <answer>My earliest memory is learning to walk</answer>
-        <options>talk,walk,learning,memory,earliest,is,My</options>
+        <prompt><hint><i>Hint: Portable device</i></hint><br/>What do you use for reading?</prompt>
+        <answer>I use a tablet</answer>
+        <options>I,use,a,tablet,phone,computer,television,radio</options>
     </question>
     <question>
         <id>94</id>
-        <prompt>What was your favorite childhood toy?</prompt>
-        <answer>My favorite toy was a teddy bear</answer>
-        <options>doll,bear,teddy,was,toy,favorite,My,a</options>
+        <prompt><hint><i>Hint: Entertainment device</i></hint><br/>What do you watch shows on?</prompt>
+        <answer>I watch television</answer>
+        <options>I,watch,television,phone,computer,tablet,radio</options>
     </question>
-
-    <!-- Current activities -->
     <question>
         <id>95</id>
-        <prompt>What are you reading now?</prompt>
-        <answer>I am reading an interesting novel</answer>
-        <options>magazine,novel,interesting,reading,an,am,I</options>
+        <prompt><hint><i>Hint: Audio device</i></hint><br/>What do you listen to music on?</prompt>
+        <answer>I listen to the radio</answer>
+        <options>I,listen,to,the,radio,phone,computer,tablet</options>
     </question>
     <question>
         <id>96</id>
-        <prompt>What music are you listening to?</prompt>
-        <answer>I am listening to pop music</answer>
-        <options>jazz,music,pop,to,listening,am,I</options>
+        <prompt><hint><i>Hint: Internet access</i></hint><br/>What do you use to browse websites?</prompt>
+        <answer>I use the internet</answer>
+        <options>I,use,the,internet,phone,computer,tablet,television</options>
     </question>
-
-    <!-- Problems -->
     <question>
         <id>97</id>
-        <prompt>What's bothering you today?</prompt>
-        <answer>I have a terrible headache</answer>
-        <options>cold,headache,terrible,a,have,I</options>
+        <prompt><hint><i>Hint: Social media</i></hint><br/>What do you use to connect with friends?</prompt>
+        <answer>I use social media</answer>
+        <options>I,use,social,media,internet,phone,computer,tablet</options>
     </question>
     <question>
         <id>98</id>
-        <prompt>Why are you stressed?</prompt>
-        <answer>I have too much work to do</answer>
-        <options>work,much,too,have,do,to,I</options>
+        <prompt><hint><i>Hint: Video calls</i></hint><br/>What do you use to see distant family?</prompt>
+        <answer>I use video chat</answer>
+        <options>I,use,video,chat,phone,computer,tablet,television</options>
     </question>
-
-    <!-- Achievements -->
     <question>
         <id>99</id>
-        <prompt>What are you proud of?</prompt>
-        <answer>I am proud of my cooking skills</answer>
-        <options>drawing,skills,cooking,of,proud,am,my,I</options>
+        <prompt><hint><i>Hint: Digital messages</i></hint><br/>What do you use to send messages?</prompt>
+        <answer>I use email</answer>
+        <options>I,use,email,phone,computer,tablet,television</options>
     </question>
     <question>
         <id>100</id>
-        <prompt>What's your greatest achievement?</prompt>
-        <answer>My greatest achievement is graduating university</answer>
-        <options>university,graduating,achievement,greatest,is,My,job</options>
+        <prompt><hint><i>Hint: Online videos</i></hint><br/>What do you use to watch tutorials?</prompt>
+        <answer>I use streaming</answer>
+        <options>I,use,streaming,phone,computer,tablet,television</options>
     </question>
 </questions>
