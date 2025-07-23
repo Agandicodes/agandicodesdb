@@ -17,7 +17,7 @@
     <question>
         <id>3</id>
         <hint>🐖 Scavenger</hint>
-        <prompt>❓ Which animal eats waste and has front legs longer than hind ones?</prompt>
+        <prompt>❓ Which animal rolls in mud, has a curly tail, and front legs longer than its back legs?</prompt>
         <answer>✅ empunu</answer>
         <options>empunu,embwa,birundura,enkoko,ente,endiga,embuzi</options>
     </question>
@@ -46,15 +46,15 @@
         <id>7</id>
         <hint>🍯 Sweetener</hint>
         <prompt>❓ What do bees produce that is sweet?</prompt>
-        <answer>✅ enjoki</answer>
-        <options>enjoki,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
+        <answer>✅ obwoki</answer>
+        <options>obwoki,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
     </question>
     <question>
         <id>8</id>
         <hint>🌾 Grain staple</hint>
         <prompt>❓ What food is made from millet?</prompt>
         <answer>✅ oburo</answer>
-        <options>oburo,ebitookye,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
+        <options>oburo,ebitookye,eshabwe,amatche,amawuwa,amatunguru,amazi</options>
     </question>
     <question>
         <id>9</id>
