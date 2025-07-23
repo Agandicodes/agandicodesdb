@@ -32,224 +32,224 @@
         <id>5</id>
         <hint>🍌 Staple food</hint>
         <prompt>❓ What is the main food eaten when not eating bread?</prompt>
-        <answer>✅ Ebitookye</answer>
-        <options>Ebitookye,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
+        <answer>✅ ebitookye</answer>
+        <options>ebitookye,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
     </question>
     <question>
         <id>6</id>
         <hint>🥛 Dairy product</hint>
         <prompt>❓ What white liquid comes from cows?</prompt>
-        <answer>✅ Amate</answer>
-        <options>Amate,amazi,amasyosyo,amawuwa,amatante,amaziga,amazima</options>
+        <answer>✅ amate</answer>
+        <options>amate,amazi,amasyosyo,amawuwa,amatante,amaziga,amazima</options>
     </question>
     <question>
         <id>7</id>
         <hint>🍯 Sweetener</hint>
         <prompt>❓ What do bees produce that is sweet?</prompt>
-        <answer>✅ Enjoki</answer>
-        <options>Enjoki,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
+        <answer>✅ enjoki</answer>
+        <options>enjoki,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
     </question>
     <question>
         <id>8</id>
         <hint>🌾 Grain staple</hint>
         <prompt>❓ What food is made from millet?</prompt>
-        <answer>✅ Oburo</answer>
-        <options>Oburo,ebitookye,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
+        <answer>✅ oburo</answer>
+        <options>oburo,ebitookye,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
     </question>
     <question>
         <id>9</id>
         <hint>👀 Eye feature</hint>
         <prompt>❓ What grows on eyelids to protect eyes?</prompt>
-        <answer>✅ Bahungu</answer>
-        <options>Bahungu,amayasha,amayonjo,amaziga,amazonba,amechange,amiiina</options>
+        <answer>✅ bahungu</answer>
+        <options>bahungu,amayasha,amayonjo,amaziga,amazonba,amechange,amiiina</options>
     </question>
     <question>
         <id>10</id>
         <hint>😢 Eye water</hint>
         <prompt>❓ What salty water comes from eyes when crying?</prompt>
-        <answer>✅ Amaziga</answer>
-        <options>Amaziga,amazi,amasyosyo,amawuwa,amatante,amazima,amazonba</options>
+        <answer>✅ amaziga</answer>
+        <options>amaziga,amazi,amasyosyo,amawuwa,amatante,amazima,amazonba</options>
     </question>
     <question>
         <id>11</id>
         <hint>🦵 Body part</hint>
         <prompt>❓ What is between thigh and sexual organs?</prompt>
-        <answer>✅ Amayasha</answer>
-        <options>Amayasha,amayonjo,amaziga,amazonba,amechange,amiiina,amoogi</options>
+        <answer>✅ amayasha</answer>
+        <options>amayasha,amayonjo,amaziga,amazonba,amechange,amiiina,amoogi</options>
     </question>
     <question>
         <id>12</id>
         <hint>🥁 Royal drum</hint>
         <prompt>❓ What is the largest ceremonial drum in Ankole palace called?</prompt>
-        <answer>✅ Bagyendanwa</answer>
-        <options>Bagyendanwa,engoma,ekiduri,ekikapu,ekitanda,embuga,ekyambaro</options>
+        <answer>✅ bagyendanwa</answer>
+        <options>bagyendanwa,engoma,ekiduri,ekikapu,ekitanda,embuga,ekyambaro</options>
     </question>
     <question>
         <id>13</id>
         <hint>💃 Dance accessory</hint>
         <prompt>❓ What musical ornaments are tied to legs when dancing?</prompt>
-        <answer>✅ Amayombera</answer>
-        <options>Amayombera,amayengo,amayonjo,amayonza,amazina,amazonba,amechange</options>
+        <answer>✅ amayombera</answer>
+        <options>amayombera,amayengo,amayonjo,amayonza,amazina,amazonba,amechange</options>
     </question>
     <question>
         <id>14</id>
         <hint>📖 Holy book</hint>
         <prompt>❓ What is the Christian holy book called?</prompt>
-        <answer>✅ Baiburi</answer>
-        <options>Baiburi,arubamu,arifu,arimansi,asidi,ceeki,chapati</options>
+        <answer>✅ baiburi</answer>
+        <options>baiburi,arubamu,arifu,arimansi,asidi,ceeki,chapati</options>
     </question>
     <question>
         <id>15</id>
         <hint>🌧️ Heavy rain</hint>
         <prompt>❓ What is very heavy rainfall called?</prompt>
-        <answer>✅ Ruhigura</answer>
-        <options>Ruhigura,ruhemba,ruhega,ruhenda,ruhenure,ruhiku,ruhombo</options>
+        <answer>✅ ruhigura</answer>
+        <options>ruhigura,ruhemba,ruhega,ruhenda,ruhenure,ruhiku,ruhombo</options>
     </question>
     <question>
         <id>16</id>
         <hint>⚡ Lightning sound</hint>
         <prompt>❓ What is the idiomatic name for thunder?</prompt>
-        <answer>✅ Rubarura-ntojo</answer>
-        <options>Rubarura-ntojo,ruhigura,ruhemba,ruhega,ruhenda,ruhenure,ruhiku</options>
+        <answer>✅ rubarura-ntojo</answer>
+        <options>rubarura-ntojo,ruhigura,ruhemba,ruhega,ruhenda,ruhenure,ruhiku</options>
     </question>
     <question>
         <id>17</id>
         <hint>🌄 Direction</hint>
         <prompt>❓ Where does the sun rise from?</prompt>
-        <answer>✅ Burugwa-izooba</answer>
-        <options>Burugwa-izooba,burengyerwa-izooba,amatemba,bumosho,buryo,bwino,bwangu</options>
+        <answer>✅ burugwa-izooba</answer>
+        <options>burugwa-izooba,burengyerwa-izooba,amatemba,bumosho,buryo,bwino,bwangu</options>
     </question>
     <question>
         <id>18</id>
         <hint>🛏️ Sleeping place</hint>
         <prompt>❓ Where do people sleep?</prompt>
-        <answer>✅ Ekitanda</answer>
-        <options>Ekitanda,omuka,isomero,embuga,ekyombo,ekikapu,ekyambaro</options>
+        <answer>✅ ekitanda</answer>
+        <options>ekitanda,omuka,isomero,embuga,ekyombo,ekikapu,ekyambaro</options>
     </question>
     <question>
         <id>19</id>
         <hint>🏺 Storage pot</hint>
         <prompt>❓ What is used to store milk?</prompt>
-        <answer>✅ Ekyombo</answer>
-        <options>Ekyombo,ekitanda,ekikapu,embuga,ekyambaro,omuriro,amaizi</options>
+        <answer>✅ ekyombo</answer>
+        <options>ekyombo,ekitanda,ekikapu,embuga,ekyambaro,omuriro,amaizi</options>
     </question>
     <question>
         <id>20</id>
         <hint>📚 Book storage</hint>
         <prompt>❓ Where do you put books in a house?</prompt>
-        <answer>✅ Amaterekyero</answer>
-        <options>Amaterekyero,ekitanda,embuga,ekyombo,ekikapu,ekyambaro,omuriro</options>
+        <answer>✅ amaterekyero</answer>
+        <options>amaterekyero,ekitanda,embuga,ekyombo,ekikapu,ekyambaro,omuriro</options>
     </question>
     <question>
         <id>21</id>
         <hint>😊 Inner joy</hint>
         <prompt>❓ What is the inner feeling when delighted?</prompt>
-        <answer>✅ Amatvengye</answer>
-        <options>Amatvengye,amatante,amazima,amazilka,amechange,amiiina,amoogi</options>
+        <answer>✅ amatvengye</answer>
+        <options>amatvengye,amatante,amazima,amazilka,amechange,amiiina,amoogi</options>
     </question>
     <question>
         <id>22</id>
         <hint>😔 Sadness</hint>
         <prompt>❓ What is great suffering of mind or body called?</prompt>
-        <answer>✅ Bushoberwa</answer>
-        <options>Bushoberwa,bugyengye,buhooro,bujenjebere,bujumcera,bukabuka,bukara</options>
+        <answer>✅ bushoberwa</answer>
+        <options>bushoberwa,bugyengye,buhooro,bujenjebere,bujumcera,bukabuka,bukara</options>
     </question>
     <question>
         <id>23</id>
         <hint>❤️ Strong feeling</hint>
         <prompt>❓ What is deep affection for someone called?</prompt>
-        <answer>✅ Rukundo</answer>
-        <options>Rukundo,rukumi,rukungu,rukunu,rukunya-akatimba,rukura,rukururana</options>
+        <answer>✅ rukundo</answer>
+        <options>rukundo,rukumi,rukungu,rukunu,rukunya-akatimba,rukura,rukururana</options>
     </question>
     <question>
         <id>24</id>
         <hint>🌅 Night time</hint>
         <prompt>❓ When do people sleep?</prompt>
-        <answer>✅ Ekiro</answer>
-        <options>Ekiro,ekyemisana,ekyomwangye,ekyokurya,eky'akasheshe,eky'omurimo,eky'okutamba</options>
+        <answer>✅ ekiro</answer>
+        <options>ekiro,ekyemisana,ekyomwangye,ekyokurya,eky'akasheshe,eky'omurimo,eky'okutamba</options>
     </question>
     <question>
         <id>25</id>
         <hint>📅 Special day</hint>
         <prompt>❓ What is the day you were born called?</prompt>
-        <answer>✅ Amazaarwa</answer>
-        <options>Amazaarwa,amatante,amazima,amazilka,amechange,amiiina,amoogi</options>
+        <answer>✅ amazaarwa</answer>
+        <options>amazaarwa,amatante,amazima,amazilka,amechange,amiiina,amoogi</options>
     </question>
     <question>
         <id>30</id>
         <hint>🙏 Worship</hint>
         <prompt>❓ What is communicating with a deity called?</prompt>
-        <answer>✅ Amiiina</answer>
-        <options>Amiiina,amatante,amazima,amazilka,amechange,amoogi,amooya</options>
+        <answer>✅ amiiina</answer>
+        <options>amiiina,amatante,amazima,amazilka,amechange,amoogi,amooya</options>
     </question>
     <question>
         <id>31</id>
         <hint>☯️ Truth</hint>
         <prompt>❓ What is the state of being true called?</prompt>
-        <answer>✅ Amazima</answer>
-        <options>Amazima,amatante,amazilka,amechange,amiiina,amoogi,amooya</options>
+        <answer>✅ amazima</answer>
+        <options>amazima,amatante,amazilka,amechange,amiiina,amoogi,amooya</options>
     </question>
     <question>
         <id>32</id>
         <hint>🚗 Vehicle</hint>
         <prompt>❓ What is "baasi" in English?</prompt>
-        <answer>✅ Bus</answer>
-        <options>Bus,car,bicycle,motorcycle,truck,train,plane</options>
+        <answer>✅ bus</answer>
+        <options>bus,car,bicycle,motorcycle,truck,train,plane</options>
     </question>
     <question>
         <id>33</id>
         <hint>📻 Electronics</hint>
         <prompt>❓ What is "reediyo" in English?</prompt>
-        <answer>✅ Radio</answer>
-        <options>Radio,television,phone,computer,camera,microphone,speaker</options>
+        <answer>✅ radio</answer>
+        <options>radio,television,phone,computer,camera,microphone,speaker</options>
     </question>
     <question>
         <id>34</id>
         <hint>👶 Newborn</hint>
         <prompt>❓ What is a very young baby called?</prompt>
-        <answer>✅ Bwercere</answer>
-        <options>Bwercere,bucura,bugufu,bugingo,bugondo,bugubugu,bugyendandara</options>
+        <answer>✅ bwercere</answer>
+        <options>bwercere,bucura,bugufu,bugingo,bugondo,bugubugu,bugyendandara</options>
     </question>
     <question>
         <id>35</id>
         <hint>👑 Royalty</hint>
         <prompt>❓ Who is the king's sister in Ankole called?</prompt>
-        <answer>✅ Rubuga</answer>
-        <options>Rubuga,rubanda,rubombo,rubosta,rucunuu,rucunya,rucwamihingo</options>
+        <answer>✅ rubuga</answer>
+        <options>rubuga,rubanda,rubombo,rubosta,rucunuu,rucunya,rucwamihingo</options>
     </question>
     <question>
         <id>36</id>
         <hint>🔢 Number</hint>
         <prompt>❓ What is "rukumi" in English?</prompt>
-        <answer>✅ One thousand</answer>
-        <options>One thousand,one hundred,ten,five,twenty,fifty,one million</options>
+        <answer>✅ one thousand</answer>
+        <options>one thousand,one hundred,ten,five,twenty,fifty,one million</options>
     </question>
     <question>
         <id>37</id>
         <hint>🤒 Sickness</hint>
         <prompt>❓ What are white patches on skin called?</prompt>
-        <answer>✅ Amazonba</answer>
-        <options>Amazonba,amasyamaaya,amatante,amaziga,amechange,amiiina,amoogi</options>
+        <answer>✅ amazonba</answer>
+        <options>amazonba,amasyamaaya,amatante,amaziga,amechange,amiiina,amoogi</options>
     </question>
     <question>
         <id>38</id>
         <hint>✝️ Christian holiday</hint>
         <prompt>❓ What is "Paasika" in English?</prompt>
-        <answer>✅ Easter day</answer>
-        <options>Easter day,Christmas,Good Friday,Ascension day,Pentecost,Advent,Epiphany</options>
+        <answer>✅ easter day</answer>
+        <options>easter day,christmas,good friday,ascension day,pentecost,advent,epiphany</options>
     </question>
     <question>
         <id>39</id>
         <hint>🏡 Home</hint>
         <prompt>❓ What shelters people?</prompt>
-        <answer>✅ Omuka</answer>
-        <options>Omuka,isomero,ekitanda,embuga,ekyombo,ekikapu,ekyambaro</options>
+        <answer>✅ omuka</answer>
+        <options>omuka,isomero,ekitanda,embuga,ekyombo,ekikapu,ekyambaro</options>
     </question>
     <question>
         <id>40</id>
         <hint>🌌 Night</hint>
         <prompt>❓ What makes people sleep?</prompt>
-        <answer>✅ Ekiro</answer>
-        <options>Ekiro,ekyemisana,ekyomwangye,ekyokurya,eky'akasheshe,eky'omurimo,eky'okutamba</options>
+        <answer>✅ ekiro</answer>
+        <options>ekiro,ekyemisana,ekyomwangye,ekyokurya,eky'akasheshe,eky'omurimo,eky'okutamba</options>
     </question>
 </questions>
