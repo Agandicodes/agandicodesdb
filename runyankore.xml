@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
-    <!-- DAILY ACTIVITIES (15 Questions) -->
-
-    <question><id>1</id><hint>🪥 Ekitambisha amenyo</hint><prompt>❓ Kiki ekikora ekiro?</prompt><answer>✅ Nkashamba amenyo</answer><options>Nka,shamba,amenyo,ebitookye,okunawa,engaro,ebibooko</options></question>
-
-    <question><id>2</id><hint>🚿 Okunawa</hint><prompt>❓ Kiki ekikora olw'okushamba amenyo?</prompt><answer>✅ Nkanawa omubiri</answer><options>Nka,nawa,omubiri,amenyo,ebyokurya,engaro,ebintu</options></question>
-
+    <question>
+      <id>1</id>
+      <hint>🪥 Ekitambisha amenyo</hint>
+      <prompt>❓ Kiki ekikora ekiro?</prompt>
+      <answer>✅ Nkashamba amenyo</answer>
+      <options>Nka,shamba,amenyo,ebitookye,okunawa,engaro,ebibooko</options>
+    </question>
+    <question>
+      <id>2</id>
+      <hint>🚿 Okunawa</hint>
+      <prompt>❓ Kiki ekikora olw'okushamba amenyo?</prompt>
+      <answer>✅ Nkanawa omubiri</answer>
+      <options>Nka,nawa,omubiri,amenyo,ebyokurya,engaro,ebintu</options>
+    </question>
     <question><id>3</id><hint>👔 Ekyambaro</hint><prompt>❓ Kiki ekikora nga ogamba okugyenda ku mirimo?</prompt><answer>✅ Nkambara ekyambaro</answer><options>Nka,mba,ra,ekyambaro,engato,eishati,ekikapu</options></question>
-
-    <question><id>4</id><hint>🍌 Eky'omwangye</hint><prompt>❓ Kiki ekirya omwangye?</prompt><answer>✅ Nkarya ebitookye</answer><options>Nka,rya,ebitookye,omugaati,enjoki,ebinyeebwa,ebihimba</options></question>
-
-    <question><id>5</id><hint>☕ Chai</hint><prompt>❓ Kiki ekinywa omwangye?</prompt><answer>✅ Nkanywa chai</answer><options>Nka,nywa,chai,kawa,amata,amaizi,omwenge</options></question>
-
-    <question><id>6</id><hint>🚗 Motoka</hint><prompt>❓ Ogamba otya okugyenda ku mirimo?</prompt><answer>✅ Nkatwara motoka</answer><options>Nka,twara,motoka,basi,egaari,entasi,ebigari</options></question>
+<question><id>4</id><hint>🍌 Eky'omwangye</hint><prompt>❓ Kiki ekirya omwangye?</prompt><answer>✅ Nkarya ebitookye</answer><options>Nka,rya,ebitookye,omugaati,enjoki,ebinyeebwa,ebihimba</options></question>
+<question><id>5</id><hint>☕ Chai</hint><prompt>❓ Kiki ekinywa omwangye?</prompt><answer>✅ Nkanywa chai</answer><options>Nka,nywa,chai,kawa,amata,amaizi,omwenge</options></question>
+<question><id>6</id><hint>🚗 Motoka</hint><prompt>❓ Ogamba otya okugyenda ku mirimo?</prompt><answer>✅ Nkatwara motoka</answer><options>Nka,twara,motoka,basi,egaari,entasi,ebigari</options></question>
 
     <question><id>7</id><hint>🍛 Ekyemisana</hint><prompt>❓ Kiki ekirya saa ya cumi?</prompt><answer>✅ Nkarya ekyemisana</answer><options>Nka,rya,ekyemisana,ekiro,ekyomwangye,ekyokurya,eky'akasheshe</options></question>
 
@@ -31,10 +36,6 @@
     <question><id>14</id><hint>🧹 Okukaraba</hint><prompt>❓ Kiki ekikora omuka?</prompt><answer>✅ Nkakaraba omuka</answer><options>Nka,ka,raba,omuka,embuga,ekyombo,ekikapu</options></question>
 
     <question><id>15</id><hint>👨‍🌾 Okurima</hint><prompt>❓ Kiki ekikora omurimi?</prompt><answer>✅ Nkarima</answer><options>Nka,rima,omu,rimi,okutamba,okusoma,okwimukya</options></question>
-
-
-
-    <!-- ANIMALS (10 Questions) -->
 
     <question><id>16</id><hint>🐄 Ente</hint><prompt>❓ Kiki ekirindwa ekitungwa ekirya ebyatsi?</prompt><answer>✅ Ente</answer><options>Ente,endiga,embuzi,enkoko,embogo,empunu,engabi</options></question>
 
@@ -55,10 +56,6 @@
     <question><id>24</id><hint>🐒 Enkima</hint><prompt>❓ Kiki ekirindwa ekirikwata ku miti?</prompt><answer>✅ Enkima</answer><options>Enkima,enkende,empunu,engabi,enkoko,embwa,ente</options></question>
 
     <question><id>25</id><hint>🐦 Ekinyonyi</hint><prompt>❓ Kiki ekirindwa ekirikurunga mu kirere?</prompt><answer>✅ Ekinyonyi</answer><options>Ekinyonyi,enkima,enkende,empunu,engabi,enkoko,embwa</options></question>
-
-
-
-    <!-- FOOD & CULTURE (15 Questions) -->
 
     <question><id>26</id><hint>🍌 Ebitookye</hint><prompt>❓ Kiki ekirya omuntu nga tarikurya omugaati?</prompt><answer>✅ Ebitookye</answer><options>Ebitookye,ebinyeebwa,ebihimba,enjoki,omugaati,ebihimba,ebinyobwa</options></question>
 
