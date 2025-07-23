@@ -4,29 +4,29 @@
         <id>1</id>
         <hint>🐄 Livestock</hint>
         <prompt>❓ What are domestic animals kept for use called?</prompt>
-        <answer>✅ Amatungo</answer>
-        <options>Amatungo,amatante,amasyamaaya,amawuwa,amayonjo,amaziga,amazima</options>
+        <answer>✅ amatungo</answer>
+        <options>amatungo,amatante,amasyamaaya,amawuwa,amayonjo,amaziga,amazima</options>
     </question>
     <question>
         <id>2</id>
         <hint>🐕 Guard animal</hint>
         <prompt>❓ Which animal guards the home?</prompt>
-        <answer>✅ Embwa</answer>
-        <options>Embwa,empunu,enkoko,ente,endiga,embuzi,embogo</options>
+        <answer>✅ embwa</answer>
+        <options>embwa,empunu,enkoko,ente,endiga,embuzi,embogo</options>
     </question>
     <question>
         <id>3</id>
         <hint>🐖 Scavenger</hint>
         <prompt>❓ Which animal eats waste and has front legs longer than hind ones?</prompt>
-        <answer>✅ Empunu</answer>
-        <options>Empunu,embwa,birundura,enkoko,ente,endiga,embuzi</options>
+        <answer>✅ empunu</answer>
+        <options>empunu,embwa,birundura,enkoko,ente,endiga,embuzi</options>
     </question>
     <question>
         <id>4</id>
         <hint>🐓 Poultry</hint>
         <prompt>❓ Which domestic bird produces eggs?</prompt>
-        <answer>✅ Enkoko</answer>
-        <options>Enkoko,ekinyonyi,enkima,empunu,embwa,ente,endiga</options>
+        <answer>✅ enkoko</answer>
+        <options>enkoko,ekinyonyi,enkima,empunu,embwa,ente,endiga</options>
     </question>
     <question>
         <id>5</id>
