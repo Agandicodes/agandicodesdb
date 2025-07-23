@@ -1,7 +1,5 @@
-modify this with runyankore words where there is luganda word leaving emojis their "<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <questions>
-
     <!-- DAILY ACTIVITIES (15 Questions) -->
 
     <question><id>1</id><hint>🪥 Ekitambisha amenyo</hint><prompt>❓ Kiki ekikora ekiro?</prompt><answer>✅ Nkashamba amenyo</answer><options>Nka,shamba,amenyo,ebitookye,okunawa,engaro,ebibooko</options></question>
