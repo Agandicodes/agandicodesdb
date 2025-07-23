@@ -2,318 +2,253 @@
 <questions>
     <question>
         <id>1</id>
-        <hint>🪥 Ekitambisha amenyo</hint>
-        <prompt>❓ Kiki ekikora ekiro?</prompt>
-        <answer>✅ Nkashamba amenyo</answer>
-        <options>Nka,shamba,amenyo,ebitookye,okunawa,engaro,ebibooko</options>
+        <hint>🐄 Livestock</hint>
+        <prompt>❓ What are domestic animals kept for use called?</prompt>
+        <answer>✅ Amatungo</answer>
+        <options>Amatungo,amatante,amasyamaaya,amawuwa,amayonjo,amaziga,amazima</options>
     </question>
-
     <question>
         <id>2</id>
-        <hint>🚿 Okunawa</hint>
-        <prompt>❓ Kiki ekikora olw'okushamba amenyo?</prompt>
-        <answer>✅ Nkanawa omubiri</answer>
-        <options>Nka,nawa,omubiri,amenyo,ebyokurya,engaro,ebintu</options>
+        <hint>🐕 Guard animal</hint>
+        <prompt>❓ Which animal guards the home?</prompt>
+        <answer>✅ Embwa</answer>
+        <options>Embwa,empunu,enkoko,ente,endiga,embuzi,embogo</options>
     </question>
-
     <question>
         <id>3</id>
-        <hint>👔 Ekyambaro</hint>
-        <prompt>❓ Kiki ekikora nga ogamba okugyenda ku mirimo?</prompt>
-        <answer>✅ Nkambara ekyambaro</answer>
-        <options>Nka,mba,ra,ekyambaro,engato,eishati,ekikapu</options>
+        <hint>🐖 Scavenger</hint>
+        <prompt>❓ Which animal eats waste and has front legs longer than hind ones?</prompt>
+        <answer>✅ Empunu</answer>
+        <options>Empunu,embwa,birundura,enkoko,ente,endiga,embuzi</options>
     </question>
-
     <question>
         <id>4</id>
-        <hint>🍌 Eky'omwangye</hint>
-        <prompt>❓ Kiki ekirya omwangye?</prompt>
-        <answer>✅ Nkarya ebitookye</answer>
-        <options>Nka,rya,ebitookye,omugaati,enjoki,ebinyeebwa,ebihimba</options>
+        <hint>🐓 Poultry</hint>
+        <prompt>❓ Which domestic bird produces eggs?</prompt>
+        <answer>✅ Enkoko</answer>
+        <options>Enkoko,ekinyonyi,enkima,empunu,embwa,ente,endiga</options>
     </question>
-
     <question>
         <id>5</id>
-        <hint>☕ Chai</hint>
-        <prompt>❓ Kiki ekinywa omwangye?</prompt>
-        <answer>✅ Nkanywa chai</answer>
-        <options>Nka,nywa,chai,kawa,amata,amaizi,omwenge</options>
+        <hint>🍌 Staple food</hint>
+        <prompt>❓ What is the main food eaten when not eating bread?</prompt>
+        <answer>✅ Ebitookye</answer>
+        <options>Ebitookye,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
     </question>
-
     <question>
         <id>6</id>
-        <hint>🚗 Motoka</hint>
-        <prompt>❓ Ogamba otya okugyenda ku mirimo?</prompt>
-        <answer>✅ Nkatwara motoka</answer>
-        <options>Nka,twara,motoka,basi,egaari,entasi,ebigari</options>
+        <hint>🥛 Dairy product</hint>
+        <prompt>❓ What white liquid comes from cows?</prompt>
+        <answer>✅ Amate</answer>
+        <options>Amate,amazi,amasyosyo,amawuwa,amatante,amaziga,amazima</options>
     </question>
-
     <question>
         <id>7</id>
-        <hint>🍛 Ekyemisana</hint>
-        <prompt>❓ Kiki ekirya saa ya cumi?</prompt>
-        <answer>✅ Nkarya ekyemisana</answer>
-        <options>Nka,rya,ekyemisana,ekiro,ekyomwangye,ekyokurya,eky'akasheshe</options>
+        <hint>🍯 Sweetener</hint>
+        <prompt>❓ What do bees produce that is sweet?</prompt>
+        <answer>✅ Enjoki</answer>
+        <options>Enjoki,oburo,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
     </question>
-
     <question>
         <id>8</id>
-        <hint>😴 Orugye</hint>
-        <prompt>❓ Kiki ekikora olw'ekyemisana?</prompt>
-        <answer>✅ Nkataha orugye</answer>
-        <options>Nka,ta,ha,orugye,okugyenda,okunawa,okuhakaara</options>
+        <hint>🌾 Grain staple</hint>
+        <prompt>❓ What food is made from millet?</prompt>
+        <answer>✅ Oburo</answer>
+        <options>Oburo,ebitookye,eshabwe,amatche1,amawuwa,amatunguru,amazi</options>
     </question>
-
     <question>
         <id>9</id>
-        <hint>🍽️ Ekyokurya</hint>
-        <prompt>❓ Kiki ekirya ekiro?</prompt>
-        <answer>✅ Nkarya ekyokurya kye kiro</answer>
-        <options>Nka,rya,ekyokurya,kye,kiro,ekyemisana,ekyomwangye</options>
+        <hint>👀 Eye feature</hint>
+        <prompt>❓ What grows on eyelids to protect eyes?</prompt>
+        <answer>✅ Bahungu</answer>
+        <options>Bahungu,amayasha,amayonjo,amaziga,amazonba,amechange,amiiina</options>
     </question>
-
     <question>
         <id>10</id>
-        <hint>📚 Okusoma</hint>
-        <prompt>❓ Kiki ekikora abaana ku isomero?</prompt>
-        <answer>✅ Nkasoma</answer>
-        <options>Nka,soma,ku,isomero,okukora,okutamba,okwimukya</options>
+        <hint>😢 Eye water</hint>
+        <prompt>❓ What salty water comes from eyes when crying?</prompt>
+        <answer>✅ Amaziga</answer>
+        <options>Amaziga,amazi,amasyosyo,amawuwa,amatante,amazima,amazonba</options>
     </question>
-
     <question>
         <id>11</id>
-        <hint>⚽ Okutamba</hint>
-        <prompt>❓ Kiki ekikora abaana olw'emisana?</prompt>
-        <answer>✅ Nkatamba mpira</answer>
-        <options>Nka,tamba,mpira,omupiira,okukora,okusoma,okwimukya</options>
+        <hint>🦵 Body part</hint>
+        <prompt>❓ What is between thigh and sexual organs?</prompt>
+        <answer>✅ Amayasha</answer>
+        <options>Amayasha,amayonjo,amaziga,amazonba,amechange,amiiina,amoogi</options>
     </question>
-
     <question>
         <id>12</id>
-        <hint>🌙 Okuryama</hint>
-        <prompt>❓ Kiki ekikora ekiro?</prompt>
-        <answer>✅ Nkaryaama</answer>
-        <options>Nka,rya,ama,eki,ro,okuryama,okutamba</options>
+        <hint>🥁 Royal drum</hint>
+        <prompt>❓ What is the largest ceremonial drum in Ankole palace called?</prompt>
+        <answer>✅ Bagyendanwa</answer>
+        <options>Bagyendanwa,engoma,ekiduri,ekikapu,ekitanda,embuga,ekyambaro</options>
     </question>
-
     <question>
         <id>13</id>
-        <hint>🛏️ Ekitanda</hint>
-        <prompt>❓ Kiki ekikozire okuryama?</prompt>
-        <answer>✅ Nkashaka ekitanda</answer>
-        <options>Nka,sha,ka,ekitanda,embuga,ekyombo,ekikapu</options>
+        <hint>💃 Dance accessory</hint>
+        <prompt>❓ What musical ornaments are tied to legs when dancing?</prompt>
+        <answer>✅ Amayombera</answer>
+        <options>Amayombera,amayengo,amayonjo,amayonza,amazina,amazonba,amechange</options>
     </question>
-
     <question>
         <id>14</id>
-        <hint>🧹 Okukaraba</hint>
-        <prompt>❓ Kiki ekikora omuka?</prompt>
-        <answer>✅ Nkakaraba omuka</answer>
-        <options>Nka,ka,raba,omuka,embuga,ekyombo,ekikapu</options>
+        <hint>📖 Holy book</hint>
+        <prompt>❓ What is the Christian holy book called?</prompt>
+        <answer>✅ Baiburi</answer>
+        <options>Baiburi,arubamu,arifu,arimansi,asidi,ceeki,chapati</options>
     </question>
-
     <question>
         <id>15</id>
-        <hint>👨‍🌾 Okurima</hint>
-        <prompt>❓ Kiki ekikora omurimi?</prompt>
-        <answer>✅ Nkarima</answer>
-        <options>Nka,rima,omu,rimi,okutamba,okusoma,okwimukya</options>
+        <hint>🌧️ Heavy rain</hint>
+        <prompt>❓ What is very heavy rainfall called?</prompt>
+        <answer>✅ Ruhigura</answer>
+        <options>Ruhigura,ruhemba,ruhega,ruhenda,ruhenure,ruhiku,ruhombo</options>
     </question>
     <question>
         <id>16</id>
-        <hint>🐄 Ente</hint>
-        <prompt>❓ Kiki ekirindwa ekitungwa ekirya ebyatsi?</prompt>
-        <answer>✅ Ente</answer>
-        <options>Ente,endiga,embuzi,enkoko,embogo,empunu,engabi</options>
+        <hint>⚡ Lightning sound</hint>
+        <prompt>❓ What is the idiomatic name for thunder?</prompt>
+        <answer>✅ Rubarura-ntojo</answer>
+        <options>Rubarura-ntojo,ruhigura,ruhemba,ruhega,ruhenda,ruhenure,ruhiku</options>
     </question>
-
     <question>
         <id>17</id>
-        <hint>🐑 Endiga</hint>
-        <prompt>❓ Kiki ekirindwa ekitungwa ekirya omutiba?</prompt>
-        <answer>✅ Endiga</answer>
-        <options>Endiga,ente,embuzi,enkoko,embogo,empunu,engabi</options>
+        <hint>🌄 Direction</hint>
+        <prompt>❓ Where does the sun rise from?</prompt>
+        <answer>✅ Burugwa-izooba</answer>
+        <options>Burugwa-izooba,burengyerwa-izooba,amatemba,bumosho,buryo,bwino,bwangu</options>
     </question>
-
     <question>
         <id>18</id>
-        <hint>🐐 Embuzi</hint>
-        <prompt>❓ Kiki ekirindwa ekitungwa ekirya ebihango?</prompt>
-        <answer>✅ Embuzi</answer>
-        <options>Embuzi,ente,endiga,enkoko,embogo,empunu,engabi</options>
+        <hint>🛏️ Sleeping place</hint>
+        <prompt>❓ Where do people sleep?</prompt>
+        <answer>✅ Ekitanda</answer>
+        <options>Ekitanda,omuka,isomero,embuga,ekyombo,ekikapu,ekyambaro</options>
     </question>
-
     <question>
         <id>19</id>
-        <hint>🐓 Enkoko</hint>
-        <prompt>❓ Kiki ekirindwa ekitungwa ekirya ebinyobwa?</prompt>
-        <answer>✅ Enkoko</answer>
-        <options>Enkoko,ente,endiga,embuzi,embogo,empunu,engabi</options>
+        <hint>🏺 Storage pot</hint>
+        <prompt>❓ What is used to store milk?</prompt>
+        <answer>✅ Ekyombo</answer>
+        <options>Ekyombo,ekitanda,ekikapu,embuga,ekyambaro,omuriro,amaizi</options>
     </question>
-
     <question>
         <id>20</id>
-        <hint>🐕 Embwa</hint>
-        <prompt>❓ Kiki ekirindwa ekitungwa ekirinda omuka?</prompt>
-        <answer>✅ Embwa</answer>
-        <options>Embwa,enkoko,empunu,engabi,embogo,ente,endiga</options>
+        <hint>📚 Book storage</hint>
+        <prompt>❓ Where do you put books in a house?</prompt>
+        <answer>✅ Amaterekyero</answer>
+        <options>Amaterekyero,ekitanda,embuga,ekyombo,ekikapu,ekyambaro,omuriro</options>
     </question>
-
     <question>
         <id>21</id>
-        <hint>🐖 Empunu</hint>
-        <prompt>❓ Kiki ekirindwa ekitungwa ekirya ebifunjo?</prompt>
-        <answer>✅ Empunu</answer>
-        <options>Empunu,embwa,enkoko,engabi,embogo,ente,endiga</options>
+        <hint>😊 Inner joy</hint>
+        <prompt>❓ What is the inner feeling when delighted?</prompt>
+        <answer>✅ Amatvengye</answer>
+        <options>Amatvengye,amatante,amazima,amazilka,amechange,amiiina,amoogi</options>
     </question>
-
     <question>
         <id>22</id>
-        <hint>🦁 Embogo</hint>
-        <prompt>❓ Kiki ekirindwa ekikora omushozi?</prompt>
-        <answer>✅ Embogo</answer>
-        <options>Embogo,empunu,engabi,enkoko,embwa,ente,endiga</options>
+        <hint>😔 Sadness</hint>
+        <prompt>❓ What is great suffering of mind or body called?</prompt>
+        <answer>✅ Bushoberwa</answer>
+        <options>Bushoberwa,bugyengye,buhooro,bujenjebere,bujumcera,bukabuka,bukara</options>
     </question>
-
     <question>
         <id>23</id>
-        <hint>🐘 Enjovu</hint>
-        <prompt>❓ Kiki ekirindwa ekinene enku?</prompt>
-        <answer>✅ Enjovu</answer>
-        <options>Enjovu,embogo,empunu,engabi,enkoko,embwa,ente</options>
+        <hint>❤️ Strong feeling</hint>
+        <prompt>❓ What is deep affection for someone called?</prompt>
+        <answer>✅ Rukundo</answer>
+        <options>Rukundo,rukumi,rukungu,rukunu,rukunya-akatimba,rukura,rukururana</options>
     </question>
-
     <question>
         <id>24</id>
-        <hint>🐒 Enkima</hint>
-        <prompt>❓ Kiki ekirindwa ekirikwata ku miti?</prompt>
-        <answer>✅ Enkima</answer>
-        <options>Enkima,enkende,empunu,engabi,enkoko,embwa,ente</options>
+        <hint>🌅 Night time</hint>
+        <prompt>❓ When do people sleep?</prompt>
+        <answer>✅ Ekiro</answer>
+        <options>Ekiro,ekyemisana,ekyomwangye,ekyokurya,eky'akasheshe,eky'omurimo,eky'okutamba</options>
     </question>
-
     <question>
         <id>25</id>
-        <hint>🐦 Ekinyonyi</hint>
-        <prompt>❓ Kiki ekirindwa ekirikurunga mu kirere?</prompt>
-        <answer>✅ Ekinyonyi</answer>
-        <options>Ekinyonyi,enkima,enkende,empunu,engabi,enkoko,embwa</options>
+        <hint>📅 Special day</hint>
+        <prompt>❓ What is the day you were born called?</prompt>
+        <answer>✅ Amazaarwa</answer>
+        <options>Amazaarwa,amatante,amazima,amazilka,amechange,amiiina,amoogi</options>
     </question>
-    <question>
-        <id>26</id>
-        <hint>🍌 Ebitookye</hint>
-        <prompt>❓ Kiki ekirya omuntu nga tarikurya omugaati?</prompt>
-        <answer>✅ Ebitookye</answer>
-        <options>Ebitookye,ebinyeebwa,ebihimba,enjoki,omugaati,ebihimba,ebinyobwa</options>
-    </question>
-
-    <question>
-        <id>27</id>
-        <hint>🍲 Eshabwe</hint>
-        <prompt>❓ Kiki ekyokurya eky'obuganda ekirikozire amata?</prompt>
-        <answer>✅ Eshabwe</answer>
-        <options>Eshabwe,ebitookye,ebinyeebwa,ebihimba,enjoki,omugaati,ebinyobwa</options>
-    </question>
-
-    <question>
-        <id>28</id>
-        <hint>🥛 Amata</hint>
-        <prompt>❓ Kiki ekinywa ekirikozire ente?</prompt>
-        <answer>✅ Amata</answer>
-        <options>Amata,amaizi,omwenge,chai,kawa,ebinyobwa,ebitookye</options>
-    </question>
-
-    <question>
-        <id>29</id>
-        <hint>🍯 Enjoki</hint>
-        <prompt>❓ Kiki ekirikora oburo bw'enyonyi?</prompt>
-        <answer>✅ Enjoki</answer>
-        <options>Enjoki,ebitookye,ebinyeebwa,ebihimba,omugaati,ebihimba,ebinyobwa</options>
-    </question>
-
     <question>
         <id>30</id>
-        <hint>🌾 Oburo</hint>
-        <prompt>❓ Kiki ekyokurya ekirikozire empeke?</prompt>
-        <answer>✅ Oburo</answer>
-        <options>Oburo,ebitookye,ebinyeebwa,ebihimba,enjoki,omugaati,ebinyobwa</options>
+        <hint>🙏 Worship</hint>
+        <prompt>❓ What is communicating with a deity called?</prompt>
+        <answer>✅ Amiiina</answer>
+        <options>Amiiina,amatante,amazima,amazilka,amechange,amoogi,amooya</options>
     </question>
-
     <question>
         <id>31</id>
-        <hint>🥔 Ebihimba</hint>
-        <prompt>❓ Kiki ekyokurya ekirikwatira mu butaka?</prompt>
-        <answer>✅ Ebihimba</answer>
-        <options>Ebihimba,ebitookye,ebinyeebwa,enjoki,omugaati,ebinyobwa,oburo</options>
+        <hint>☯️ Truth</hint>
+        <prompt>❓ What is the state of being true called?</prompt>
+        <answer>✅ Amazima</answer>
+        <options>Amazima,amatante,amazilka,amechange,amiiina,amoogi,amooya</options>
     </question>
-
     <question>
         <id>32</id>
-        <hint>🍗 Enyama</hint>
-        <prompt>❓ Kiki ekyokurya ekirikozire ente n'endiga?</prompt>
-        <answer>✅ Enyama</answer>
-        <options>Enyama,ebitookye,ebinyeebwa,ebihimba,enjoki,omugaati,ebinyobwa</options>
+        <hint>🚗 Vehicle</hint>
+        <prompt>❓ What is "baasi" in English?</prompt>
+        <answer>✅ Bus</answer>
+        <options>Bus,car,bicycle,motorcycle,truck,train,plane</options>
     </question>
-
     <question>
         <id>33</id>
-        <hint>🔥 Okucumura</hint>
-        <prompt>❓ Kiki ekikozire okuteeka ekyokurya?</prompt>
-        <answer>✅ Omuriro</answer>
-        <options>Omuriro,amaizi,ekyombo,ekikapu,ekitanda,embuga,ekyambaro</options>
+        <hint>📻 Electronics</hint>
+        <prompt>❓ What is "reediyo" in English?</prompt>
+        <answer>✅ Radio</answer>
+        <options>Radio,television,phone,computer,camera,microphone,speaker</options>
     </question>
-
     <question>
         <id>34</id>
-        <hint>🏺 Ekyombo</hint>
-        <prompt>❓ Kiki ekikozire okuteeka amata?</prompt>
-        <answer>✅ Ekyombo</answer>
-        <options>Ekyombo,ekikapu,ekitanda,embuga,ekyambaro,omuriro,amaizi</options>
+        <hint>👶 Newborn</hint>
+        <prompt>❓ What is a very young baby called?</prompt>
+        <answer>✅ Bwercere</answer>
+        <options>Bwercere,bucura,bugufu,bugingo,bugondo,bugubugu,bugyendandara</options>
     </question>
-
     <question>
         <id>35</id>
-        <hint>👑 Omukama</hint>
-        <prompt>❓ Kiki ekiteekateeka omuri Ankole?</prompt>
-        <answer>✅ Omukama</answer>
-        <options>Omukama,omurimi,omushozi,omuntu,omwana,omukazi,omushaija</options>
+        <hint>👑 Royalty</hint>
+        <prompt>❓ Who is the king's sister in Ankole called?</prompt>
+        <answer>✅ Rubuga</answer>
+        <options>Rubuga,rubanda,rubombo,rubosta,rucunuu,rucunya,rucwamihingo</options>
     </question>
-
     <question>
         <id>36</id>
-        <hint>🥁 Engoma</hint>
-        <prompt>❓ Kiki ekikozire okutamba omwishiki?</prompt>
-        <answer>✅ Engoma</answer>
-        <options>Engoma,ekiduri,ekikapu,ekitanda,embuga,ekyambaro,omuriro</options>
+        <hint>🔢 Number</hint>
+        <prompt>❓ What is "rukumi" in English?</prompt>
+        <answer>✅ One thousand</answer>
+        <options>One thousand,one hundred,ten,five,twenty,fifty,one million</options>
     </question>
-
     <question>
         <id>37</id>
-        <hint>💃 Ekitaguriro</hint>
-        <prompt>❓ Kiki ekikora abaana ku ntebe?</prompt>
-        <answer>✅ Nkatamba</answer>
-        <options>Nka,tamba,ku,ntebe,okukora,okusoma,okwimukya</options>
+        <hint>🤒 Sickness</hint>
+        <prompt>❓ What are white patches on skin called?</prompt>
+        <answer>✅ Amazonba</answer>
+        <options>Amazonba,amasyamaaya,amatante,amaziga,amechange,amiiina,amoogi</options>
     </question>
-
     <question>
         <id>38</id>
-        <hint>🌍 Uganda</hint>
-        <prompt>❓ Kiki ekihurira Runyankore-Rukiga?</prompt>
-        <answer>✅ Uganda</answer>
-        <options>Uganda,Tanzania,Rwanda,Kenya,Congo,Sudan,Burundi</options>
+        <hint>✝️ Christian holiday</hint>
+        <prompt>❓ What is "Paasika" in English?</prompt>
+        <answer>✅ Easter day</answer>
+        <options>Easter day,Christmas,Good Friday,Ascension day,Pentecost,Advent,Epiphany</options>
     </question>
-
     <question>
         <id>39</id>
-        <hint>🏡 Omuka</hint>
-        <prompt>❓ Kiki ekirikwatira abantu?</prompt>
+        <hint>🏡 Home</hint>
+        <prompt>❓ What shelters people?</prompt>
         <answer>✅ Omuka</answer>
         <options>Omuka,isomero,ekitanda,embuga,ekyombo,ekikapu,ekyambaro</options>
     </question>
-
     <question>
         <id>40</id>
-        <hint>🌅 Ekiro</hint>
-        <prompt>❓ Kiki ekirikurata omuntu okuryama?</prompt>
+        <hint>🌌 Night</hint>
+        <prompt>❓ What makes people sleep?</prompt>
         <answer>✅ Ekiro</answer>
         <options>Ekiro,ekyemisana,ekyomwangye,ekyokurya,eky'akasheshe,eky'omurimo,eky'okutamba</options>
     </question>
