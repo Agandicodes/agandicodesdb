@@ -700,4 +700,354 @@
         <answer>I use streaming</answer>
         <options>I,use,streaming,phone,computer,tablet,television</options>
     </question>
+    <question>
+        <id>101</id>
+        <hint>School subject</hint>
+        <prompt>What do you study to solve equations?</prompt>
+        <answer>I study mathematics</answer>
+        <options>I,study,mathematics,history,science,literature,geography</options>
+    </question>
+    <question>
+        <id>102</id>
+        <hint>Science branch</hint>
+        <prompt>What do you study to learn about chemicals?</prompt>
+        <answer>I study chemistry</answer>
+        <options>I,study,chemistry,biology,physics,astronomy,geology</options>
+    </question>
+    <question>
+        <id>103</id>
+        <hint>Writing tool</hint>
+        <prompt>What do you use to take notes in class?</prompt>
+        <answer>I use a notebook</answer>
+        <options>I,use,a,notebook,laptop,tablet,textbook,workbook</options>
+    </question>
+    <question>
+        <id>104</id>
+        <hint>School break</hint>
+        <prompt>What do you do between classes?</prompt>
+        <answer>I have a break</answer>
+        <options>I,have,a,break,lunch,meeting,club,activity</options>
+    </question>
+    <question>
+        <id>105</id>
+        <hint>After-school activity</hint>
+        <prompt>What do you do for fun after school?</prompt>
+        <answer>I join a club</answer>
+        <options>I,join,a,club,sport,team,class,activity</options>
+    </question>
+    <question>
+        <id>106</id>
+        <hint>Academic evaluation</hint>
+        <prompt>How do teachers assess your learning?</prompt>
+        <answer>They give tests</answer>
+        <options>They,give,tests,quizzes,exams,projects,assignments</options>
+    </question>
+    <question>
+        <id>107</id>
+        <hint>School event</hint>
+        <prompt>What do you attend at the end of the year?</prompt>
+        <answer>I attend graduation</answer>
+        <options>I,attend,graduation,concert,play,sports,day,carnival</options>
+    </question>
+    <question>
+        <id>108</id>
+        <hint>Learning place</hint>
+        <prompt>Where do you borrow books?</prompt>
+        <answer>I go to the library</answer>
+        <options>I,go,to,the,library,lab,gym,cafeteria,office</options>
+    </question>
+    <question>
+        <id>109</id>
+        <hint>School meal</hint>
+        <prompt>Where do you eat lunch at school?</prompt>
+        <answer>I eat in the cafeteria</answer>
+        <options>I,eat,in,the,cafeteria,classroom,library,outside</options>
+    </question>
+    <question>
+        <id>110</id>
+        <hint>Physical education</hint>
+        <prompt>Where do you play sports at school?</prompt>
+        <answer>I play in the gym</answer>
+        <options>I,play,in,the,gym,field,court,pool,outside</options>
+    </question>
+    <question>
+        <id>111</id>
+        <hint>Digital communication</hint>
+        <prompt>How do you text your friends?</prompt>
+        <answer>I use a messaging app</answer>
+        <options>I,use,a,messaging,app,email,social,media,phone,call</options>
+    </question>
+    <question>
+        <id>112</id>
+        <hint>Online learning</hint>
+        <prompt>How do you take classes remotely?</prompt>
+        <answer>I use video conferencing</answer>
+        <options>I,use,video,conferencing,email,apps,websites,platforms</options>
+    </question>
+    <question>
+        <id>113</id>
+        <hint>Digital storage</hint>
+        <prompt>Where do you save your files online?</prompt>
+        <answer>I use cloud storage</answer>
+        <options>I,use,cloud,storage,USB,drive,computer,phone,tablet</options>
+    </question>
+    <question>
+        <id>114</id>
+        <hint>Photo sharing</hint>
+        <prompt>Where do you post your pictures?</prompt>
+        <answer>I post on social media</answer>
+        <options>I,post,on,social,media,blogs,websites,galleries,forums</options>
+    </question>
+    <question>
+        <id>115</id>
+        <hint>Video platform</hint>
+        <prompt>Where do you watch short videos?</prompt>
+        <answer>I watch on streaming apps</answer>
+        <options>I,watch,on,streaming,apps,TV,computer,tablet,phone</options>
+    </question>
+    <question>
+        <id>116</id>
+        <hint>Music device</hint>
+        <prompt>How do you listen to songs?</prompt>
+        <answer>I use headphones</answer>
+        <options>I,use,headphones,speakers,phone,computer,radio,player</options>
+    </question>
+    <question>
+        <id>117</id>
+        <hint>Gaming device</hint>
+        <prompt>What do you play video games on?</prompt>
+        <answer>I play on a console</answer>
+        <options>I,play,on,a,console,computer,phone,tablet,device</options>
+    </question>
+    <question>
+        <id>118</id>
+        <hint>Smart device</hint>
+        <prompt>What controls your home devices?</prompt>
+        <answer>I use a smart assistant</answer>
+        <options>I,use,a,smart,assistant,phone,app,remote,control</options>
+    </question>
+    <question>
+        <id>119</id>
+        <hint>Navigation tool</hint>
+        <prompt>How do you find directions?</prompt>
+        <answer>I use a GPS app</answer>
+        <options>I,use,a,GPS,app,map,compass,phone,computer</options>
+    </question>
+    <question>
+        <id>120</id>
+        <hint>Online shopping</hint>
+        <prompt>Where do you order products?</prompt>
+        <answer>I shop on e-commerce sites</answer>
+        <options>I,shop,on,e-commerce,sites,apps,stores,markets,online</options>
+    </question>
+    <question>
+        <id>121</id>
+        <hint>Creative writing</hint>
+        <prompt>What do you write for fun?</prompt>
+        <answer>I write stories</answer>
+        <options>I,write,stories,poems,essays,journals,blogs,letters</options>
+    </question>
+    <question>
+        <id>122</id>
+        <hint>Artistic activity</hint>
+        <prompt>What do you create with colors?</prompt>
+        <answer>I paint artworks</answer>
+        <options>I,paint,artworks,drawings,sketches,designs,crafts</options>
+    </question>
+    <question>
+        <id>123</id>
+        <hint>Musical activity</hint>
+        <prompt>What instrument do you play?</prompt>
+        <answer>I play the guitar</answer>
+        <options>I,play,the,guitar,piano,drums,violin,flute,trumpet</options>
+    </question>
+    <question>
+        <id>124</id>
+        <hint>Outdoor activity</hint>
+        <prompt>What do you do in nature?</prompt>
+        <answer>I go hiking</answer>
+        <options>I,go,hiking,camping,fishing,running,biking,exploring</options>
+    </question>
+    <question>
+        <id>125</id>
+        <hint>Team sport</hint>
+        <prompt>What sport do you play with others?</prompt>
+        <answer>I play soccer</answer>
+        <options>I,play,soccer,basketball,volleyball,baseball,hockey,football</options>
+    </question>
+    <question>
+        <id>126</id>
+        <hint>Individual sport</hint>
+        <prompt>What sport do you play alone?</prompt>
+        <answer>I swim</answer>
+        <options>I,swim,run,cycle,skate,ski,surf,skateboard</options>
+    </question>
+    <question>
+        <id>127</id>
+        <hint>Board game</hint>
+        <prompt>What game do you play indoors?</prompt>
+        <answer>I play Monopoly</answer>
+        <options>I,play,Monopoly,Chess,Scrabble,Checkers,Card,games</options>
+    </question>
+    <question>
+        <id>128</id>
+        <hint>Craft activity</hint>
+        <prompt>What do you make with your hands?</prompt>
+        <answer>I make crafts</answer>
+        <options>I,make,crafts,models,pottery,jewelry,cards,decorations</options>
+    </question>
+    <question>
+        <id>129</id>
+        <hint>Performance art</hint>
+        <prompt>What do you do on stage?</prompt>
+        <answer>I perform in plays</answer>
+        <options>I,perform,in,plays,musicals,dances,concerts,shows</options>
+    </question>
+    <question>
+        <id>130</id>
+        <hint>Collection hobby</hint>
+        <prompt>What do you collect as a hobby?</prompt>
+        <answer>I collect stamps</answer>
+        <options>I,collect,stamps,coins,cards,rocks,figurines,art</options>
+    </question>
+    <question>
+        <id>131</id>
+        <hint>Environmental care</hint>
+        <prompt>How do you help the planet?</prompt>
+        <answer>I recycle waste</answer>
+        <options>I,recycle,waste,plant,trees,save,water,reduce,plastic</options>
+    </question>
+    <question>
+        <id>132</id>
+        <hint>Energy saving</hint>
+        <prompt>How do you conserve electricity?</prompt>
+        <answer>I turn off lights</answer>
+        <options>I,turn,off,lights,unplug,devices,use,LED,panels</options>
+    </question>
+    <question>
+        <id>133</id>
+        <hint>Water conservation</hint>
+        <prompt>How do you save water?</prompt>
+        <answer>I take shorter showers</answer>
+        <options>I,take,shorter,showers,fix,leaks,collect,rainwater,buckets</options>
+    </question>
+    <question>
+        <id>134</id>
+        <hint>Transportation choice</hint>
+        <prompt>How do you reduce pollution?</prompt>
+        <answer>I ride a bicycle</answer>
+        <options>I,ride,a,bicycle,walk,use,public,transport,carpool</options>
+    </question>
+    <question>
+        <id>135</id>
+        <hint>Sustainable shopping</hint>
+        <prompt>How do you avoid plastic?</prompt>
+        <answer>I use reusable bags</answer>
+        <options>I,use,reusable,bags,bottles,containers,straws,utensils</options>
+    </question>
+    <question>
+        <id>136</id>
+        <hint>Wildlife protection</hint>
+        <prompt>How do you help animals?</prompt>
+        <answer>I support wildlife reserves</answer>
+        <options>I,support,wildlife,reserves,adopt,animals,avoid,zoos</options>
+    </question>
+    <question>
+        <id>137</id>
+        <hint>Community service</hint>
+        <prompt>How do you volunteer?</prompt>
+        <answer>I help at shelters</answer>
+        <options>I,help,at,shelters,food,banks,parks,events,centers</options>
+    </question>
+    <question>
+        <id>138</id>
+        <hint>Green energy</hint>
+        <prompt>How do you use renewable power?</prompt>
+        <answer>I support solar energy</answer>
+        <options>I,support,solar,energy,wind,power,hydro,plants</options>
+    </question>
+    <question>
+        <id>139</id>
+        <hint>Waste reduction</hint>
+        <prompt>How do you produce less trash?</prompt>
+        <answer>I compost food scraps</answer>
+        <options>I,compost,food,scraps,avoid,packaging,repair,items</options>
+    </question>
+    <question>
+        <id>140</id>
+        <hint>Eco-friendly diet</hint>
+        <prompt>How do you eat sustainably?</prompt>
+        <answer>I eat less meat</answer>
+        <options>I,eat,less,meat,choose,local,produce,grow,food</options>
+    </question>
+    <question>
+        <id>141</id>
+        <hint>Future profession</hint>
+        <prompt>What do you want to be?</prompt>
+        <answer>I want to be a doctor</answer>
+        <options>I,want,to,be,a,doctor,teacher,engineer,artist,scientist</options>
+    </question>
+    <question>
+        <id>142</id>
+        <hint>Career goal</hint>
+        <prompt>Where do you want to work?</prompt>
+        <answer>I want to work in a hospital</answer>
+        <options>I,want,to,work,in,a,hospital,school,office,lab,studio</options>
+    </question>
+    <question>
+        <id>143</id>
+        <hint>Skill development</hint>
+        <prompt>What do you want to learn?</prompt>
+        <answer>I want to learn coding</answer>
+        <options>I,want,to,learn,coding,languages,design,music,cooking</options>
+    </question>
+    <question>
+        <id>144</id>
+        <hint>Higher education</hint>
+        <prompt>Where do you want to study?</prompt>
+        <answer>I want to go to university</answer>
+        <options>I,want,to,go,to,university,college,school,abroad</options>
+    </question>
+    <question>
+        <id>145</id>
+        <hint>Travel dream</hint>
+        <prompt>Where do you want to visit?</prompt>
+        <answer>I want to visit Paris</answer>
+        <options>I,want,to,visit,Paris,Tokyo,New,York,London,Sydney</options>
+    </question>
+    <question>
+        <id>146</id>
+        <hint>Personal achievement</hint>
+        <prompt>What do you want to accomplish?</prompt>
+        <answer>I want to write a book</answer>
+        <options>I,want,to,write,a,book,start,business,learn,skill,travel</options>
+    </question>
+    <question>
+        <id>147</id>
+        <hint>Financial goal</hint>
+        <prompt>How do you want to earn money?</prompt>
+        <answer>I want to get a job</answer>
+        <options>I,want,to,get,a,job,start,business,invest,save</options>
+    </question>
+    <question>
+        <id>148</id>
+        <hint>Creative goal</hint>
+        <prompt>What art do you want to make?</prompt>
+        <answer>I want to create music</answer>
+        <options>I,want,to,create,music,art,films,designs,stories</options>
+    </question>
+    <question>
+        <id>149</id>
+        <hint>Fitness goal</hint>
+        <prompt>How do you want to stay healthy?</prompt>
+        <answer>I want to exercise daily</answer>
+        <options>I,want,to,exercise,daily,eat,well,sleep,enough,meditate</options>
+    </question>
+    <question>
+        <id>150</id>
+        <hint>Life milestone</hint>
+        <prompt>What do you want to do by 30?</prompt>
+        <answer>I want to buy a house</answer>
+        <options>I,want,to,buy,a,house,travel,marry,graduate,succeed</options>
+    </question>
 </questions>
