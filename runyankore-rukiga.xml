@@ -252,4 +252,424 @@
         <answer>✅ ekiro</answer>
         <options>ekiro,ekyemisana,ekyomwangye,ekyokurya,eky'akasheshe,eky'omurimo,eky'okutamba</options>
     </question>
+        <question>
+        <id>41</id>
+        <hint>🔤 First letter</hint>
+        <prompt>❓ What is the first letter of the Runyankore alphabet?</prompt>
+        <answer>✅ a</answer>
+        <options>a,ba,ka,ga,ta,ma,sa</options>
+    </question>
+    <question>
+        <id>42</id>
+        <hint>😲 Expression</hint>
+        <prompt>❓ What word expresses wonder or surprise?</prompt>
+        <answer>✅ aa</answer>
+        <options>aa,ai,aima,co,coo,ee,eego</options>
+    </question>
+    <question>
+        <id>43</id>
+        <hint>👥 These people</hint>
+        <prompt>❓ How do you say "these" when referring to people?</prompt>
+        <answer>✅ aba</answer>
+        <options>aba,aka,eba,obu,oru,eki,omu</options>
+    </question>
+    <question>
+        <id>44</id>
+        <hint>🏠 Belonging</hint>
+        <prompt>❓ How do you say "of Kampala"?</prompt>
+        <answer>✅ aba Kampala</answer>
+        <options>aba Kampala,aka Kampala,eki Kampala,omu Kampala,oru Kampala,obu Kampala,eba Kampala</options>
+    </question>
+    <question>
+        <id>45</id>
+        <hint>👶 Children</hint>
+        <prompt>❓ What is the word for school children?</prompt>
+        <answer>✅ abaana</answer>
+        <options>abaana,abahitsi,abaregye,abashomi,abeeterraine,abaziiki,abatangazzi</options>
+    </question>
+    <question>
+        <id>46</id>
+        <hint>👪 Family</hint>
+        <prompt>❓ How do you say "our relatives"?</prompt>
+        <answer>✅ abaitu</answer>
+        <options>abaitu,abaawe,abaanyu,abaregye,abashomi,abeeterraine,abaziiki</options>
+    </question>
+    <question>
+        <id>47</id>
+        <hint>⚔️ Warriors</hint>
+        <prompt>❓ What were Ankole warriors called?</prompt>
+        <answer>✅ abahuruzi</answer>
+        <options>abahuruzi,abahitsi,abaregye,abashomi,abeeterraine,abaziiki,abatangazzi</options>
+    </question>
+    <question>
+        <id>48</id>
+        <hint>👀 Onlookers</hint>
+        <prompt>❓ What are uninvited ceremony watchers called?</prompt>
+        <answer>✅ abaroreezi</answer>
+        <options>abaroreezi,abahuruzi,abaregye,abashomi,abeeterraine,abaziiki,abatangazzi</options>
+    </question>
+    <question>
+        <id>49</id>
+        <hint>😊 Good people</hint>
+        <prompt>❓ How do you say "beautiful/good-hearted people"?</prompt>
+        <answer>✅ abarungi</answer>
+        <options>abarungi,abahuruzi,abaregye,abashomi,abeeterraine,abaziiki,abatangazzi</options>
+    </question>
+    <question>
+        <id>50</id>
+        <hint>🙏 Believers</hint>
+        <prompt>❓ What are religious people called?</prompt>
+        <answer>✅ abashomi</answer>
+        <options>abashomi,abahuruzi,abaregye,abarungi,abeeterraine,abaziiki,abatangazzi</options>
+    </question>
+    <question>
+        <id>51</id>
+        <hint>👰 Bridal party</hint>
+        <prompt>❓ Who accompanies a bride to marriage?</prompt>
+        <answer>✅ abashendekyeza</answer>
+        <options>abashendekyeza,abahuruzi,abaregye,abashomi,abeeterraine,abaziiki,abatangazzi</options>
+    </question>
+    <question>
+        <id>52</id>
+        <hint>😢 Mourners</hint>
+        <prompt>❓ What are burial attendees called?</prompt>
+        <answer>✅ abaziiki</answer>
+        <options>abaziiki,abahuruzi,abaregye,abashomi,abeeterraine,abarungi,abatangazzi</options>
+    </question>
+    <question>
+        <id>53</id>
+        <hint>🔄 Because</hint>
+        <prompt>❓ How do you say "because" in Runyankore?</prompt>
+        <answer>✅ ahabw'okuba</answer>
+        <options>ahabw'okuba,ahakuba,aho,ahandi,ahansi,ahagati,ahaiguru</options>
+    </question>
+    <question>
+        <id>54</id>
+        <hint>📍 Location</hint>
+        <prompt>❓ How do you say "between" in Runyankore?</prompt>
+        <answer>✅ ahagati</answer>
+        <options>ahagati,ahansi,ahaiguru,ahandi,aho,ahabw'okuba,ahakuba</options>
+    </question>
+    <question>
+        <id>55</id>
+        <hint>⬇️ Position</hint>
+        <prompt>❓ How do you say "under" in Runyankore?</prompt>
+        <answer>✅ ahansi</answer>
+        <options>ahansi,ahagati,ahaiguru,ahandi,aho,ahabw'okuba,ahakuba</options>
+    </question>
+    <question>
+        <id>56</id>
+        <hint>⬆️ Position</hint>
+        <prompt>❓ How do you say "above" in Runyankore?</prompt>
+        <answer>✅ ahaiguru</answer>
+        <options>ahaiguru,ahansi,ahagati,ahandi,aho,ahabw'okuba,ahakuba</options>
+    </question>
+    <question>
+        <id>57</id>
+        <hint>🗣️ Face part</hint>
+        <prompt>❓ What is the word for "face"?</prompt>
+        <answer>✅ ahamaisbo</answer>
+        <options>ahamaisbo,akanwa,amaziga,amayasha,amayonjo,amazonba,amechange</options>
+    </question>
+    <question>
+        <id>58</id>
+        <hint>🤫 Secret talk</hint>
+        <prompt>❓ Where do you talk out of others' hearing?</prompt>
+        <answer>✅ aharubaju</answer>
+        <options>aharubaju,ahamaisbo,ahagati,ahansi,ahaiguru,ahandi,aho</options>
+    </question>
+    <question>
+        <id>59</id>
+        <hint>⏱️ Quickly</hint>
+        <prompt>❓ How do you say "quickly" in Runyankore?</prompt>
+        <answer>✅ ahoonaaho</answer>
+        <options>ahoonaaho,bwangu,ahakuba,ahagati,ahansi,ahaiguru,ahandi</options>
+    </question>
+    <question>
+        <id>60</id>
+        <hint>😮 Exclamation</hint>
+        <prompt>❓ What expresses surprise or shock?</prompt>
+        <answer>✅ ai</answer>
+        <options>ai,aa,aima,co,coo,ee,eego</options>
+    </question>
+    <question>
+        <id>61</id>
+        <hint>😋 Delicious</hint>
+        <prompt>❓ What exclamation means "oh how good!"?</prompt>
+        <answer>✅ ai nuunu</answer>
+        <options>ai nuunu,ai,aa,aima,co,coo,ee</options>
+    </question>
+    <question>
+        <id>62</id>
+        <hint>🤢 Disgust</hint>
+        <prompt>❓ What expression shows disgust?</prompt>
+        <answer>✅ aima</answer>
+        <options>aima,ai,aa,co,coo,ee,eego</options>
+    </question>
+    <question>
+        <id>63</id>
+        <hint>👨‍👩‍👧‍👦 Possessive</hint>
+        <prompt>❓ How do you say "our" in Runyankore?</prompt>
+        <answer>✅ -aitu</answer>
+        <options>-aitu,-awe,-anyu,-abo,-omu,-eki,-oru</options>
+    </question>
+    <question>
+        <id>64</id>
+        <hint>🌌 Sky</hint>
+        <prompt>❓ What is "up in the sky" called?</prompt>
+        <answer>✅ akaabunga</answer>
+        <options>akaabunga,akaanya,akaaro,akababa-bahligi,akabandira,akabonero,akabumbuzo</options>
+    </question>
+    <question>
+        <id>65</id>
+        <hint>🥤 Thirst</hint>
+        <prompt>❓ What is the word for "thirst"?</prompt>
+        <answer>✅ akaakiiro</answer>
+        <options>akaakiiro,akaaku,akaamunaana,akaanirampanga,akanno,akaanya,akaanya-bwanya</options>
+    </question>
+    <question>
+        <id>66</id>
+        <hint>🐘 Trunk</hint>
+        <prompt>❓ What is an elephant's trunk called?</prompt>
+        <answer>✅ akaaku</answer>
+        <options>akaaku,akaakiiro,akaamunaana,akaanirampanga,akanno,akaanya,akaanya-bwanya</options>
+    </question>
+    <question>
+        <id>67</id>
+        <hint>🤥 Exaggeration</hint>
+        <prompt>❓ What is "explaining beyond the truth" called?</prompt>
+        <answer>✅ akaamunaana</answer>
+        <options>akaamunaana,akaaku,akaakiiro,akaanirampanga,akanno,akaanya,akaanya-bwanya</options>
+    </question>
+    <question>
+        <id>68</id>
+        <hint>🦅 Bird of prey</hint>
+        <prompt>❓ What is a hawk called?</prompt>
+        <answer>✅ akaanirampanga</answer>
+        <options>akaanirampanga,akaaku,akaakiiro,akaamunaana,akanno,akaanya,akaanya-bwanya</options>
+    </question>
+    <question>
+        <id>69</id>
+        <hint>🏞️ Geography</hint>
+        <prompt>❓ What is a "valley" called?</prompt>
+        <answer>✅ akanno</answer>
+        <options>akanno,akaaku,akaakiiro,akaamunaana,akaanirampanga,akaanya,akaanya-bwanya</options>
+    </question>
+    <question>
+        <id>70</id>
+        <hint>⏳ Short time</hint>
+        <prompt>❓ How do you say "a moment" in Runyankore?</prompt>
+        <answer>✅ akaanya</answer>
+        <options>akaanya,akanno,akaaku,akaakiiro,akaamunaana,akaanirampanga,akaanya-bwanya</options>
+    </question>
+    <question>
+        <id>71</id>
+        <hint>👶 Small finger</hint>
+        <prompt>❓ What is the smallest finger called?</prompt>
+        <answer>✅ akaara-kahera</answer>
+        <options>akaara-kahera,akababa-bahligi,akababagazi,akabanda,akabi,akabilbiro,akabindirano</options>
+    </question>
+    <question>
+        <id>72</id>
+        <hint>🎉 Celebration</hint>
+        <prompt>❓ What is a "loud cry of happiness" called?</prompt>
+        <answer>✅ akaari</answer>
+        <options>akaari,akaara-kahera,akababa-bahligi,akababagazi,akabanda,akabi,akabilbiro</options>
+    </question>
+    <question>
+        <id>73</id>
+        <hint>🏡 Settlement</hint>
+        <prompt>❓ What is a "small village" called?</prompt>
+        <answer>✅ akaaro</answer>
+        <options>akaaro,akaari,akaara-kahera,akababa-bahligi,akababagazi,akabanda,akabi</options>
+    </question>
+    <question>
+        <id>74</id>
+        <hint>🧩 Breakage</hint>
+        <prompt>❓ What is a "small crack" called?</prompt>
+        <answer>✅ akaatika</answer>
+        <options>akaatika,akaaro,akaari,akaara-kahera,akababa-bahligi,akababagazi,akabanda</options>
+    </question>
+    <question>
+        <id>75</id>
+        <hint>🏞️ Wetland</hint>
+        <prompt>❓ What is a type of swamp called?</prompt>
+        <answer>✅ akaaya</answer>
+        <options>akaaya,akaatika,akaaro,akaari,akaara-kahera,akababa-bahligi,akababagazi</options>
+    </question>
+    <question>
+        <id>76</id>
+        <hint>🪵 Wood piece</hint>
+        <prompt>❓ What is a "small piece of timber" called?</prompt>
+        <answer>✅ akabaaho</answer>
+        <options>akabaaho,akaaya,akaatika,akaaro,akaari,akaara-kahera,akababa-bahligi</options>
+    </question>
+    <question>
+        <id>77</id>
+        <hint>⚖️ Execution</hint>
+        <prompt>❓ Where are convicts hanged?</prompt>
+        <answer>✅ akabaaho</answer>
+        <options>akabaaho,akaaya,akaatika,akaaro,akaari,akaara-kahera,akababa-bahligi</options>
+    </question>
+    <question>
+        <id>78</id>
+        <hint>💊 Medicine</hint>
+        <prompt>❓ What is a "blackstone for sucking venom" called?</prompt>
+        <answer>✅ akabaare</answer>
+        <options>akabaare,akabaaho,akaaya,akaatika,akaaro,akaari,akaara-kahera</options>
+    </question>
+    <question>
+        <id>79</id>
+        <hint>🐛 Insect</hint>
+        <prompt>❓ What is a "small caterpillar" called?</prompt>
+        <answer>✅ akababa-bahligi</answer>
+        <options>akababa-bahligi,akabaare,akabaaho,akaaya,akaatika,akaaro,akaari</options>
+    </question>
+    <question>
+        <id>80</id>
+        <hint>🌱 Growth stage</hint>
+        <prompt>❓ What is the "initial stage of flowering" called?</prompt>
+        <answer>✅ akababagazi</answer>
+        <options>akababagazi,akababa-bahligi,akabaare,akabaaho,akaaya,akaatika,akaaro</options>
+    </question>
+    <question>
+        <id>81</id>
+        <hint>🥞 Food</hint>
+        <prompt>❓ What is a "pancake made from bananas and cassava" called?</prompt>
+        <answer>✅ akabanda</answer>
+        <options>akabanda,akababagazi,akababa-bahligi,akabaare,akabaaho,akaaya,akaatika</options>
+    </question>
+    <question>
+        <id>82</id>
+        <hint>⚠️ Warning</hint>
+        <prompt>❓ What is "danger or trouble" called?</prompt>
+        <answer>✅ akabi</answer>
+        <options>akabi,akabanda,akababagazi,akababa-bahligi,akabaare,akabaaho,akaaya</options>
+    </question>
+    <question>
+        <id>83</id>
+        <hint>🧺 Container</hint>
+        <prompt>❓ What is a "small seed basket" called?</prompt>
+        <answer>✅ akabilbiro</answer>
+        <options>akabilbiro,akabi,akabanda,akababagazi,akababa-bahligi,akabaare,akabaaho</options>
+    </question>
+    <question>
+        <id>84</id>
+        <hint>🏠 Architecture</hint>
+        <prompt>❓ What is a "covered verandah" called?</prompt>
+        <answer>✅ akabilbiro</answer>
+        <options>akabilbiro,akabi,akabanda,akababagazi,akababa-bahligi,akabaare,akabaaho</options>
+    </question>
+    <question>
+        <id>85</id>
+        <hint>🐃 Animal part</hint>
+        <prompt>❓ What is a "buffalo's nose" called?</prompt>
+        <answer>✅ akabindi</answer>
+        <options>akabindi,akabilbiro,akabi,akabanda,akababagazi,akababa-bahligi,akabaare</options>
+    </question>
+    <question>
+        <id>86</id>
+        <hint>🚨 Sudden action</hint>
+        <prompt>❓ What is an "impromptu manner" called?</prompt>
+        <answer>✅ akabindirano</answer>
+        <options>akabindirano,akabindi,akabilbiro,akabi,akabanda,akababagazi,akababa-bahligi</options>
+    </question>
+    <question>
+        <id>87</id>
+        <hint>💕 Emotion</hint>
+        <prompt>❓ What is "excessive love" called?</prompt>
+        <answer>✅ akabindirano</answer>
+        <options>akabindirano,akabindi,akabilbiro,akabi,akabanda,akababagazi,akababa-bahligi</options>
+    </question>
+    <question>
+        <id>88</id>
+        <hint>🧘 Posture</hint>
+        <prompt>❓ What is "sitting sideways with legs tucked inward" called?</prompt>
+        <answer>✅ akabogye</answer>
+        <options>akabogye,akabindirano,akabindi,akabilbiro,akabi,akabanda,akababagazi</options>
+    </question>
+    <question>
+        <id>89</id>
+        <hint>✝️ Symbol</hint>
+        <prompt>❓ What is a "sign of the cross" called?</prompt>
+        <answer>✅ akabonero</answer>
+        <options>akabonero,akabogye,akabindirano,akabindi,akabilbiro,akabi,akabanda</options>
+    </question>
+    <question>
+        <id>90</id>
+        <hint>🔖 Mark</hint>
+        <prompt>❓ What shows "evidence or meaning" of something?</prompt>
+        <answer>✅ akabonero</answer>
+        <options>akabonero,akabogye,akabindirano,akabindi,akabilbiro,akabi,akabanda</options>
+    </question>
+    <question>
+        <id>91</id>
+        <hint>🔤 Punctuation</hint>
+        <prompt>❓ What is a "question mark" called?</prompt>
+        <answer>✅ akabuuza</answer>
+        <options>akabuuza,akabonero,akabogye,akabindirano,akabindi,akabilbiro,akabi</options>
+    </question>
+    <question>
+        <id>92</id>
+        <hint>🦅 Bird</hint>
+        <prompt>❓ What is a "sparrow-hawk" called?</prompt>
+        <answer>✅ akaca</answer>
+        <options>akaca,akabuuza,akabonero,akabogye,akabindirano,akabindi,akabilbiro</options>
+    </question>
+    <question>
+        <id>93</id>
+        <hint>✍️ Writing tool</hint>
+        <prompt>❓ What is a "pen" called?</prompt>
+        <answer>✅ akacumu</answer>
+        <options>akacumu,akaca,akabuuza,akabonero,akabogye,akabindirano,akabindi</options>
+    </question>
+    <question>
+        <id>94</id>
+        <hint>🦇 Animal</hint>
+        <prompt>❓ What is a "bat" called in Kiga?</prompt>
+        <answer>✅ akacurama</answer>
+        <options>akacurama,akacumu,akaca,akabuuza,akabonero,akabogye,akabindirano</options>
+    </question>
+    <question>
+        <id>95</id>
+        <hint>🍯 Container</hint>
+        <prompt>❓ What is an "air tight sealed container" called?</prompt>
+        <answer>✅ akagarani</answer>
+        <options>akagarani,akacurama,akacumu,akaca,akabuuza,akabonero,akabogye</options>
+    </question>
+    <question>
+        <id>96</id>
+        <hint>🍽️ Utensil</hint>
+        <prompt>❓ What is a "tea spoon" called?</prompt>
+        <answer>✅ akagiiko</answer>
+        <options>akagiiko,akagarani,akacurama,akacumu,akaca,akabuuza,akabonero</options>
+    </question>
+    <question>
+        <id>97</id>
+        <hint>✂️ Tool</hint>
+        <prompt>❓ What is a "razor blade" called?</prompt>
+        <answer>✅ akagirita</answer>
+        <options>akagirita,akagiiko,akagarani,akacurama,akacumu,akaca,akabuuza</options>
+    </question>
+    <question>
+        <id>98</id>
+        <hint>🦵 Body part</hint>
+        <prompt>❓ What is the "ankle bone" called?</prompt>
+        <answer>✅ akagombambure</answer>
+        <options>akagombambure,akagirita,akagiiko,akagarani,akacurama,akacumu,akaca</options>
+    </question>
+    <question>
+        <id>99</id>
+        <hint>💍 Jewelry</hint>
+        <prompt>❓ What is a "bangle" called?</prompt>
+        <answer>✅ akagoroda</answer>
+        <options>akagoroda,akagombambure,akagirita,akagiiko,akagarani,akacurama,akacumu</options>
+    </question>
+    <question>
+        <id>100</id>
+        <hint>😨 Disaster</hint>
+        <prompt>❓ What is an "unexpected bad situation" called?</prompt>
+        <answer>✅ akagwe</answer>
+        <options>akagwe,akagoroda,akagombambure,akagirita,akagiiko,akagarani,akacurama</options>
+    </question>
 </questions>
