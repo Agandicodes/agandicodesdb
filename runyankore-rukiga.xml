@@ -672,4 +672,354 @@
         <answer>✅ akagwe</answer>
         <options>akagwe,akagoroda,akagombambure,akagirita,akagiiko,akagarani,akacurama</options>
     </question>
+        <question>
+        <id>101</id>
+        <hint>🦆 Water bird</hint>
+        <prompt>❓ What is the Runyankole word for "Duck"?</prompt>
+        <answer>✅ Embata</answer>
+        <options>Embata,Enkoko,Senkoko,Enkanga,Enyawawa,Ekihihizi,Empungu</options>
+    </question>
+    <question>
+        <id>102</id>
+        <hint>🦃 Large bird</hint>
+        <prompt>❓ How do you say "Turkey" in Runyankole?</prompt>
+        <answer>✅ Senkoko</answer>
+        <options>Senkoko,Enkoko,Embata,Enkanga,Enyawawa,Ekihihizi,Empungu</options>
+    </question>
+    <question>
+        <id>103</id>
+        <hint>🦅 Bird of prey</hint>
+        <prompt>❓ What is "Eagle" in Runyankole?</prompt>
+        <answer>✅ Empungu</answer>
+        <options>Empungu,Ekihihizi,Ekinywashande,Ekikona,Kamushungushungu,Entuuha,Karoori</options>
+    </question>
+    <question>
+        <id>104</id>
+        <hint>🐍 Venomous snake</hint>
+        <prompt>❓ What is the word for "Cobra Snake"?</prompt>
+        <answer>✅ Encwera</answer>
+        <options>Encwera,Enjoka,Oruziramira,Empiri,Enyaaruju,Goonya,Ekikyere</options>
+    </question>
+    <question>
+        <id>105</id>
+        <hint>🦎 Color-changing reptile</hint>
+        <prompt>❓ How do you say "Chameleon" in Runyankole?</prompt>
+        <answer>✅ Enyaaruju</answer>
+        <options>Enyaaruju,Goonya,Ekihangare,Ekinya,Omunyongororwa,Enyogori,Ekinyatinda</options>
+    </question>
+    <question>
+        <id>106</id>
+        <hint>🐊 Water reptile</hint>
+        <prompt>❓ What is "Crocodile" in Runyankole?</prompt>
+        <answer>✅ Goonya</answer>
+        <options>Goonya,Enjoka,Encwera,Oruziramira,Empiri,Enyaaruju,Ekikyere</options>
+    </question>
+    <question>
+        <id>107</id>
+        <hint>🐐 Domestic animal</hint>
+        <prompt>❓ What is the word for "Goat" in Runyankole?</prompt>
+        <answer>✅ Embuzi</answer>
+        <options>Embuzi,Empaya,Entaama,Ente,Enumi,Empunu,Enjangu</options>
+    </question>
+    <question>
+        <id>108</id>
+        <hint>🐂 Male cattle</hint>
+        <prompt>❓ How do you say "Bull" in Runyankole?</prompt>
+        <answer>✅ Enumi</answer>
+        <options>Enumi,Ente,Embuzi,Empaya,Entaama,Empunu,Enjangu</options>
+    </question>
+    <question>
+        <id>109</id>
+        <hint>🦛 Large mammal</hint>
+        <prompt>❓ What is "Hippopotamus" in Runyankole?</prompt>
+        <answer>✅ Enjubu</answer>
+        <options>Enjubu,Enjojo,Ekisegyesi,Enkobe,Akame,Enjiiri,Empitsi</options>
+    </question>
+    <question>
+        <id>110</id>
+        <hint>🐘 Largest land animal</hint>
+        <prompt>❓ How do you say "Elephant" in Runyankole?</prompt>
+        <answer>✅ Enjojo</answer>
+        <options>Enjojo,Enjubu,Ekisegyesi,Enkobe,Akame,Enjiiri,Empitsi</options>
+    </question>
+    <question>
+        <id>111</id>
+        <hint>🦓 Striped animal</hint>
+        <prompt>❓ What is "Zebra" in Runyankole?</prompt>
+        <answer>✅ Endiga</answer>
+        <options>Endiga,Ente,Embuzi,Empaya,Enumi,Empunu,Enjangu</options>
+    </question>
+    <question>
+        <id>112</id>
+        <hint>🐟 Silver fish</hint>
+        <prompt>❓ What is "Silver fish" in Runyankole?</prompt>
+        <answer>✅ Mukene</answer>
+        <options>Mukene,Empuuta,Semutundu,Emmamba,Ensonzi,Enkejje,Emaare</options>
+    </question>
+    <question>
+        <id>113</id>
+        <hint>🐝 Flying insect</hint>
+        <prompt>❓ What is "Bee" in Runyankole?</prompt>
+        <answer>✅ Enjoki</answer>
+        <options>Enjoki,Orusenene,Enzigye,Esiri,Engoha,Eshohera,Empaazi</options>
+    </question>
+    <question>
+        <id>114</id>
+        <hint>🦗 Jumping insect</hint>
+        <prompt>❓ How do you say "Grasshopper" in Runyankole?</prompt>
+        <answer>✅ Orusenene</answer>
+        <options>Orusenene,Enjoki,Enzigye,Esiri,Engoha,Eshohera,Empaazi</options>
+    </question>
+    <question>
+        <id>115</id>
+        <hint>🕷️ Eight-legged creature</hint>
+        <prompt>❓ What is "Spider" in Runyankole?</prompt>
+        <answer>✅ Ekitangura</answer>
+        <options>Ekitangura,Ebijerere,Enyabumba,Emungwe,Ekijunjuure,Enkwirwa,Oruzimu</options>
+    </question>
+    <question>
+        <id>116</id>
+        <hint>🦋 Colorful insect</hint>
+        <prompt>❓ How do you say "Butterfly" in Runyankole?</prompt>
+        <answer>✅ Ekihuguhugu</answer>
+        <options>Ekihuguhugu,Ekitangura,Ebijerere,Enyabumba,Emungwe,Ekijunjuure,Enkwirwa</options>
+    </question>
+    <question>
+        <id>117</id>
+        <hint>📚 Counting</hint>
+        <prompt>❓ How do you say "One Book" in Runyankole?</prompt>
+        <answer>✅ Ekitabo kimwe</answer>
+        <options>Ekitabo kimwe,Ebitabo bina,Akatunda kamwe,Obutunda butaano,Omuti gumwe,Emiti ebiri,Eriisho rimwe</options>
+    </question>
+    <question>
+        <id>118</id>
+        <hint>🌳 Multiple trees</hint>
+        <prompt>❓ What is "Two Trees" in Runyankole?</prompt>
+        <answer>✅ Emiti ebiri</answer>
+        <options>Emiti ebiri,Omuti gumwe,Eriisho rimwe,Amaisho abiri,Orupapura rumwe,Empapura ishatu,Okutu kumwe</options>
+    </question>
+    <question>
+        <id>119</id>
+        <hint>👀 Body parts</hint>
+        <prompt>❓ How do you say "Two Eyes" in Runyankole?</prompt>
+        <answer>✅ Amaisho abiri</answer>
+        <options>Amaisho abiri,Eriisho rimwe,Okutu kumwe,Amatu abiri,Ente emwe,Ente ibiri,Orupapura rumwe</options>
+    </question>
+    <question>
+        <id>120</id>
+        <hint>🐄 Counting cattle</hint>
+        <prompt>❓ What is "Two Cows" in Runyankole?</prompt>
+        <answer>✅ Ente ibiri</answer>
+        <options>Ente ibiri,Ente emwe,Embuzi emwe,Empunu emwe,Enjangu emwe,Embwa emwe,Embeba emwe</options>
+    </question>
+    <question>
+        <id>121</id>
+        <hint>⚖️ Measurement</hint>
+        <prompt>❓ How do you say "A Kilo Of" in Runyankole?</prompt>
+        <answer>✅ Kilo Ya</answer>
+        <options>Kilo Ya,Kilo Za,Ecupa Ya,Ecupa Za,Omurengo Gwa,Emirengo Ya,Ekikopo Kya</options>
+    </question>
+    <question>
+        <id>122</id>
+        <hint>🍶 Container</hint>
+        <prompt>❓ What is "A Bottle Of" in Runyankole?</prompt>
+        <answer>✅ Ecupa Ya</answer>
+        <options>Ecupa Ya,Kilo Ya,Kilo Za,Ecupa Za,Omurengo Gwa,Emirengo Ya,Ekikopo Kya</options>
+    </question>
+    <question>
+        <id>123</id>
+        <hint>☕ Drinkware</hint>
+        <prompt>❓ How do you say "A Cup Of" in Runyankole?</prompt>
+        <answer>✅ Ekikopo Kya</answer>
+        <options>Ekikopo Kya,Esahani Ya,Pakiti Ya,Lita Ya,Mita Ya,Dazini Ya,Omugogo Gwa</options>
+    </question>
+    <question>
+        <id>124</id>
+        <hint>📏 Measurement</hint>
+        <prompt>❓ What is "A Meter Of" in Runyankole?</prompt>
+        <answer>✅ Mita Ya</answer>
+        <options>Mita Ya,Lita Ya,Dazini Ya,Omugogo Gwa,Bokisi ya,Omuti gwa,Omunwa gwa</options>
+    </question>
+<question>
+    <id>125</id>
+    <hint>🕒 Morning time</hint>
+    <prompt>❓ What time is "Shaha emwe yakasheshe"?</prompt>
+    <answer>✅ 07:00 AM</answer>
+    <options>07:00 AM,08:00 AM,09:00 AM,10:00 AM,11:00 AM,12:00 PM,01:00 PM</options>
+</question>
+<question>
+    <id>126</id>
+    <hint>🕛 Noon</hint>
+    <prompt>❓ What time is "Shaha mukaaga zihangwe"?</prompt>
+    <answer>✅ 12:00 PM</answer>
+    <options>12:00 PM,01:00 PM,02:00 PM,03:00 PM,04:00 PM,05:00 PM,06:00 PM</options>
+</question>
+<question>
+    <id>127</id>
+    <hint>🌆 Evening time</hint>
+    <prompt>❓ What time is "Shaha ikumi nemwe zomwabazyo"?</prompt>
+    <answer>✅ 05:00 PM</answer>
+    <options>05:00 PM,06:00 PM,07:00 PM,08:00 PM,09:00 PM,10:00 PM,11:00 PM</options>
+</question>
+<question>
+    <id>128</id>
+    <hint>🌃 Midnight</hint>
+    <prompt>❓ What time is "Shaha mukaaga zekiro"?</prompt>
+    <answer>✅ 12:00 AM</answer>
+    <options>12:00 AM,01:00 AM,02:00 AM,03:00 AM,04:00 AM,05:00 AM,06:00 AM</options>
+</question>
+    <question>
+        <id>129</id>
+        <hint>📅 Days of week</hint>
+        <prompt>❓ What is "Monday" in Runyankole?</prompt>
+        <answer>✅ Orwokubanza</answer>
+        <options>Orwokubanza,Orwakabiri,Orwakashatu,Orwakana,Orwakatano,Orwamukaga,Sande or Saabiiti</options>
+    </question>
+    <question>
+        <id>130</id>
+        <hint>🗓️ Weekend day</hint>
+        <prompt>❓ How do you say "Sunday" in Runyankole?</prompt>
+        <answer>✅ Sande or Saabiiti</answer>
+        <options>Sande or Saabiiti,Orwokubanza,Orwakabiri,Orwakashatu,Orwakana,Orwakatano,Orwamukaga</options>
+    </question>
+    <question>
+        <id>131</id>
+        <hint>📅 Months</hint>
+        <prompt>❓ What is "January" in Runyankole?</prompt>
+        <answer>✅ Okw'okubanza</answer>
+        <options>Okw'okubanza,Okwakabiri,Okwakashatu,Okwakana,Okwakataano,Okwamukaaga,Okwamushanju</options>
+    </question>
+    <question>
+        <id>132</id>
+        <hint>🌧️ Rainy month</hint>
+        <prompt>❓ How do you say "April" in Runyankole?</prompt>
+        <answer>✅ Okwakana</answer>
+        <options>Okwakana,Okw'okubanza,Okwakabiri,Okwakashatu,Okwakataano,Okwamukaaga,Okwamushanju</options>
+    </question>
+    <question>
+        <id>133</id>
+        <hint>🍽️ Daily meals</hint>
+        <prompt>❓ What is "Morning Meal" in Runyankole?</prompt>
+        <answer>✅ Kyanstya</answer>
+        <options>Kyanstya,Kyamushana,Kyakiro,Kwoga,Kurya,Kwozya,Kusiimura</options>
+    </question>
+    <question>
+        <id>134</id>
+        <hint>🛌 Daily activity</hint>
+        <prompt>❓ How do you say "To Sleep" in Runyankole?</prompt>
+        <answer>✅ Kubyama</answer>
+        <options>Kubyama,Kwimuka,Kurubata,Kutemba,Kuteeka,Kuhandika,Kukora</options>
+    </question>
+    <question>
+        <id>135</id>
+        <hint>🚶 Movement</hint>
+        <prompt>❓ What is "To Walk" in Runyankole?</prompt>
+        <answer>✅ Kurubata</answer>
+        <options>Kurubata,Kutemba,Kubyama,Kwimuka,Kuteeka,Kuhandika,Kukora</options>
+    </question>
+    <question>
+        <id>136</id>
+        <hint>✍️ Activity</hint>
+        <prompt>❓ How do you say "To Write" in Runyankole?</prompt>
+        <answer>✅ Kuhandika</answer>
+        <options>Kuhandika,Kukora,Kunywa,Kubyama,Kwimuka,Kurubata,Kutemba</options>
+    </question>
+    <question>
+        <id>137</id>
+        <hint>🦁 Big cat</hint>
+        <prompt>❓ What is "Lion" in Runyankole?</prompt>
+        <answer>✅ Ekicuncu</answer>
+        <options>Ekicuncu,Engwe,Enjubu,Enjojo,Ekisegyesi,Enkobe,Akame</options>
+    </question>
+    <question>
+        <id>138</id>
+        <hint>🐆 Spotted cat</hint>
+        <prompt>❓ How do you say "Leopard" in Runyankole?</prompt>
+        <answer>✅ Engwe</answer>
+        <options>Engwe,Ekicuncu,Enjubu,Enjojo,Ekisegyesi,Enkobe,Akame</options>
+    </question>
+    <question>
+        <id>139</id>
+        <hint>🐒 Primate</hint>
+        <prompt>❓ What is "Baboon" in Runyankole?</prompt>
+        <answer>✅ Enkobe</answer>
+        <options>Enkobe,Empundu,Engagi,Engyeya,Ekyende,Orubaka,Akame</options>
+    </question>
+    <question>
+        <id>140</id>
+        <hint>🐓 Male bird</hint>
+        <prompt>❓ How do you say "Rooster" in Runyankole?</prompt>
+        <answer>✅ Enkoko</answer>
+        <options>Enkoko,Embata,Senkoko,Enkanga,Enyawawa,Ekihihizi,Empungu</options>
+    </question>
+    <question>
+        <id>141</id>
+        <hint>🦢 White bird</hint>
+        <prompt>❓ What is "Egret" in Runyankole?</prompt>
+        <answer>✅ Enyagyi</answer>
+        <options>Enyagyi,Enyawawa,Ekihihizi,Empungu,Ekinywashande,Ekikona,Kamushungushungu</options>
+    </question>
+    <question>
+        <id>142</id>
+        <hint>🦉 Night bird</hint>
+        <prompt>❓ How do you say "Owl" in Runyankole?</prompt>
+        <answer>✅ Ekihihizi</answer>
+        <options>Ekihihizi,Empungu,Ekinywashande,Ekikona,Kamushungushungu,Entuuha,Karoori</options>
+    </question>
+    <question>
+        <id>143</id>
+        <hint>🐦 Small bird</hint>
+        <prompt>❓ What is "Weaver bird" in Runyankole?</prompt>
+        <answer>✅ Ekinywashande</answer>
+        <options>Ekinywashande,Ekikona,Kamushungushungu,Entuuha,Karoori,Enkombe,Oruyongoyongo</options>
+    </question>
+    <question>
+        <id>144</id>
+        <hint>🦩 Tall bird</hint>
+        <prompt>❓ How do you say "Crested crane" in Runyankole?</prompt>
+        <answer>✅ Entuuha</answer>
+        <options>Entuuha,Karoori,Enkombe,Oruyongoyongo,Akakya,Kanyamunyu,Akataratambi</options>
+    </question>
+    <question>
+        <id>145</id>
+        <hint>🐍 Legless reptile</hint>
+        <prompt>❓ What is "Python Snake" in Runyankole?</prompt>
+        <answer>✅ Oruziramira</answer>
+        <options>Oruziramira,Enjoka,Encwera,Empiri,Enyaaruju,Goonya,Ekikyere</options>
+    </question>
+    <question>
+        <id>146</id>
+        <hint>🐸 Amphibian</hint>
+        <prompt>❓ How do you say "Frog" in Runyankole?</prompt>
+        <answer>✅ Ekikyere</answer>
+        <options>Ekikyere,Ekihangare,Ekinya,Omunyongororwa,Enyogori,Ekinyatinda,Engaara</options>
+    </question>
+    <question>
+        <id>147</id>
+        <hint>🦎 Common reptile</hint>
+        <prompt>❓ What is "Lizard" in Runyankole?</prompt>
+        <answer>✅ Ekinya</answer>
+        <options>Ekinya,Ekihangare,Ekikyere,Omunyongororwa,Enyogori,Ekinyatinda,Engaara</options>
+    </question>
+    <question>
+        <id>148</id>
+        <hint>🐌 Slow mover</hint>
+        <prompt>❓ How do you say "Snail" in Runyankole?</prompt>
+        <answer>✅ Ekinyatinda</answer>
+        <options>Ekinyatinda,Engaara,Efaana,Empanami,Akanyankogote,Omunyongororwa,Enyogori</options>
+    </question>
+    <question>
+        <id>149</id>
+        <hint>🦀 Sea creature</hint>
+        <prompt>❓ What is "Crab" in Runyankole?</prompt>
+        <answer>✅ Engaara</answer>
+        <options>Engaara,Efaana,Empanami,Akanyankogote,Ekinyatinda,Omunyongororwa,Enyogori</options>
+    </question>
+    <question>
+        <id>150</id>
+        <hint>🐢 Slow reptile</hint>
+        <prompt>❓ How do you say "Tortoise" in Runyankole?</prompt>
+        <answer>✅ Akanyankogote</answer>
+        <options>Akanyankogote,Engaara,Efaana,Empanami,Ekinyatinda,Omunyongororwa,Enyogori</options>
+    </question>
 </questions>
