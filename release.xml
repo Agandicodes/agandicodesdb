@@ -1,1 +1,8 @@
-release.xml 
+<?xml version="1.0" encoding="utf-8"?>
+<release>
+    <version>1.21</version>
+    <versionCode>21</versionCode>
+    <updateRequired>false</updateRequired>
+    <message>New features: Improved performance and new vocabulary words!</message>
+    <updateUrl>https://play.google.com/store/apps/details?id=agandicodes.agandicodes.learnenglishandrunyankore</updateUrl>
+</release>
