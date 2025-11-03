@@ -1,1 +1,8 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<release>
+    <version>1.0</version>
+    <versionCode>1</versionCode>
+    <updateRequired>false</updateRequired>
+    <message>New features: Improved performance and new Cricket Updates.</message>
+    <updateUrl>https://play.google.com/store/apps/details?id=agandicodes.agandicodes.cricketlivescores</updateUrl>
+</release>
