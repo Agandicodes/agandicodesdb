@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <release>
-    <version>2.2</version>
-    <versionCode>24</versionCode>
+    <version>2.3</version>
+    <versionCode>25</versionCode>
     <updateRequired>false</updateRequired>
     <message>New features: Improved performance and new vocabulary words!</message>
     <updateUrl>https://play.google.com/store/apps/details?id=agandicodes.agandicodes.learnenglishandrunyankore</updateUrl>
