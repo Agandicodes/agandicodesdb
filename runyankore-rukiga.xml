@@ -1022,4 +1022,704 @@
         <answer>✅ Akanyankogote</answer>
         <options>Akanyankogote,Engaara,Efaana,Empanami,Ekinyatinda,Omunyongororwa,Enyogori</options>
     </question>
+    <question>
+        <id>151</id>
+        <hint>🪱 Soil creature</hint>
+        <prompt>❓ What is the Runyankole word for "Earthworm"?</prompt>
+        <answer>✅ Omunyongororwa</answer>
+        <options>Omunyongororwa,Enyogori,Empanami,Efaana,Akanyankogote,Ekinyatinda,Engaara</options>
+    </question>
+    <question>
+        <id>152</id>
+        <hint>🪰 Flying insect</hint>
+        <prompt>❓ What is "Housefly" in Runyankole?</prompt>
+        <answer>✅ Eshohera</answer>
+        <options>Eshohera,Esiri,Enjoki,Engoha,Empaazi,Orusenene,Enzigye</options>
+    </question>
+    <question>
+        <id>153</id>
+        <hint>🦟 Buzzer</hint>
+        <prompt>❓ How do you say "Mosquito" in Runyankole?</prompt>
+        <answer>✅ Esiri</answer>
+        <options>Esiri,Eshohera,Enjoki,Engoha,Empaazi,Orusenene,Enzigye</options>
+    </question>
+    <question>
+        <id>154</id>
+        <hint>🐜 Blood sucker</hint>
+        <prompt>❓ What is "Tick" in Runyankole?</prompt>
+        <answer>✅ Engoha</answer>
+        <options>Engoha,Esiri,Eshohera,Enjoki,Empaazi,Orusenene,Enzigye</options>
+    </question>
+    <question>
+        <id>155</id>
+        <hint>🪳 Locust</hint>
+        <prompt>❓ How do you say "Locust" in Runyankole?</prompt>
+        <answer>✅ Enzigye</answer>
+        <options>Enzigye,Orusenene,Enjoki,Engoha,Empaazi,Esiri,Eshohera</options>
+    </question>
+    <question>
+    <id>156</id>
+    <hint>🐝 A large wood-boring bee</hint>
+    <prompt>❓ What is "Carpenter Bee" in Runyankole?</prompt>
+    <answer>Ekijunjuure</answer>
+    <options>Enyabumba,Emungwe,Enkwirwa,Ekijunjuure,Orucuruguma,Ekisirikita,Endirizi</options>
+  </question>
+    <question>
+        <id>157</id>
+        <hint>🦗 Nocturnal insect</hint>
+        <prompt>❓ How do you say "Cricket" in Runyankole?</prompt>
+        <answer>✅ Enjerere</answer>
+        <options>Endirizi,Enyenzi,Enyabumba,Enjerere,Emungwe,Enkwirwa,Orucuruguma</options>
+    </question>
+    <question>
+        <id>158</id>
+        <hint>🐜 Red ant</hint>
+        <prompt>❓ What is "Red ant" in Runyankole?</prompt>
+        <answer>✅ Enkwirwa</answer>
+        <options>Enkwirwa,Enyabumba,Emungwe,Orucuruguma,Ekijunjuure,Ekisirikita,Endirizi</options>
+    </question>
+    <question>
+        <id>159</id>
+        <hint>🕷️ Arachnid</hint>
+        <prompt>❓ What is "Praying mantis" in Runyankole?</prompt>
+        <answer>✅ Orujuzi</answer>
+        <options>Orujuzi,Oruzimu,Ekitangura,Ebijerere,Enyabumba,Emungwe,Orucuruguma</options>
+    </question>
+    <question>
+        <id>160</id>
+        <hint>🌿 Swamp plant</hint>
+        <prompt>❓ What is "Papyrus reed" in Runyankole?</prompt>
+        <answer>✅ Orufunjo</answer>
+        <options>Orubingo,Ekigugu,Ekishara,Omugama,Omutoma,Ekiteete,Orufunjo</options>
+    </question>
+    <question>
+        <id>161</id>
+        <hint>🌾 Staple crop</hint>
+        <prompt>❓ What is the Runyankole word for "Cassava"?</prompt>
+        <answer>✅ Muhogo</answer>
+        <options>Muhogo,Omucoori,Oburo,Amashaza,Obunyobwa,Ebitakuri,Emyaka</options>
+    </question>
+    <question>
+        <id>162</id>
+        <hint>🌽 Grain</hint>
+        <prompt>❓ How do you say "Maize" in Runyankole?</prompt>
+        <answer>✅ Omucoori</answer>
+        <options>Omucoori,Oburo,Amashaza,Obunyobwa,Ebitakuri,Muhogo,Emyaka</options>
+    </question>
+    <question>
+        <id>163</id>
+        <hint>🟢 Vegetable</hint>
+        <prompt>❓ What are "Peas" in Runyankole?</prompt>
+        <answer>✅ Amashaza</answer>
+        <options>Obunyobwa,Ebihimba,Amacunda,Amate,Amashaza,Oburo,Omucoori</options>
+    </question>
+    <question>
+        <id>164</id>
+        <hint>🥜 Legume</hint>
+        <prompt>❓ What is "Groundnuts" in Runyankole?</prompt>
+        <answer>✅ Obunyobwa</answer>
+        <options>Obunyobwa,Amashaza,Ebihimba,Amacunda,Omucoori,Oburo,Ebitakuri</options>
+    </question>
+    <question>
+        <id>165</id>
+        <hint>🫘 Beans</hint>
+        <prompt>❓ How do you say "Beans" in Runyankole?</prompt>
+        <answer>✅ Ebihimba</answer>
+        <options>Obunyobwa,Amashaza,Ebihimba,Amacunda,Omucoori,Oburo,Ebitakuri</options>
+    </question>
+    <question>
+        <id>166</id>
+        <hint>🍳 Side dish</hint>
+        <prompt>❓ What is "Ghee sauce" called?</prompt>
+        <answer>✅ Eshabwe</answer>
+        <options>Eshabwe,Omucu,Enyanya,Amate,Oburo,Ebitakye,Omwonyo</options>
+    </question>
+    <question>
+        <id>167</id>
+        <hint>🍚 Porridge</hint>
+        <prompt>❓ What is fermented millet porridge called?</prompt>
+        <answer>✅ Obushera</answer>
+        <options>Eshabwe,Ekitiribiita,Enturire,Omubisi,Amakamo,Obushera,Enyanja</options>
+    </question>
+    <question>
+        <id>168</id>
+        <hint>🍞 Millet bread</hint>
+        <prompt>❓ What is solid millet bread called?</prompt>
+        <answer>✅ Oburo</answer>
+        <options>Eshabwe,Oburo,Obushera,Ekitiribiita,Enturire,Omubisi,Amakamo</options>
+    </question>
+    <question>
+        <id>169</id>
+        <hint>🥛 Fermented milk</hint>
+        <prompt>❓ What is "Yoghurt" in Runyankole?</prompt>
+        <answer>✅ Amakamo</answer>
+        <options>Amakamo,Amate,Amacunda,Eshabwe,Obushera,Enturire,Omubisi</options>
+    </question>
+    <question>
+        <id>170</id>
+        <hint>🍹 Juice</hint>
+        <prompt>❓ What is "Banana juice" called?</prompt>
+        <answer>✅ Eshande</answer>
+        <options>Eshande,Omubisi,Amacunda,Enturire,Obushera,Amakamo,Oburo</options>
+    </question>
+    <question>
+        <id>171</id>
+        <hint>🍗 Meat</hint>
+        <prompt>❓ What is "Roasted meat" called?</prompt>
+        <answer>✅ Omushwa</answer>
+        <options>Omushwa,Enyama,Omuceri,Omukaro,Enyanja,Obunyobwa,Amashaza</options>
+    </question>
+    <question>
+        <id>172</id>
+        <hint>🧈 Dairy</hint>
+        <prompt>❓ What is "Ghee" in Runyankole?</prompt>
+        <answer>✅ Amajuta</answer>
+        <options>Amajuta,Amate,Amakamo,Eshabwe,Obushera,Amacunda,Ekyenyanja</options>
+    </question>
+    <question>
+        <id>173</id>
+        <hint>🌶️ Spice</hint>
+        <prompt>❓ What is "Red pepper" in Runyankole?</prompt>
+        <answer>✅ Eshenda</answer>
+        <options>Eshenda,Omwonyo,Ebirungo,Orujeera,Amajuta,Orutengure,Obunonko</options>
+    </question>
+    <question>
+        <id>174</id>
+        <hint>🧂 Seasoning</hint>
+        <prompt>❓ How do you say "Salt" in Runyankole?</prompt>
+        <answer>✅ Omwonyo</answer>
+        <options>Eshenda,Ebirungo,Orujeera,Amajuta,Omwonyo,Orutengure,Obunonko</options>
+    </question>
+    <question>
+        <id>175</id>
+        <hint>🍇 Fruit</hint>
+        <prompt>❓ What is "Orange" in Runyankole?</prompt>
+        <answer>✅ Omucungwa</answer>
+        <options>Ekipera,Emeere,Omucungwa,Omuyembe,Enanaasi,Omukyu,Oruhuna</options>
+    </question>
+    <question>
+        <id>176</id>
+        <hint>🍈 Tropical fruit</hint>
+        <prompt>❓ How do you say "Pawpaw" in Runyankole?</prompt>
+        <answer>✅ Eipapari</answer>
+        <options>Eipapari,Ekipera,Omuyembe,Enanaasi,Omucungwa,Omukyu,Oruhuna</options>
+    </question>
+    <question>
+        <id>177</id>
+        <hint>🍌 Banana type</hint>
+        <prompt>❓ What is a "Sweet banana" called?</prompt>
+        <answer>✅ Omunekye</answer>
+        <options>Omunekye,Omukyu,Ebitookye,Gonja,Kirimo,Entaragaza,Endirira</options>
+    </question>
+    <question>
+        <id>178</id>
+        <hint>🍌 Cooking banana</hint>
+        <prompt>❓ What is "Plantain" in Runyankole?</prompt>
+        <answer>✅ Gonja</answer>
+        <options>Gonja,Omunekye,Omukyu,Kirimo,Entaragaza,Endirira,Ebitookye</options>
+    </question>
+    <question>
+        <id>179</id>
+        <hint>🌿 Medicinal plant</hint>
+        <prompt>❓ What plant is used to treat cough?</prompt>
+        <answer>✅ Nyakibazi</answer>
+        <options>Ekijume,Ekijumo,Omubirizi,Omurinzi,Omutuba,Omwete,Nyakibazi</options>
+    </question>
+    <question>
+        <id>180</id>
+        <hint>🌱 Sensitive plant</hint>
+        <prompt>❓ What plant closes when touched?</prompt>
+        <answer>✅ Shereka</answer>
+        <options>Shereka,Ekigagana,Ekikara,Ekihuna,Ekyoganyanja,Omubirizi,Omutuba</options>
+    </question>
+    <question>
+        <id>181</id>
+        <hint>🌾 Grass species</hint>
+        <prompt>❓ What grass is used for thatching?</prompt>
+        <answer>✅ Orubingo</answer>
+        <options>Obunyaatsi,Ebiteete,Omugama,Ekigugu,Orubingo,Orufunjo,Omutoma</options>
+    </question>
+    <question>
+        <id>182</id>
+        <hint>🎍 Bamboo</hint>
+        <prompt>❓ What is "Bamboo" in Runyankole?</prompt>
+        <answer>✅ Orugano</answer>
+        <options>Orugano,Orubingo,Obunyaatsi,Ebiteete,Omugama,Orufunjo,Omutoma</options>
+    </question>
+    <question>
+        <id>183</id>
+        <hint>🌳 Tree species</hint>
+        <prompt>❓ What tree is used to make backcloth?</prompt>
+        <answer>✅ Orubugo</answer>
+        <options>Orubugo,Omutoma,Ekiko,Omurinzi,Omubirizi,Omwiha,Omutuba</options>
+    </question>
+    <question>
+        <id>184</id>
+        <hint>🌲 Evergreen</hint>
+        <prompt>❓ What is "Cypress tree" in Runyankole?</prompt>
+        <answer>✅ Kapuripwisi</answer>
+        <options>Kapuripwisi,Karituusi,Muvule,Kibago,Muyembe,Mucungwa,Muko</options>
+    </question>
+    <question>
+        <id>185</id>
+        <hint>🧰 Tool</hint>
+        <prompt>❓ What is "Hoe" in Runyankole?</prompt>
+        <answer>✅ Efuka</answer>
+        <options>Efuka,Empango,Ekyanzi,Orushaho,Omuhoro,Eibanga,Ekiti</options>
+    </question>
+    <question>
+        <id>186</id>
+        <hint>🪓 Cutting tool</hint>
+        <prompt>❓ How do you say "Panga" in Runyankole?</prompt>
+        <answer>✅ Omuhoro</answer>
+        <options>Efuka,Empango,Ekyanzi,Orushaho,Omuhoro,Eibanga,Ekiti</options>
+    </question>
+    <question>
+        <id>187</id>
+        <hint>🪓 Chopping tool</hint>
+        <prompt>❓ What is "Axe" in Runyankole?</prompt>
+        <answer>✅ Empango</answer>
+        <options>Empango,Omuhoro,Efuka,Ekyanzi,Orushaho,Eibanga,Ekiti</options>
+    </question>
+    <question>
+        <id>188</id>
+        <hint>🔪 Knife</hint>
+        <prompt>❓ How do you say "Knife" in Runyankole?</prompt>
+        <answer>✅ Ekibanga</answer>
+        <options>Ekibanga,Omuhoro,Empango,Efuka,Orushaho,Ekyanzi,Ekiti</options>
+    </question>
+    <question>
+        <id>189</id>
+        <hint>🏺 Storage pot</hint>
+        <prompt>❓ What is a "Clay water pot" called?</prompt>
+        <answer>✅ Enyungu</answer>
+        <options>Ekyanzi,Ekibindi,Ekisabo,Omugga,Enyungu,Entongore,Ekidomola</options>
+    </question>
+    <question>
+        <id>190</id>
+        <hint>🥛 Milk container</hint>
+        <prompt>❓ What is a "Milk gourd" called?</prompt>
+        <answer>✅ Ekyanzi</answer>
+        <options>Ekyanzi,Enyungu,Ekibindi,Ekisabo,Omugga,Entongore,Ekidomola</options>
+    </question>
+    <question>
+        <id>191</id>
+        <hint>🧺 Basket</hint>
+        <prompt>❓ What is a "Large basket for grain" called?</prompt>
+        <answer>✅ Ekibbo</answer>
+        <options>Ekitebo,Ekijungu,Ekisabo,Ekibbo,Ekishabo,Omugga,Ekidomola</options>
+    </question>
+    <question>
+        <id>192</id>
+        <hint>🪣 Container</hint>
+        <prompt>❓ What is "Bucket" in Runyankole?</prompt>
+        <answer>✅ Ekidobo</answer>
+        <options>Ekitebo,Ekibbo,Ecisu,Edobo,Ekidobo,Endobo,Ekirindiro</options>
+    </question>
+    <question>
+        <id>193</id>
+        <hint>🛏️ Furniture</hint>
+        <prompt>❓ What is "Stool" in Runyankole?</prompt>
+        <answer>✅ Ekitebe</answer>
+        <options>Ekitanda,Emeesa,Efumu,Ekibuga,Entebe,Ekitebe,Ekidaliro</options>
+    </question>
+    <question>
+        <id>194</id>
+        <hint>🪑 Furniture</hint>
+        <prompt>❓ How do you say "Chair" in Runyankole?</prompt>
+        <answer>✅ Entebe</answer>
+        <options>Entebe,Ekitebe,Ekitanda,Emeesa,Efumu,Ekibuga,Ekidaliro</options>
+    </question>
+    <question>
+        <id>195</id>
+        <hint>💡 Lighting</hint>
+        <prompt>❓ What is "Lamp" in Runyankole?</prompt>
+        <answer>✅ Etaara</answer>
+        <options>Etaara,Etadooba,Etabaaza,Omuriro,Omushana,Erimuri,Ekindo</options>
+    </question>
+    <question>
+        <id>196</id>
+        <hint>🪔 Lighting</hint>
+        <prompt>❓ What is "Lantern" in Runyankole?</prompt>
+        <answer>✅ Etadooba</answer>
+        <options>Etadooba,Etaara,Etabaaza,Omuriro,Omushana,Erimuri,Ekindo</options>
+    </question>
+    <question>
+        <id>197</id>
+        <hint>⌚ Timepiece</hint>
+        <prompt>❓ What is "Watch/Clock" in Runyankole?</prompt>
+        <answer>✅ Eshaaha</answer>
+        <options>Eshaaha,Edakiika,Empeta,Ekikomo,Ekikopo,Omuzinga,Entango</options>
+    </question>
+    <question>
+        <id>198</id>
+        <hint>🧻 Fabric</hint>
+        <prompt>❓ What is "Cloth" in Runyankole?</prompt>
+        <answer>✅ Omwenda</answer>
+        <options>Omwenda,Ekijwaro,Ekitengye,Orubugo,Eshuka,Esati,Ekopi</options>
+    </question>
+    <question>
+        <id>199</id>
+        <hint>👕 Garment</hint>
+        <prompt>❓ How do you say "Shirt" in Runyankole?</prompt>
+        <answer>✅ Esaati</answer>
+        <options>Esaati,Ekopi,Ekitengye,Omwenda,Eshuka,Empare,Ekanzu</options>
+    </question>
+    <question>
+        <id>200</id>
+        <hint>👖 Clothing</hint>
+        <prompt>❓ What is "Trousers" in Runyankole?</prompt>
+        <answer>✅ Empare</answer>
+        <options>Empare,Esaati,Ekopi,Ekitengye,Omwenda,Eshuka,Ekanzu</options>
+    </question>
+    <question>
+        <id>201</id>
+        <hint>👗 Dress</hint>
+        <prompt>❓ What is a "Gomesi" in Runyankole context?</prompt>
+        <answer>✅ Ekiteeteeyi</answer>
+        <options>Ekiteeteeyi,Ekanzu,Omwenda,Empare,Eshuka,Ekopi,Esaati</options>
+    </question>
+    <question>
+        <id>202</id>
+        <hint>👟 Footwear</hint>
+        <prompt>❓ How do you say "Shoes" in Runyankole?</prompt>
+        <answer>✅ Enkaito</answer>
+        <options>Enkaito,Emparaata,Obukono,Ebigyere,Omukandara,Orunyegera,Empapizi</options>
+    </question>
+    <question>
+        <id>203</id>
+        <hint>🧵 Accessory</hint>
+        <prompt>❓ What is "Belt" in Runyankole?</prompt>
+        <answer>✅ Omukandara</answer>
+        <options>Omukandara,Orunyegera,Empeta,Obukono,Omwenda,Enkaito,Obusika</options>
+    </question>
+    <question>
+        <id>204</id>
+        <hint>💍 Jewelry</hint>
+        <prompt>❓ What is "Ring" in Runyankole?</prompt>
+        <answer>✅ Empeta</answer>
+        <options>Empeta,Omukandara,Orunyegera,Obukono,Obusika,Omwenda,Enkaito</options>
+    </question>
+    <question>
+        <id>205</id>
+        <hint>👂 Body part</hint>
+        <prompt>❓ What is "Ear" in Runyankole?</prompt>
+        <answer>✅ Okutu</answer>
+        <options>Okutu,Eriisho,Eriino,Ebigyere,Omukono,Orubaju,Engaro</options>
+    </question>
+    <question>
+        <id>206</id>
+        <hint>🦷 Body part</hint>
+        <prompt>❓ How do you say "Tooth" in Runyankole?</prompt>
+        <answer>✅ Eriino</answer>
+        <options>Eriino,Okutu,Eriisho,Ebigyere,Omukono,Orubaju,Engaro</options>
+    </question>
+    <question>
+        <id>207</id>
+        <hint>🦵 Body part</hint>
+        <prompt>❓ What is "Leg" in Runyankole?</prompt>
+        <answer>✅ Okuguru</answer>
+        <options>Ebigyere,Omukono,Orubaju,Engaro,Ekibere,Okuguru,Omutwe</options>
+    </question>
+    <question>
+        <id>208</id>
+        <hint>🦶 Body part</hint>
+        <prompt>❓ How do you say "Foot" in Runyankole?</prompt>
+        <answer>✅ Ekigyere</answer>
+        <options>Ekyere,Okuguru,Omukono,Orubaju,Engaro,Ekibere,Omutwe</options>
+    </question>
+    <question>
+        <id>209</id>
+        <hint>🫁 Organ</hint>
+        <prompt>❓ What is "Lung" in Runyankole?</prompt>
+        <answer>✅ Ebyaha</answer>
+        <options>Ebyaha,Omutima,Ekitugu,Ekine,Obwonko,Amara,Embishabo</options>
+    </question>
+    <question>
+        <id>210</id>
+        <hint>💓 Organ</hint>
+        <prompt>❓ What is "Heart" in Runyankole?</prompt>
+        <answer>✅ Omutima</answer>
+        <options>Omutima,Ebyaha,Ekitugu,Ekine,Obwonko,Amara,Embishabo</options>
+    </question>
+    <question>
+        <id>211</id>
+        <hint>🧠 Organ</hint>
+        <prompt>❓ How do you say "Brain" in Runyankole?</prompt>
+        <answer>✅ Obwonko</answer>
+        <options>Obwonko,Omutima,Ebyaha,Ekitugu,Ekine,Amara,Embishabo</options>
+    </question>
+    <question>
+        <id>212</id>
+        <hint>👶 Family</hint>
+        <prompt>❓ What is "Child" in Runyankole?</prompt>
+        <answer>✅ Omwana</answer>
+        <options>Omwojo,Omwishiki,Muhara,Omwana,Omuto,Omukuru,Omushaija</options>
+    </question>
+    <question>
+        <id>213</id>
+        <hint>🧑‍🤝‍🧑 Family</hint>
+        <prompt>❓ How do you say "Parent" in Runyankole?</prompt>
+        <answer>✅ Muzaire</answer>
+        <options>Omwana,Omukuru,Taata,Maama,Muzaire,Ishe,Nyina</options>
+    </question>
+    <question>
+        <id>214</id>
+        <hint>👨‍👦 Family</hint>
+        <prompt>❓ What is "Father" in Runyankole?</prompt>
+        <answer>✅ Taata</answer>
+        <options>Taata,Maama,Ishe,Nyina,Muzaire,Omukuru,Shwenkuru</options>
+    </question>
+    <question>
+        <id>215</id>
+        <hint>👩‍👧 Family</hint>
+        <prompt>❓ How do you say "Mother" in Runyankole?</prompt>
+        <answer>✅ Maama</answer>
+        <options>Maama,Taata,Ishe,Nyina,Muzaire,Omukuru,Maawenkuru</options>
+    </question>
+    <question>
+        <id>216</id>
+        <hint>👴 Elder</hint>
+        <prompt>❓ What is "Grandfather" in Runyankole?</prompt>
+        <answer>✅ Shwenkuru</answer>
+        <options>Shwenkuru,Maawenkuru,Nyinenkuru,Taata,Maama,Ishenkuru,Kaka</options>
+    </question>
+    <question>
+        <id>217</id>
+        <hint>👵 Elder</hint>
+        <prompt>❓ How do you say "Grandmother" in Runyankole?</prompt>
+        <answer>✅ Maawenkuru</answer>
+        <options>Maawenkuru,Shwenkuru,Nyinenkuru,Kaka,Taata,Maama,Ishenkuru</options>
+    </question>
+    <question>
+        <id>218</id>
+        <hint>👫 Relationship</hint>
+        <prompt>❓ What is "Friend" in Runyankole?</prompt>
+        <answer>✅ Munywani</answer>
+        <options>Munywani,Mutaahi,Murungi,Mukundwa,Omugyenzi,Omuramu,Omuganda</options>
+    </question>
+    <question>
+        <id>219</id>
+        <hint>🤝 Relationship</hint>
+        <prompt>❓ How do you say "Neighbor" in Runyankole?</prompt>
+        <answer>✅ Mutaahi</answer>
+        <options>Mutaahi,Munywani,Murungi,Mukundwa,Omugyenzi,Omuramu,Omuganda</options>
+    </question>
+    <question>
+        <id>220</id>
+        <hint>🛡️ Society</hint>
+        <prompt>❓ What is "Clan" in Runyankole?</prompt>
+        <answer>✅ Ekika</answer>
+        <options>Orubanda,Orunyiriri,Omuryango,Eishaza,Eitongore,Ebyafaayo,Ekika</options>
+    </question>
+    <question>
+        <id>221</id>
+        <hint>👑 Leadership</hint>
+        <prompt>❓ What is "King" in Runyankole?</prompt>
+        <answer>✅ Omugabe</answer>
+        <options>Omugabe,Omukama,Omwami,Omukungu,Omukuru,Mukama,Omutwale</options>
+    </question>
+    <question>
+        <id>222</id>
+        <hint>⚔️ Warrior</hint>
+        <prompt>❓ What were ancient Ankole warriors called?</prompt>
+        <answer>✅ Abahuruzi</answer>
+        <options>Abaregye,Abashomi,Abashenye,Abataagi,Abahuruzi,Abahitsi,Abaraari</options>
+    </question>
+    <question>
+        <id>223</id>
+        <hint>🏛️ Traditional</hint>
+        <prompt>❓ Who was the second-in-command to the Ankole king?</prompt>
+        <answer>✅ Enganzi</answer>
+        <options>Enganzi,Omugabe,Omwami,Omukungu,Omukuru,Mukama,Omutwale</options>
+    </question>
+    <question>
+        <id>224</id>
+        <hint>🙏 Spiritual</hint>
+        <prompt>❓ What is "Witchcraft" in Runyankole?</prompt>
+        <answer>✅ Obufumu</answer>
+        <options>Obufumu,Oburogo,Okuraguza,Ebyago,Amahano,Omucwezi,Omurogi</options>
+    </question>
+    <question>
+        <id>225</id>
+        <hint>👻 Spiritual</hint>
+        <prompt>❓ What are "Ghosts" in Runyankole?</prompt>
+        <answer>✅ Emizimu</answer>
+        <options>Emizimu,Ebyago,Amahano,Oburogo,Obufumu,Emandwa,Abacwezi</options>
+    </question>
+    <question>
+        <id>226</id>
+        <hint>🌬️ Weather</hint>
+        <prompt>❓ What is "Wind" in Runyankole?</prompt>
+        <answer>✅ Omuyaga</answer>
+        <options>Omuyaga,Enjura,Ekibura,Eihunga,Akaraga,Orubuga,Ekikuba</options>
+    </question>
+    <question>
+        <id>227</id>
+        <hint>☁️ Weather</hint>
+        <prompt>❓ How do you say "Cloud" in Runyankole?</prompt>
+        <answer>✅ Ekibura</answer>
+        <options>Ekibura,Omuyaga,Enjura,Eihunga,Akaraga,Orubuga,Ekikuba</options>
+    </question>
+    <question>
+        <id>228</id>
+        <hint>🌤️ Weather</hint>
+        <prompt>❓ What is "Sunshine" in Runyankole?</prompt>
+        <answer>✅ Omushana</answer>
+        <options>Eizooba,Obushana,Omuyaga,Omushana,Enjura,Ekibura,Obubira</options>
+    </question>
+    <question>
+        <id>229</id>
+        <hint>🌑 Night</hint>
+        <prompt>❓ What is "Darkness" in Runyankole?</prompt>
+        <answer>✅ Omwirima</answer>
+        <options>Omwirima,Ekiro,Obwire,Omushana,Obushana,Orumuri,Ekizima</options>
+    </question>
+    <question>
+        <id>230</id>
+        <hint>🌠 Night sky</hint>
+        <prompt>❓ How do you say "Star" in Runyankole?</prompt>
+        <answer>✅ Enyonyoozi</answer>
+        <options>Omwezi,Eizooba,Ekibura,Omuyaga,Enjura,Enyonyoozi,Obushana</options>
+    </question>
+    <question>
+        <id>231</id>
+        <hint>🌙 Moon</hint>
+        <prompt>❓ What is "Moon" in Runyankole?</prompt>
+        <answer>✅ Omwezi</answer>
+        <options>Eizooba,Omwezi,Enyonyoozi,Ekibura,Omuyaga,Enjura,Obushana</options>
+    </question>
+    <question>
+        <id>232</id>
+        <hint>🏞️ Geography</hint>
+        <prompt>❓ What is "Hill" in Runyankole?</prompt>
+        <answer>✅ Ekicunga</answer>
+        <options>Ekicunga,Akabungo,Akarungu,Akabingo,Akacumu,Ekyanga,Omurungu</options>
+    </question>
+    <question>
+        <id>233</id>
+        <hint>🏞️ Geography</hint>
+        <prompt>❓ How do you say "Mountain" in Runyankole?</prompt>
+        <answer>✅ Orusolero</answer>
+        <options>Orusolero,Ekicunga,Akabungo,Akarungu,Ekyanga,Omurungu,Obusozi</options>
+    </question>
+    <question>
+        <id>234</id>
+        <hint>🏞️ Geography</hint>
+        <prompt>❓ What is "River" in Runyankole?</prompt>
+        <answer>✅ Omugyera</answer>
+        <options>Omugyera,Enyanja,Ekiziba,Ekyanga,Omujubwe,Ekishanga,Ekigoye</options>
+    </question>
+    <question>
+        <id>235</id>
+        <hint>🏞️ Geography</hint>
+        <prompt>❓ How do you say "Forest" in Runyankole?</prompt>
+        <answer>✅ Ekibira</answer>
+        <options>Ekibira,Ekishaka,Omugyera,Enyanja,Ekiziba,Ekyanga,Omujubwe</options>
+    </question>
+    <question>
+        <id>236</id>
+        <hint>🏠 Home</hint>
+        <prompt>❓ What is "Compound/Courtyard" called?</prompt>
+        <answer>✅ Orubuga</answer>
+        <options>Ekyanya,Omugongo,Omurimiro,Orutindo,Omuryango,Orubuga,Ekyoto</options>
+    </question>
+    <question>
+        <id>237</id>
+        <hint>🚪 Building part</hint>
+        <prompt>❓ How do you say "Door" in Runyankole?</prompt>
+        <answer>✅ Orwigi</answer>
+        <options>Edirisa,Ekishengye,Orwigi,Ekibuga,Orubaju,Ekikomo,Omwango</options>
+    </question>
+    <question>
+        <id>238</id>
+        <hint>🪟 Building part</hint>
+        <prompt>❓ What is "Window" in Runyankole?</prompt>
+        <answer>✅ Edirisa</answer>
+        <options>Edirisa,Orwigi,Ekishengye,Ekibuga,Orubaju,Ekikomo,Omwango</options>
+    </question>
+    <question>
+        <id>239</id>
+        <hint>🧱 Building material</hint>
+        <prompt>❓ What is "Brick" in Runyankole?</prompt>
+        <answer>✅ Eitafiari</answer>
+        <options>Eitafiari,Eibare,Obudongo,Ekishengye,Omuriro,Omucuucu,Ebigiriki</options>
+    </question>
+    <question>
+        <id>240</id>
+        <hint>⚫ Fuel</hint>
+        <prompt>❓ How do you say "Charcoal" in Runyankole?</prompt>
+        <answer>✅ Amakara</answer>
+        <options>Enku,Omuriro,Ekibura,Omushana,Amajuta,Amakara,Amazi</options>
+    </question>
+    <question>
+        <id>241</id>
+        <hint>🌫️ Residue</hint>
+        <prompt>❓ What is "Ash" in Runyankole?</prompt>
+        <answer>✅ Omuyonga</answer>
+        <options>Amakara,Enku,Omucuucu,Ebisi,Obusingo,Omuyonga,Orutare</options>
+    </question>
+    <question>
+        <id>242</id>
+        <hint>💵 Currency</hint>
+        <prompt>❓ What is "Money" in Runyankole?</prompt>
+        <answer>✅ Esente</answer>
+        <options>Esente,Empiiha,Ebyoma,Omutwaro,Emitwaro,Ebishare,Emaani</options>
+    </question>
+    <question>
+        <id>243</id>
+        <hint>💰 Wealth</hint>
+        <prompt>❓ What is "Wealth" in Runyankole?</prompt>
+        <answer>✅ Obukire</answer>
+        <options>Obukire,Obugagye,Obutungi,Obworo,Obunaku,Obusingye,Obugabe</options>
+    </question>
+    <question>
+        <id>244</id>
+        <hint>🤲 Action</hint>
+        <prompt>❓ How do you say "To Give" in Runyankole?</prompt>
+        <answer>✅ Okuha</answer>
+        <options>Okutwara,Okureeta,Okugura,Okuguza,Okuha,Okushaba,Okuhwera</options>
+    </question>
+    <question>
+        <id>245</id>
+        <hint>🛒 Action</hint>
+        <prompt>❓ What is "To Buy" in Runyankole?</prompt>
+        <answer>✅ Okugura</answer>
+        <options>Okugura,Okuha,Okutwara,Okureeta,Okuguza,Okushaba,Okuhwera</options>
+    </question>
+    <question>
+        <id>246</id>
+        <hint>💸 Action</hint>
+        <prompt>❓ How do you say "To Sell" in Runyankole?</prompt>
+        <answer>✅ Okuguza</answer>
+        <options>Okugura,Okuha,Okutwara,Okureeta,Okuguza,Okushaba,Okuhwera</options>
+    </question>
+    <question>
+        <id>247</id>
+        <hint>🗣️ Action</hint>
+        <prompt>❓ What is "To Speak" in Runyankole?</prompt>
+        <answer>✅ Okugamba</answer>
+        <options>Okubaza,Okushoma,Okuhandika,Okwebuuza,Okushaba,Okugamba,Okuhurikiza</options>
+    </question>
+    <question>
+        <id>248</id>
+        <hint>👂 Action</hint>
+        <prompt>❓ How do you say "To Hear" in Runyankole?</prompt>
+        <answer>✅ Okuhurira</answer>
+        <options>Okuhurira,Okugamba,Okubaza,Okushoma,Okuhandika,Okwebuuza,Okuhurikiza</options>
+    </question>
+    <question>
+        <id>249</id>
+        <hint>👁️ Action</hint>
+        <prompt>❓ What is "To See" in Runyankole?</prompt>
+        <answer>✅ Okureeba</answer>
+        <options>Okurora,Okushanga,Okubona,Okureeba,Okureeba,Okutunura,Okwegyesa</options>
+    </question>
+    <question>
+        <id>250</id>
+        <hint>🏃 Action</hint>
+        <prompt>❓ How do you say "To Run" in Runyankole?</prompt>
+        <answer>✅ Okwiruka</answer>
+        <options>Okwiruka,Okutambura,Okuguruka,Okugyenda,Okubuga,Okwangura,Okwehuuta</options>
+    </question>
 </questions>
