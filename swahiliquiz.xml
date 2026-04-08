@@ -48,7 +48,7 @@
         <hint>🦓 Striped African animal</hint>
         <prompt>❓ What is the Swahili word for "Zebra"?</prompt>
         <answer>✅ punda milia</answer>
-        <options>tembo,mbogo,nyati,swala,kifaru,twiga,punda milia</options>
+        <options>tembo,mbogo,nyati,swala,kifaru,twiga,punda, milia</options>
     </question>
     <question>
         <id>8</id>
