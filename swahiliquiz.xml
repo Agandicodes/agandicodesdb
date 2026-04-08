@@ -1830,4 +1830,379 @@
         <answer>✅ lugha</answer>
         <options>neno,lugha,maneno,hotuba,simulizi,hadithi,sauti</options>
     </question>
+    <!-- Animals (continued) -->
+        <question>
+        <id>251</id>
+        <hint>🐗 Wild pig with tusks</hint>
+        <prompt>❓ What is the Swahili word for "Warthog"?</prompt>
+        <answer>✅ ngiri</answer>
+        <options>ngiri,pongo,kiboko,nyati,swala,tembo,kifaru</options>
+    </question>
+    <question>
+        <id>252</id>
+        <hint>🦔 Spiny mammal</hint>
+        <prompt>❓ What is the Swahili word for "Hedgehog"?</prompt>
+        <answer>✅ kalunguyeye</answer>
+        <options>kalunguyeye,panya,sungura,kiboko,fisi,chui,duma</options>
+    </question>
+    <question>
+        <id>253</id>
+        <hint>🦎 Small reptile that sheds tail</hint>
+        <prompt>❓ What is the Swahili word for "Lizard"?</prompt>
+        <answer>✅ mjusi</answer>
+        <options>mjusi,gekko,chura,nyoka,mamba,kobe,kunguru</options>
+    </question>
+    <question>
+        <id>254</id>
+        <hint>🐢 Slow shelled reptile</hint>
+        <prompt>❓ What is the Swahili word for "Tortoise/Turtle"?</prompt>
+        <answer>✅ kobe</answer>
+        <options>kobe,mjusi,gekko,chura,nyoka,mamba,kunguru</options>
+    </question>
+    <question>
+        <id>255</id>
+        <hint>🐝 Flying insect that makes honey</hint>
+        <prompt>❓ What is the Swahili word for "Bee"?</prompt>
+        <answer>✅ nyuki</answer>
+        <options>nyuki,nzi,buibui,sungura,panzi,mbu,kereng'ende</options>
+    </question>
+
+    <!-- Fruits (continued) -->
+    <question>
+        <id>256</id>
+        <hint>🥥 Hairy brown fruit with white milk</hint>
+        <prompt>❓ What is the Swahili word for "Coconut"?</prompt>
+        <answer>✅ nazi</answer>
+        <options>nazi,fenesi,embe,ndizi,chungwa,papai,nanasi</options>
+    </question>
+    <question>
+        <id>257</id>
+        <hint>🍏 Sour green apple relative</hint>
+        <prompt>❓ What is the Swahili word for "Guava"?</prompt>
+        <answer>✅ pera</answer>
+        <options>pera,tufaha,pea,embe,ndizi,zabibu,fenesi</options>
+    </question>
+    <question>
+        <id>258</id>
+        <hint>🍊 Small tart citrus</hint>
+        <prompt>❓ What is the Swahili word for "Tangerine"?</prompt>
+        <answer>✅ chenza</answer>
+        <options>chenza,chungwa,limau,nanasi,embe,ndizi,papai</options>
+    </question>
+
+    <!-- Numbers 13-20 -->
+    <question>
+        <id>259</id>
+        <hint>🔢 Thirteen</hint>
+        <prompt>❓ What is the Swahili word for "Thirteen"?</prompt>
+        <answer>✅ kumi na tatu</answer>
+        <options>tatu,mbili,moja,nne,tano,sita,saba,nane,kumi,na,tisa</options>
+    </question>
+    <question>
+        <id>260</id>
+        <hint>🔢 Fourteen</hint>
+        <prompt>❓ What is the Swahili word for "Fourteen"?</prompt>
+        <answer>✅ kumi na nne</answer>
+        <options>kumi,na,nne,moja,mbili,tatu,tano,sita,saba,nane,tisa</options>
+    </question>
+    <question>
+        <id>261</id>
+        <hint>🔢 Fifteen</hint>
+        <prompt>❓ What is the Swahili word for "Fifteen"?</prompt>
+        <answer>✅ kumi na tano</answer>
+        <options>tano,moja,mbili,kumi,na,tatu,nne,sita,saba,nane,tisa</options>
+    </question>
+    <question>
+        <id>262</id>
+        <hint>🔢 Sixteen</hint>
+        <prompt>❓ What is the Swahili word for "Sixteen"?</prompt>
+        <answer>✅ kumi na sita</answer>
+        <options>kumi,na,sita,moja,mbili,tatu,nne,tano,saba,nane,tisa</options>
+    </question>
+    <question>
+        <id>263</id>
+        <hint>🔢 Seventeen</hint>
+        <prompt>❓ What is the Swahili word for "Seventeen"?</prompt>
+        <answer>✅ kumi na saba</answer>
+        <options>kumi,na,saba,moja,mbili,tatu,nne,tano,sita,nane,tisa</options>
+    </question>
+    <question>
+        <id>264</id>
+        <hint>🔢 Eighteen</hint>
+        <prompt>❓ What is the Swahili word for "Eighteen"?</prompt>
+        <answer>✅ kumi na nane</answer>
+        <options>kumi,na,nane,moja,mbili,tatu,nne,tano,sita,saba,tisa</options>
+    </question>
+    <question>
+        <id>265</id>
+        <hint>🔢 Nineteen</hint>
+        <prompt>❓ What is the Swahili word for "Nineteen"?</prompt>
+        <answer>✅ kumi na tisa</answer>
+        <options>kumi,na,tisa,moja,mbili,tatu,nne,tano,sita,saba,nane</options>
+    </question>
+
+    <!-- Verbs (continued) -->
+    <question>
+        <id>266</id>
+        <hint>💃 Dancing action</hint>
+        <prompt>❓ What is the Swahili word for "To Dance"?</prompt>
+        <answer>✅ kucheza ngoma</answer>
+        <options>kucheza,ngoma,kuimba,kuruka,kukimbia,kuogelea,kupanda</options>
+    </question>
+    <question>
+        <id>267</id>
+        <hint>😄 Laughing action</hint>
+        <prompt>❓ What is the Swahili word for "To Laugh"?</prompt>
+        <answer>✅ kucheka</answer>
+        <options>kucheka,kulia,kuimba,kusema,kuongea,kupenda,kuchukia</options>
+    </question>
+    <question>
+        <id>268</id>
+        <hint>😢 Crying action</hint>
+        <prompt>❓ What is the Swahili word for "To Cry"?</prompt>
+        <answer>✅ kulia</answer>
+        <options>kulia,kucheka,kuimba,kusema,kuongea,kupenda,kuchukia</options>
+    </question>
+    <question>
+        <id>269</id>
+        <hint>🛒 To cook/prepare food</hint>
+        <prompt>❓ What is the Swahili word for "To Cook"?</prompt>
+        <answer>✅ kupika</answer>
+        <options>kupika,kula,kunywa,kuandaa,kuchoma,kuchemsha,kukaanga</options>
+    </question>
+    <question>
+        <id>270</id>
+        <hint>🧹 To clean action</hint>
+        <prompt>❓ What is the Swahili word for "To Clean"?</prompt>
+        <answer>✅ kusafisha</answer>
+        <options>kusafisha,kufagia,kuosha,kupanga,kuweka,kuchukua,kutoa</options>
+    </question>
+
+    <!-- Household (continued) -->
+    <question>
+        <id>271</id>
+        <hint>🛋️ Comfortable seating</hint>
+        <prompt>❓ What is the Swahili word for "Sofa/Couch"?</prompt>
+        <answer>✅ sofa</answer>
+        <options>sofa,kiti,kitanda,meza,kabati,samani,friji</options>
+    </question>
+    <question>
+        <id>272</id>
+        <hint>🚪 Outside area of house</hint>
+        <prompt>❓ What is the Swahili word for "Yard/Compound"?</prompt>
+        <answer>✅ ua</answer>
+        <options>ua,nyumba,bustani,shamba,baraza,geti,ukuta</options>
+    </question>
+    <question>
+        <id>273</id>
+        <hint>🍳 Cooking surface</hint>
+        <prompt>❓ What is the Swahili word for "Stove"?</prompt>
+        <answer>✅ jiko</answer>
+        <options>jiko,tanuri,friji,meza,kabati,kiti,samani</options>
+    </question>
+    <question>
+        <id>274</id>
+        <hint>🧺 Storing clothes</hint>
+        <prompt>❓ What is the Swahili word for "Wardrobe/Cabinet"?</prompt>
+        <answer>✅ kabati</answer>
+        <options>kabati,samani,friji,jiko,meza,kitanda,kiti</options>
+    </question>
+
+    <!-- Weather (continued) -->
+    <question>
+        <id>275</id>
+        <hint>🌡️ Temperature measure</hint>
+        <prompt>❓ What is the Swahili word for "Heat"?</prompt>
+        <answer>✅ joto</answer>
+        <options>joto,baridi,moto,uvuguvugu,jua,mwanga,giza</options>
+    </question>
+    <question>
+        <id>276</id>
+        <hint>💧 Moisture in air</hint>
+        <prompt>❓ What is the Swahili word for "Humidity"?</prompt>
+        <answer>✅ unyevu</answer>
+        <options>unyevu,joto,baridi,mvua,maji,ukungu,umeme</options>
+    </question>
+    <question>
+        <id>277</id>
+        <hint>🌀 Spinning wind storm</hint>
+        <prompt>❓ What is the Swahili word for "Tornado/Cyclone"?</prompt>
+        <answer>✅ kimbunga</answer>
+        <options>kimbunga,tufani,upepo,mvua,radi,umeme,ukungu</options>
+    </question>
+
+    <!-- Emotions (continued) -->
+    <question>
+        <id>278</id>
+        <hint>😲 Surprise</hint>
+        <prompt>❓ What is the Swahili word for "Surprise"?</prompt>
+        <answer>✅ mshangao</answer>
+        <options>mshangao,shangwe,furaha,huzuni,hasira,hofu,chuki</options>
+    </question>
+    <question>
+        <id>279</id>
+        <hint>😖 Disgust</hint>
+        <prompt>❓ What is the Swahili word for "Disgust"?</prompt>
+        <answer>✅ karaha</answer>
+        <options>karaha,chuki,hasira,huzuni,hofu,mshangao,furaha</options>
+    </question>
+    <question>
+        <id>280</id>
+        <hint>😌 Calm/Peaceful</hint>
+        <prompt>❓ What is the Swahili word for "Calm"?</prompt>
+        <answer>✅ utulivu</answer>
+        <options>utulivu,amani,salama,radhi,tulivu,nyamavu,baridi</options>
+    </question>
+
+    <!-- School/Office Items -->
+    <question>
+        <id>281</id>
+        <hint>📏 Measuring tool</hint>
+        <prompt>❓ What is the Swahili word for "Ruler"?</prompt>
+        <answer>✅ rula</answer>
+        <options>rula,kalamu,karatasi,kitabu,dafutari,fomu,shajara</options>
+    </question>
+    <question>
+        <id>282</id>
+        <hint>📓 Notebook</hint>
+        <prompt>❓ What is the Swahili word for "Notebook"?</prompt>
+        <answer>✅ daftari</answer>
+        <options>daftari,kitabu,shajara,fomu,karatasi,kalamu,rula</options>
+    </question>
+    <question>
+        <id>283</id>
+        <hint>✂️ Cutting tool</hint>
+        <prompt>❓ What is the Swahili word for "Scissors"?</prompt>
+        <answer>✅ mkasi</answer>
+        <options>mkasi,kisu,uma,kijiko,sahani,bakuli,glasi</options>
+    </question>
+    <question>
+        <id>284</id>
+        <hint>🖍️ Coloring tool</hint>
+        <prompt>❓ What is the Swahili word for "Crayon/Chalk"?</prompt>
+        <answer>✅ rangi</answer>
+        <options>rangi,kalamu,mkasi,rula,karatasi,daftari,shajara</options>
+    </question>
+
+    <!-- Nature (continued) -->
+    <question>
+        <id>285</id>
+        <hint>🏝️ Land surrounded by water</hint>
+        <prompt>❓ What is the Swahili word for "Island"?</prompt>
+        <answer>✅ kisiwa</answer>
+        <options>kisiwa,bahari,ziwa,mto,mlima,bonde,uwanja</options>
+    </question>
+    <question>
+        <id>286</id>
+        <hint>🏜️ Sandy dry area</hint>
+        <prompt>❓ What is the Swahili word for "Desert"?</prompt>
+        <answer>✅ jangwa</answer>
+        <options>jangwa,nyika,savanna,mlima,bonde,mwamba,pori</options>
+    </question>
+    <question>
+        <id>287</id>
+        <hint>🌋 Exploding mountain</hint>
+        <prompt>❓ What is the Swahili word for "Volcano"?</prompt>
+        <answer>✅ volkeno</answer>
+        <options>volkeno,mlima,moto,moshi,mawe,lava,barafu</options>
+    </question>
+    <question>
+        <id>288</id>
+        <hint>❄️ Frozen water</hint>
+        <prompt>❓ What is the Swahili word for "Ice"?</prompt>
+        <answer>✅ barafu</answer>
+        <options>barafu,maji,baridi,mvua,theluji,ua,umande</options>
+    </question>
+    <question>
+        <id>289</id>
+        <hint>🌾 Grain plant</hint>
+        <prompt>❓ What is the Swahili word for "Maize/Corn"?</prompt>
+        <answer>✅ mahindi</answer>
+        <options>mahindi,mpunga,ngano,mtama,viazi,maharagwe,mbaazi</options>
+    </question>
+
+    <!-- Shopping (continued) -->
+    <question>
+        <id>290</id>
+        <hint>💳 Receipt</hint>
+        <prompt>❓ What is the Swahili word for "Receipt"?</prompt>
+        <answer>✅ risiti</answer>
+        <options>risiti,bei,pesa,malipo,hesabu,karatasi,kodi</options>
+    </question>
+    <question>
+        <id>291</id>
+        <hint>🛍️ Shopping bag</hint>
+        <prompt>❓ What is the Swahili word for "Bag"?</prompt>
+        <answer>✅ mfuko</answer>
+        <options>mfuko,begi,kapu,kikapu,mkoba,gunia,jaketi</options>
+    </question>
+
+    <!-- Occupations (continued) -->
+    <question>
+        <id>292</id>
+        <hint>🎨 Artist</hint>
+        <prompt>❓ What is the Swahili word for "Artist"?</prompt>
+        <answer>✅ msanii</answer>
+        <options>msanii,mchoraji,mshani,mwimbaji,mwanamuziki,daktari,mwalimu</options>
+    </question>
+    <question>
+        <id>293</id>
+        <hint>🚚 Driver</hint>
+        <prompt>❓ What is the Swahili word for "Driver"?</prompt>
+        <answer>✅ dereva</answer>
+        <options>dereva,rubani,mhandisi,daktari,mwalimu,wakili,mpishi</options>
+    </question>
+    <question>
+        <id>294</id>
+        <hint>🏗️ Builder</hint>
+        <prompt>❓ What is the Swahili word for "Builder/Constructor"?</prompt>
+        <answer>✅ mjenzi</answer>
+        <options>mjenzi,seremala,fundi,mhandisi,mwalimu,daktari,wakili</options>
+    </question>
+
+    <!-- Body Parts (continued) -->
+    <question>
+        <id>295</id>
+        <hint>🫁 Breathing organ</hint>
+        <prompt>❓ What is the Swahili word for "Lungs"?</prompt>
+        <answer>✅ mapafu</answer>
+        <options>mapafu,moyo,figo,ubongo,tumbo,ini,matumbo</options>
+    </question>
+    <question>
+        <id>296</id>
+        <hint>🍽️ Stomach</hint>
+        <prompt>❓ What is the Swahili word for "Stomach"?</prompt>
+        <answer>✅ tumbo</answer>
+        <options>tumbo,nyongo,figo,mapafu,moyo,ubongo,ini</options>
+    </question>
+    <question>
+        <id>297</id>
+        <hint>🦷 Tooth (singular)</hint>
+        <prompt>❓ What is the Swahili word for "Tooth"?</prompt>
+        <answer>✅ jino</answer>
+        <options>jino,meno,ulimi,mdomo,midomo,meno ya mbele,meno ya nyuma</options>
+    </question>
+
+    <!-- Miscellaneous / Useful Phrases -->
+    <question>
+        <id>298</id>
+        <hint>🚻 Restroom</hint>
+        <prompt>❓ What is the Swahili word for "Toilet"?</prompt>
+        <answer>✅ choo</answer>
+        <options>choo,bafu,msala,nyumba,chumba,mlango,dirisha</options>
+    </question>
+    <question>
+        <id>299</id>
+        <hint>🆘 Help</hint>
+        <prompt>❓ What is the Swahili word for "Help"?</prompt>
+        <answer>✅ msaada</answer>
+        <options>msaada,saidi,neema,afya,heri,furaha,amani</options>
+    </question>
+    <question>
+        <id>300</id>
+        <hint>🔁 Again/Also</hint>
+        <prompt>❓ What is the Swahili word for "Again/Also"?</prompt>
+        <answer>✅ tena</answer>
+        <options>tena,pia,sawa,zaidi,kama,hivyo,vilevile</options>
+    </question>
 </questions>
