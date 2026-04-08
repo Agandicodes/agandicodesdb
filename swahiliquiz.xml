@@ -10,7 +10,7 @@
     </question>
     <question>
         <id>2</id>
-        <hint>🐕 Loyal pet</hinit>
+        <hint>🐕 Loyal pet</hint>
         <prompt>❓ What is the Swahili word for "Dog"?</prompt>
         <answer>✅ mbwa</answer>
         <options>ng'ombe,farasi,punda,kondoo,mbwa,mbuzi,paka</options>
