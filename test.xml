@@ -8,4 +8,81 @@
         <answer>✅ ng'ombe</answer>
         <options>kuku,nguruwe,mbuzi,bweha,ng'ombe,punda,kondoo</options>
     </question>
+    <question>
+        <id>2</id>
+        <hint>🐕 Loyal pet</hint>
+        <prompt>❓ What is the Swahili word for "Dog"?</prompt>
+        <answer>✅ mbwa</answer>
+        <options>ng'ombe,farasi,punda,kondoo,mbwa,mbuzi,paka</options>
+    </question>
+    <question>
+        <id>3</id>
+        <hint>🐈 Independent pet</hint>
+        <prompt>❓ What is the Swahili word for "Cat"?</prompt>
+        <answer>✅ paka</answer>
+        <options>kuku,simba,mbuzi,chui,paka,mbwa,ng'ombe</options>
+    </question>
+    <question>
+        <id>4</id>
+        <hint>🐐 Produces milk and meat</hint>
+        <prompt>❓ What is the Swahili word for "Goat"?</prompt>
+        <answer>✅ mbuzi</answer>
+        <options>paka,mbuzi,ng'ombe,mbwa,kuku,kondoo,nguruwe</options>
+    </question>
+    <question>
+        <id>5</id>
+        <hint>🐑 Provides wool</hint>
+        <prompt>❓ What is the Swahili word for "Sheep"?</prompt>
+        <answer>✅ kondoo</answer>
+        <options>mbuzi,punda,farasi,nguruwe,ng'ombe,kondoo,mbwa</options>
+    </question>
+    <question>
+        <id>6</id>
+        <hint>🐎 Used for riding</hint>
+        <prompt>❓ What is the Swahili word for "Horse"?</prompt>
+        <answer>✅ farasi</answer>
+        <options>pongo,ngamia,farasi,mbuzi,punda,kondoo,ng'ombe</options>
+    </question>
+    <question>
+        <id>7</id>
+        <hint>🦓 Striped African animal</hint>
+        <prompt>❓ What is the Swahili word for "Zebra"?</prompt>
+        <answer>✅ punda milia</answer>
+        <options>tembo,mbogo,nyati,swala,kifaru,twiga,punda,milia</options>
+    </question>
+    <question>
+        <id>8</id>
+        <hint>🦒 Long neck animal</hint>
+        <prompt>❓ What is the Swahili word for "Giraffe"?</prompt>
+        <answer>✅ twiga</answer>
+        <options>kiboko,nyati,fisi,kifaru,swala,twiga,tembo</options>
+    </question>
+    <question>
+        <id>9</id>
+        <hint>🦏 Horned African animal</hint>
+        <prompt>❓ What is the Swahili word for "Rhinoceros"?</prompt>
+        <answer>✅ kifaru</answer>
+        <options>twiga,fisi,kiboko,nyati,kifaru,swala,tembo</options>
+    </question>
+    <question>
+        <id>10</id>
+        <hint>🐘 Largest land animal</hint>
+        <prompt>❓ What is the Swahili word for "Elephant"?</prompt>
+        <answer>✅ tembo</answer>
+        <options>chui,fisi,tembo,simba,nyati,twiga,kifaru</options>
+    </question>
+    <question>
+        <id>11</id>
+        <hint>🦁 King of the jungle</hint>
+        <prompt>❓ What is the Swahili word for "Lion"?</prompt>
+        <answer>✅ simba</answer>
+        <options>duma,chui,nyati,simba,twiga,fisi,swala</options>
+    </question>
+    <question>
+        <id>12</id>
+        <hint>🐆 Spotted big cat</hint>
+        <prompt>❓ What is the Swahili word for "Leopard"?</prompt>
+        <answer>✅ chui</answer>
+        <options>mbwa mwitu,simba,duma,chui,nguchiro,nyati,fisi</options>
+    </question>
 <questions>
