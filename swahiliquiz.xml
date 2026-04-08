@@ -10,7 +10,7 @@
     </question>
     <question>
         <id>2</id>
-        <hint>🐕 Loyal pet</hint>
+        <hint>🐕 Loyal pet</hinit>
         <prompt>❓ What is the Swahili word for "Dog"?</prompt>
         <answer>✅ mbwa</answer>
         <options>ng'ombe,farasi,punda,kondoo,mbwa,mbuzi,paka</options>
@@ -48,7 +48,7 @@
         <hint>🦓 Striped African animal</hint>
         <prompt>❓ What is the Swahili word for "Zebra"?</prompt>
         <answer>✅ punda milia</answer>
-        <options>tembo,mbogo,nyati,swala,kifaru,twiga,punda, milia</options>
+        <options>tembo,mbogo,nyati,swala,kifaru,twiga,punda,milia</options>
     </question>
     <question>
         <id>8</id>
@@ -292,28 +292,28 @@
         <hint>👋 Morning greeting</hint>
         <prompt>❓ What is the Swahili greeting for "Good morning"?</prompt>
         <answer>✅ habari za asubuhi</answer>
-        <options>habari za jioni,habari za mchana,habari za asubuhi,mambo,hujambo,habari za usiku,salama</options>
+        <options>habari,za,asubuhi,mchana,jioni,usiku,jambo,salama,hujambo</options>
     </question>
     <question>
         <id>42</id>
         <hint>🌞 Afternoon greeting</hint>
         <prompt>❓ What is the Swahili greeting for "Good afternoon"?</prompt>
         <answer>✅ habari za mchana</answer>
-        <options>habari za mchana,habari za asubuhi,mambo,salama,habari za jioni,hujambo,habari za usiku</options>
+        <options>habari,za,mchana,asubuhi,jioni,usiku,jambo,salama,hujambo</options>
     </question>
     <question>
         <id>43</id>
         <hint>🌙 Evening greeting</hint>
         <prompt>❓ What is the Swahili greeting for "Good evening"?</prompt>
         <answer>✅ habari za jioni</answer>
-        <options>habari za mchana,habari za jioni,jambo,salama,habari za usiku,hujambo,habari za asubuhi</options>
+        <options>habari,za,jioni,mchana,asubuhi,usiku,jambo,salama,hujambo</options>
     </question>
     <question>
         <id>44</id>
         <hint>🌃 Night greeting</hint>
         <prompt>❓ What is the Swahili greeting for "Good night"?</prompt>
         <answer>✅ habari za usiku</answer>
-        <options>usiku mwema,habari za usiku,lala salama,habari za asubuhi,habari za mchana,habari za jioni,salama</options>
+        <options>habari,za,usiku,asubuhi,mchana,jioni,jambo,salama,hujambo</options>
     </question>
     <question>
         <id>45</id>
@@ -399,7 +399,7 @@
         <hint>⚪ Snow color</hint>
         <prompt>❓ What is the Swahili word for "White"?</prompt>
         <answer>✅ nyeupe</answer>
-        <options>nyeusi,nyeup zambarau,nyekundu,buluu,njano,kijani</options>
+        <options>nyeusi,nyeupe,zambarau,nyekundu,buluu,njano,kijani</options>
     </question>
     <question>
         <id>57</id>
@@ -1361,7 +1361,7 @@
         <hint>🍉 Large green melon</hint>
         <prompt>❓ What is the Swahili word for "Watermelon"?</prompt>
         <answer>✅ tikiti maji</answer>
-        <options>fenesi,tikiti maji,nanasi,papai,embe,ndizi,chungwa</options>
+        <options>fenesi,tikiti,maji,nanasi,papai,embe,ndizi,chungwa</options>
     </question>
     <question>
         <id>189</id>
@@ -1377,14 +1377,14 @@
         <hint>🔢 Eleven</hint>
         <prompt>❓ What is the Swahili word for "Eleven"?</prompt>
         <answer>✅ kumi na moja</answer>
-        <options>kumi na moja,kumi na mbili,kumi na tatu,kumi na nne,kumi na tano,kumi na sita,kumi na saba</options>
+        <options>kumi,na,moja,mbili,tatu,nne,tano,sita,saba,nane,tisa</options>
     </question>
     <question>
         <id>191</id>
         <hint>🔢 Twelve</hint>
         <prompt>❓ What is the Swahili word for "Twelve"?</prompt>
         <answer>✅ kumi na mbili</answer>
-        <options>kumi na tatu,kumi na nne,kumi na tano,kumi na sita,kumi na saba,kumi na nane,kumi na mbili</options>
+        <options>kumi,na,mbili,moja,tatu,nne,tano,sita,saba,nane,tisa</options>
     </question>
     <question>
         <id>192</id>
@@ -1474,7 +1474,7 @@
         <hint>🧅 Pungent bulb</hint>
         <prompt>❓ What is the Swahili word for "Onion"?</prompt>
         <answer>✅ kitunguu</answer>
-        <options>kitunguu saumu,kitunguu,nyanya,pilipili,karoti,hiliki,mboga</options>
+        <options>kitunguu,saumu,nyanya,pilipili,karoti,hiliki,mboga,viazi</options>
     </question>
 
     <!-- Body Parts (continued) -->
@@ -1631,7 +1631,7 @@
         <hint>🌈 Rainbow</hint>
         <prompt>❓ What is the Swahili word for "Rainbow"?</prompt>
         <answer>✅ upinde wa mvua</answer>
-        <options>nyota,upinde wa mvua,mwezi,jua,mawingu,ukungu,radi</options>
+        <options>nyota,upinde,wa,mvua,mwezi,jua,mawingu,ukungu,radi</options>
     </question>
 
     <!-- Family (continued) -->
@@ -1822,7 +1822,6 @@
         <answer>✅ magharibi</answer>
         <options>kaskazini,kusini,mashariki,magharibi,kati,juu,chini</options>
     </question>
-
     <!-- Miscellaneous -->
     <question>
         <id>250</id>
