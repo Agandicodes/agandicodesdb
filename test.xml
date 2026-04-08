@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <!-- Animals Category -->
+    <question>
+        <id>1</id>
+        <hint>🐄 Domestic animal for milk/meat</hint>
+        <prompt>❓ What is the Swahili word for "Cow"?</prompt>
+        <answer>✅ ng'ombe</answer>
+        <options>kuku,nguruwe,mbuzi,bweha,ng'ombe,punda,kondoo</options>
+    </question>
+<questions>
